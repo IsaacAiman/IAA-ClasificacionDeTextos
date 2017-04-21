@@ -1,0 +1,993 @@
+In Matlab, how do I change the background color of a subplot?
+What is matlab good for? Why is it so used by universities? When is it better than python?
+Running on 32 or 64 bit matlab?
+Best Matlab toolbox that implements Support Vector Regression?
+Read and write from/to a binary file in Matlab
+Plot a data series beneath another one
+License to Distribute Matlab code
+How to set some custom variables on Matlab startup
+What's the best way to iterate through elements of a matrix in Matlab?
+Saving matlab sparse matrix to text file
+Fixing the Radial Axis on MATLAB Polar Plots
+Correctly over-loading a stringbuf to replace cout in a MATLAB mex file
+Porting matlab functions to scilab. How to use symbolic?
+Matlab copy constructor
+Thread safety of Matlab engine API
+Reading text values into matlab variables from ASCII files
+In Matlab, how to change axis orientation?
+How to create a GUI inside a function in Matlab?
+MATLAB class array
+Find class probabilities in matlab PNN and make ROC plot
+Handling large amount of structures in MATLAB
+Matlab multiplication of 2 vectors error
+Is there an easy way to provide a Matlab-based Web App or Web Service?
+Differences between matlab and comsol script?
+MATLAB "C" DLL Errors
+How to automate Matlab/Simulink/Real-TimeWorkshop  code generation?
+Why does com.mysql.jdbc.Driver take forever to open in MATLAB?
+Why is caching answers taking LONGER in MATLAB?
+MATLAB: Using ODE solvers?
+Is there any way to silence the 'hold' function in Matlab
+Looking for Matlab to F#/C# Script Convertor
+MATLAB settings - stop if errors
+Problems with Matlab javabuilder and memory
+Is there a foreach in Matlab?  If so, how does it behave if the underlying data changes?
+Binning in matlab
+Function names and parameters in matlab variables
+Better (non-linear) binning
+How to draw a SURF graph without black edges in Matlab?
+How to create a new figure in Matlab?
+How to draw (semi-)logarithmic 3d plots? (Matlab)
+How to get a beautiful color scale on (semi-)logarithmic 3d plots on Matlab?
+Help me understand FFT function (Matlab)
+Interoperating between Matlab and C#
+Storing MATLAB structs in Java objects
+What is MATLAB? Does it generate executables?
+Strange classes passed from matlab to java
+Array of Matrices in MATLAB
+MATLAB: how to locate the nth appeared number in a loop?
+How to check if a figure is opened and how to close it?
+Packages in MatLab for a beginner?
+How do I set a surf to one color (no gradient) in my matlab-plot?
+Performance of swapping two elements in MatLab
+Passing a milliom numbers from java to matlab?
+Is there a way to call a subfunction while in cell mode in matlab?
+How to plot large data vectors accurately at all zoom levels in real time?
+How to add "help"-text to a mex-function?
+How do I connect a curve of fixed length between two points in space using Matlab?
+How to load a c++ dll file into Matlab
+free matlab environment
+matlab: delete elements from matrix
+Curve Fitting
+Matlab symbolic toolbox: What's wrong with my code?
+MatLab: get variable type
+Modify an Excel sheet from Matlab
+Matlab: preallocate a non-numeric vector?
+Write a figure to a file automatically in MATLAB
+Specifying the filename of print using a variable
+Convert CRC check from Matlab to c#
+Check each pixel for a specific colour (within a certain threshold)
+Stumped trying to implement Save/Load object functionality in a MATLAB UI
+how to pass a java object as a parameter to a matlab function
+At compilation, "kamran" was determined to be a variable and this variable is uninitialized.  "kamran" is also a function name and previous versions of MATLAB  would have called the function.
+how to determine a matrix is empty or not in matlab programming?
+Why does my MATLAB (R2008a) object's class change on a save/load cycle?
+How to apply moving windows to a 2D matrix in MATLAB?
+MATLAB: what's the most elegant way to delete known element in matrix?
+MATLAB: Why 24.0000 is not equal to 24.0000  ?!!!
+In MATLAB, what ASCII characters are allowed to be in a function name?
+How do I combine setting axes limits and zooming in a MATLAB plot?
+Can we count MATLAB as programming language?
+Multi-Dimension any()
+Matlab object array method dispatching
+Matlab: "Too many Input Arguments" when not passing any!
+Matlab Fraction to Floating Point
+nargin vs exist
+Matlab on cmd (winxp)
+How to elegantly ignore some return values of a Matlab function?
+iterate through each cell in an n-dimensional matrix in MATLAB
+problem with MATLAB imread()
+Matlab subclassing question
+Problem with Array type "DAMPAR" in MATLAB deconvolucy.m
+Editing checkboxes in a Matlab GUI
+Matlab / Java API callback
+Appending a vector to an empty matlab matrix
+how to sketch a polygon in a matrix or binary image in order to use image processing functions?
+Compact matlab matrix indexing notation
+How to resize a matrix in matlab
+Default Arguments in Matlab
+Piecewise Inline Function in Matlab
+function handle in MATLAB
+How to magnify/stretch a texture with Matlab Psychtoolbox (OpenGL)?
+need for tool for video processing
+Create a buffer in matlab
+I have finished C. Should I learn Matlab next?
+Neural network XOR backpropagation info needed.
+Turning a matlab binary matrix into a vector of the last nonzero index in a fast, vectorized fashion
+Elementwise ifs in matlab - do they exist?
+Finding an approximate local maximas with noisy data in Matlab
+Multiple matrices in matlab without recursion
+Match overlapping patterns with capture using a MATLAB regular expression
+Matlab get file size
+running old mex file on new matlab releases
+Detect matlab processes from within matlab
+matlab Bucketing Algorithm Help
+How to determine where a number is printing from in matlab?
+Sharing memory between processes [matlab]
+Count struct properties in MATLAB
+How to solve symbolic equation with double coefficients in matlab?
+Value of uninitialized persistent variable in MATLAB
+memory management problem in mexFunction
+lists find algorithm
+Matlab compiler runtime library
+Import ITK/VTK into Matlab or Matlab into VTK/ITK environment?
+PWM/clock signal generation from a USB-1024HLS DAQ board
+Whay was writtem matlab in C instead of Fortran?
+How to plot a nonlinear system of 3 equations with 3 symbolic variables in matlab?
+How to format a matrix for saving
+Comparing two matrices in Matlab
+MatLab recursion error (beginner)
+MATLAB "bug" (or really weird behavior)
+How to clear the console in Matlab
+Putting together a big stiffness matrix from several small ones
+Why do I receive a "Out of Windows Resources" warning when I open numerous figure windows in MATLAB [7.0 (R14) and beyond] on a Microsoft Windows PC?
+How do I choose computer hardware which best optimizes the performance of MATLAB?
+How do I plot to an image and save result without displaying it, in matlab
+How to update a matlab GUI in the background?
+Hooking into MATLAB to evaluate symbolic derivatives from C code
+How to draw different surfaces with the same colormap in Matlab
+Am I using histc wrong, or it this matlab's fault?
+How can I create a triangular matrix based on a vector, in MATLAB?
+Getting matlab timer to update matlab GUIDE gui?
+mrdivide function in Matlab- what is it doing and how to do it in Python?
+Displaying information from matalb without a line feed
+Calculating hamming weight efficiently in matlab
+Vector to Matrix syntax in Matlab...
+Segmentation fault operating a camera with MATLAB
+How to represent a polygon with hole(s) ?
+Matlab - add a plot to a hist
+How to get Matlab to recognise newly added static methods?
+Data streaming in Matlab with input data coming in from a C++ executable
+What's the best MATLAB equivalent? (open source or otherwise free)
+Parallel Matalb and logging
+Dynamically add fields to Matlab GUI?
+How do you handle resources in Matlab in an exception safe manner?
+How to read text fields into MATLAB and create a single matrix
+How to program MATLAB's GUI
+Applying Matlab's idwt2 several times
+matlab: collect from array of structs
+Determine location of a java class loaded by Matlab
+Matlab converting a vector values to uint32
+Variable length MATLAB arguments read from variable
+Accessing values using subscripts without using sub2ind
+Recommended books and resources for learning Matlab
+Reading images from file in MATLAB
+Accelerating saving plot figures as bitmap image  in MATLAB
+Reading or loading images from file synchronously in MATLAB.
+MATLAB + JNI = error?
+MATLAB Mex interface to a class object with multiple functions
+how do I best/easiest index my matlab (.m) files?
+MATLAB ismember() problem
+Discrete Wavelet Transformation
+java.lang.UnsatisfiedLinkError: Native Library {____.dll} already loaded in another classloader
+Speedup Matlab to C++ Conversion
+Reverse Spectrogram A La Aphex Twin in MATLAB
+How do I use user defined Java classes within Matlab ?
+Do I conserve memory in MATLAB by declaring variables global instead of passing them as arguments?
+Java/JAXB error in Matlab when using unmarshal function
+Is it possible to provide default value for subscripting in Matlab?
+Renaming files in Matlab
+Matlab: string finding
+Matlab "out of memory" error
+How do I emulate 'include' behaviour in Matlab?
+matlab:find the 4th vertice of a parallelogram
+Matlab - Neural network training
+Running a Javascript command from Matlab to fetch a PDF file
+Matlab Magical Mystery timing behavior
+How do I provide a username/password to access a web resource using Matlab urlread/urlwrite?
+MATLAB functions in C++
+Run-time error '-2147352567 (80020009)'
+How to generate a random real symmetric square matrix with uniformly distributed entries
+Makefile Error in Matlab Real-Time Workshop
+Splitting data into trainning/testing datasets in MATLAB?
+Matlab:K-means clustering
+enum in matlab
+MATLAB: split long 2D matrix into the third dimension
+Source Control for Matlab
+Annotating Charts in Matlab
+MATLAB Subplot Export
+MATLAB testing framework
+Why is Matlab's inv slow and inaccurate ?
+Finding a specific character in a string in Matlab
+Matlab strcat function troubles with spaces
+Get all pixel coordinates of a vector inside a image
+How do you output a line break in the command view in Matlab when running a m-file?
+How do I update the matlab path?
+Matlab's Garbage Collector
+Sound Generation
+How to print an array to a .txt file in Matlab?
+How to read input from a text file in Matlab?
+How to make Matlab xUnit work on Matlab R2008b (7.7)?
+Print a string in matlab in color
+Matlab Polymorphism question
+MATLAB: function makes 4 recursive calls. I have a 4-core processor. Can I parallelize?
+MATLAB gui loads old settings
+Does Matlab handle USB communication?
+Crossing axis and labels in matlab
+Image Acquisition using Matlab at timed intervals
+There is a Matlab editor/plugin/version with better code completion ?
+How do I abort a MATLAB m-file function from C/C++?
+How to pass multiple parameters to tests that share the same setup code in Matlab xUnit?
+How do I go from 1.4795e+004 to 14795.00 ??
+matlab and linux
+Neural Network Input Bias in MATLAB
+How to show x and y axes in Matlab graph?
+Anfis with sugeno fuzzy model using matlab
+read data into matlab from textfile
+How to use aryule() in Matlab to extend a number series?
+Can I use Matrix Vision frame grabbers with Matlab?
+How to abort a running program in Matlab?
+How to use SIFT algorithm to compute how similiar two images are?
+Real-time data in Matlab
+How to plot triangles on a 6x6 grid in MATLAB?
+Connect points and compute area
+How to call MATLAB code from C?
+How to smoothen a plot in MATLAB?
+How to mark a point in a MATLAB plot?
+suppress start message of Matlab
+Rotation about the Y-Axis
+Too many input arguments Matlab
+Matlab: "grouping mean"
+Error while loading xls file in matlab?
+matlab and plot
+Changing multiple .fig files in Matlab systematically
+MATLAB error while evaluating uicontrol Callback
+tformfwd and tforminv - what's the difference?
+Dimension Reduction
+Problem (bug?) loading hexadecimal data into MATLAB
+Warning: Ignoring excess mask dialog entries in:
+Faster dec2bin funtion for large amount of conversion
+Matrix of unknown length in MATLAB?
+Matlab Piecewise Functions + Vector Manipulation
+Nearest-neighbor interpolation and matlab
+Issues with programming General Cross Correlation (GCC) in matlab
+Merge a 1 x N array to a 1 x 1 array without using loop
+Converting binary to decimal without using loop
+Displaying series of bitmap in form of a movie
+how to read digits from text file and save it in an array "using MATLAB or JAVA" ?
+What does this Matlab code do? (probabilities and random sequences)
+How to call(execute) a function in a for loops in MATLAb
+draw triangle in image using matlab
+Compiling MatLab 2009b applications to Windows Executables
+Solve ODE without nested functions
+Is it possible for a MATLAB script to behave differently depending on the OS it is being executed on?
+Algorithm for best-effort classification of vector
+matlab in C C++ and  C C++ in matlab
+Color part of graph under a line in Matlab
+Matlab engine VS libraries created by MATLAB Compiler
+Converting large array of 8 bit binary
+how to plot confidence interval in matlab?
+Call c++ code from MATLAB
+plotting matworks logo and heartshape
+running matlab function from java
+Purposefully Slow Function
+Problem computing a summation in matlab, seems so simple but i can't get it...
+basic matlab help
+Matlab functions refusing to function depending on placement
+Find only relevant points in MATLAB
+how to divide an image in blocks in matlab
+Is there already a YAML library/parser for MATLAB?
+Handling an invalid security certificate using Matlab's urlread command
+MATLAB: How do you insert a line of text at the beginning of a file?
+Linking to matlab generated code
+High speed udp receiver in matlab
+How to choose an input using an explorer or GUI in a matlab program
+Running Multiple Versions of MATLAB
+how to store a variable in a file in matlab
+MATLAB: Plotting .m file from directory
+MATLAB GUI axes break window layout
+Using text formatting in Matlab custom data tips
+MATLAB: vectorized assignment from double array to cell array
+How to format data for use in nntool (MATLAB)?
+How to set output size in Matlab newff method
+Slow performance using anonymous functions in Matlab
+Using nntool [MATLAB] from command line.
+How to format a input vector from the input data in MATLAB?
+Remove progress bar from published document in MATLAB
+call matlab APIs in C C++
+Images in matlab
+Optimizing extraction of data from a Matlab matrix
+MATLAB: DLL loaded by mex would not unload?
+Compiling Matlab to C# Problem: fatal error C1083: Cannot open include file: 'windows.h'
+matlab som clustering help needed
+How to concatenate two strings in MATLAB?
+Remove Characters from EOF while Writing to File in Matlab
+How to make a basic line plot in MATLAB?
+matlab oop: too slow to be useful ?
+Basics of normalized cross correlation
+basic  on matlab
+How to plot lines between all points in vector in Matlab?
+Matlab: avoiding memory allocation in mex
+Solving a determinant in matlab
+Corner Cases, Unexpected and Unusual Matlab
+MATLAB MEX file: create N-D double matrix
+Find the corners of a polygon represented by a region mask
+Matlab: Find all NaN Elements inside an Array
+Generate Square Mesh, Given an Unordered X, Y and Z Vectors
+an axis is not showing up in Matlab
+Plotting 4 curves in a single plot, with 3 y axes
+simple problem with matlab
+loop in matrix using matlab
+MATLAB: Getting an array of cells from Matlab to Java
+How to randomly select from a list of 47 names that are entered from a data file?
+matlab and function
+devide two polinomials by using matlab
+Difference between Matlab's matrix notation
+Matlab Solving equations problem
+How to efficiently find correlation and discard points outside 3-sigma range in MATLAB?
+Matlab Embedded Coder: fft2 operation for uint8?
+Generate Contour Given X, Y and Z  vectors
+How to change the default parameters for newfit() in MATLAB?
+The Matlab equivalent of pyton None
+Mean filter for smoothing images in Matlab
+How to make a Simple FIR Filter using Matlab?
+Competitive Learning in Neural Networks
+How to stop sound in MATLAB?
+Matlab: how to plot a text in 3D
+Plot Overlay Matlab
+Multiply a 3D matrix with a 2D matrix
+compare each element of row matrix with each element of other row matrix in matlab
+how to compare elements of one row with other row in same matrix in matlab?
+Creating "holey" median filter in Matlab
+MATLAB: Determine total length/size of a structure array with fields as structure arrays
+How to add ^ to matlab ?
+Is it possible in matlab to explicitly format the output numbers ?
+Turning y axis upside down in MATLAB
+Equations Solver function in Matlab. How do I handle [eqns,vars] = getEqns(varargin{:}) errors?
+UnsatisfiedLinkError When Loading a Library from Java in MATLAB
+Matlab - divide matrix elements by column sums.
+Matlab. Heart filter
+Constants in MATLAB
+Matlab - show strings and numbers together
+replacing Matlab with python
+MATLAB Sorting by custom condition
+When not to vectorize matlab?
+How can I convert a color image to grayscale in Matlab?
+MATLAB: Apply a low-pass or high-pass filter to an array
+converting MATLAB code to Fortran
+Compiled Matlab: application hangs at the end
+How do I sample a matrix in Matlab?
+How do I roll out a Matlab app for others to use?
+Matlab Simulink version control with multiple developers
+Matlab deployment: add files to source control?
+Reading data from a serial port in matlab
+Solving for variables in an over-parameterised system
+Trace an arrow toward a specific angle
+set of n-linear equations in matlab
+How to plot a 3D plot in MATLAB?
+How to read till end of file in MATLAB?
+Matlab: evaluate symbol expression
+how would i pick one node randomly from n no. of nodes,i have n random no. of nodes with x and y co-ordinates .(IN MATLAB)
+MATLAB How to divide a matrix into equals parts?
+Executing pushbutton callback from another function in Matlab
+Cut Polygon Function in Matlab
+Function pointers in MATLAB
+push a MATLAB workspace onto a stack
+How do I use the least squares approximation in MATLAB?
+Cross-correlation coefficient
+Break Polyhedron into Tetrahedron
+Tab-completion of filenames
+Calculate most common values
+undesired size change in matlab saving image plot
+[Matlab] Storing Results of a Operation in a Matrix
+MPEG-1 compression - producing macroblocks
+Running code in MatLab/Mathematica only after having written it all
+Save Matlab invisible plot under terminal as an image with same size
+basic matlab help
+[Matlab] Filling in an Array
+how to select k no. of nodes with probability p(say p=0.25) out of n(say n=100) randomly generated nodes and those k nodes shown as red colored in whole figure?
+Is there a Matlab-y way to find local maxima in an image?
+Making a plot out of a list of points
+run Matlab in batch mode
+How to plot 2 graphics in one picture?
+how can I draw a circle on an image in Matlab?
+how to select particular element from following matrix?(in matlab)
+plot circle but show ellipse in matlab
+Running Matlab on Nvidia CUDA
+can matlab catch signals from linux? SIGIO
+How to Get a Quantitative Comparison of Two Signals
+how can I find the parameters of matrix-equation in matlab?
+How do I access Matlab structure fields within a loop?
+Test if a data distribution follows a Gaussian distribution in MATLAB
+Writing from Matlab to Excel with activex
+Plot graphs in MATLAB
+Solving Algebraic Equations Programatically
+problem related to stucture and non structure in matlab
+matlab: binomial distribution
+.TXT FILES IN MATLAB
+Matlab generate random numbers
+matlab 2009 creating symbol
+Quadtree Decomposition - MATLAB
+how to assign random energy E to every node and compare two nodes for maximum energy and also find distance between them?
+How can I display an error message in matlab?
+Importing text files with comments in MatLab
+Generalized Gaussian Noise generator in matlab
+Matlab - usage of knnclassify
+matlab: vectorized manipulation of cell array
+matlab: displaying markup (HTML or other format)
+matlab: matrix generation help
+Curves in matlab
+Anonymous "gobble" in Matlab
+reading and writing .txt in matlab
+Automatic selection of control points in Matlab
+Turn off excel merge cell warning from matlab
+safe, fast CFLAGS for mex functions in matlab
+how to find remaining nodes in following code which are not participating in making edges with each other?
+MATLAB function for 'does matrix contain value X?' (ala php's in_array())
+Least squares optimal scaling
+Turn Matlab plot into image
+Fudge Factor in Matlab
+Save output error messages to file in MATLAB
+Is there a way to change the title of the MATLAB Command Window?
+MATLAB help content for an abstract method
+How to create a executable .exe file from .m file
+Batch Processing Image Files in Matlab
+spike in my inverse fourier transform.
+How to add vectors with different length?
+Turn in Matlab a line into a matrix
+Matlab - problem with creating SQL query
+Element-wise array replication in Matlab.
+Checking if a matlab handle is a valid one
+Extending a sequence statistically in MATLAB
+finding zeros of an expression
+How to generate a function of two variables in matlab without using any loop?
+Splitting data into two classes visually in matlab
+How to draw vectors (physical 2d/3d vectors) in Matlab?
+MATLAB's hmmtrain assumes initial transition from state 1
+Using MATLAB For Anything Except Maths
+exchange axis of an "ezplot"
+How to select maximum intensity in hough transform in Matlab?
+MATLAB Array Manipulation
+Differences Between MATLAB 4.2c And The Lastest One
+Matlab: Return Unique Element with a Tolerance
+How to pass string as function argument in Matlab ?
+Matlab book on geometry and image processing
+Connect to Matlab engine from C in Linux
+How to use circshift in Matlab? What am I doing wrong?
+making function from symbolic expression
+Cross product function in matlab
+Error when calling compiled m-file(.jar) in a multi threaded Java app
+How to call Matlab functions from linux command line ?
+wavread in matlab to c++
+How to find the most dense regions in an image
+Matlab Unused input notation details
+Saving settings in matlab
+Matlab - Speeding up a Nested For Loop
+finding the best trade-off point on a curve
+Linewidth and precision of ezplot
+Line of best fit scatter plot
+Automatically plot different colored lines in MATLAB
+How to access elements of matrices  from mat file in python?
+System command usage in Matlab
+Plotting data on time (date) axis in matlab
+matlab - How to find the image of the line at infinity corresponding to a plane?
+Fastest way to import CSV files in MATLAB
+exporting matlab class object (or struct) into java object of similar class using xml
+Logging function parameters in MATLAB
+escape characters in string in matlab
+Data Classification:sizes of training and test vectors
+How to automatically spin a 3d hsitogram in matlab?
+How to hide zero values in bar3 plot in MATLAB
+MATLAB's fminsearch function
+Matlab - Find  point of intersection between two vectors
+How would one check for installed MATLAB toolboxes in a script/function?
+Calculating displacement moved in Matlab
+Houghlines in Matlab
+Publish to pdf
+how to see the code fo a matlab mex file
+Creating matrix of maximum values indices in Matlab
+MATLAB: convert vector to cell array
+How to convert m-files to dlls?
+Matlab: how to create a  cell-array in Matlab from this type of  data
+Calling MATLAB from C
+Call stack in compiled matlab
+what is @ operator in Matlab
+TreePlot String Labeling MATLAB
+How to open DBase files (.DBF) in Matlab?
+Matlab Simulink scope log or saved data
+Matlab 2009b & .NET
+matlab search path
+How to run matlab codes from java end.
+Matlab: Magnetic fields calculated with biot-savarts-law
+running script stop in the middle
+legend for group of lines
+matlab - creating a single dimensional array from two dimensional parts
+matlab - print subarray of two dimensional array
+Mapping 2 vectors - help to vectorize
+Can I unite matlab and autocad into one system
+What is the equivalent of 'fread' from Matlab in Python?
+How can I set I checkbox to true in a MATLAB gui?
+debug in matlab
+MATLAB block size and memory management
+Use Matlab cell array in a C/C++ program
+Matlab GPU acceleration for loading large point cloud dataset
+matlab - consider preallocating for speed
+matlab modem.oqpskmod
+Is there a way in Matlab using the psuedo number generator to generate numbers within a specific range?
+matlab to draw ellipse and ellipsoid
+How to do with this for fzero loop?
+Using FFT in MATLAB on multiple matrices of data to find differences within responses
+How do I write a csv file from a txt file with line omittion
+What does the JVM in MATLAB Compiler Runtime (MCR) do?
+Axes background color not rendering properly when exporting videos
+Reading large csv files with strings containing commas as one field
+Stacking several 2D images into 3D in Matlab
+modem.oqpskmod for BER
+Can MatLab understand Java int datatype?
+how to create a very large matrix using matlab
+comparing modem.oqpsk probability error and ber
+modem.oqpskmod - converting array of different values to array of 1s and 0s
+shared library locations for matlab mex files:
+How to plot in circle instead of straight line axis in Matlab?
+MATLAB: Assign multiple colors to text in legend
+matlab error using m power
+How do you display something from a function onto a display window in a GUI in Matlab?
+Performing functions for multiple input values
+Sliding window algorithm for activiting recognition MATLAB
+comparing all elements of two arrays in matlab
+getting variable values into a text string | MATLAB
+hurry up !! Matlab
+Call matlab functions in silverlight
+matlab : comparing all elements of two arrays
+Producing 2D array from a 1D array in MATLAB
+matlab fxn: find contiguous regions and return bounds in struct array
+simulation of oqpsk
+matlab: manipulating two linked matrices
+What do end-of-line commas do in Matlab?
+Matlab: convert function to simulink block
+hoe to draw concentric circles in an image in matlab? Please help me
+what advantages MATLAB has over SCILAB and vice versa ?
+Setting the variables of Solve in MATLAB
+Vectorizing for loops in Matlab
+What's the correct syntax for applying a function to sub elements of a matrix without using a loop?
+modem.oqpsk with half sine wave
+reading a text file to matlab with different formatting
+Detecting center point of cross using Matlab
+How do I label two vectors in Matlab?
+sorting colors in matlab
+intersection of two line
+MATLAB: Question about minimizing a function containing an integral
+How do I interact with MATLAB from Python?
+MATLAB: How do I pass a parameter to a function?
+Reshape 3d matrix to 2d matrix
+Comparing adjacent elements in matlab
+Matlab, time match filter
+Embedded Matlab: Problem with persistent variables.
+Draw a textured triangle (patch) in Matlab
+joining dots of scatter plot and create line
+Triangulation & Direct linear transform
+What's the Matlab equivalent of NULL, when it's calling COM/ActiveX methods?
+Reading directories in matlab
+[Matlab] Saved EPS image different than plotted chart
+set intervals for plotting in matlab
+Inverse lookup table
+Cell Array appending in Matlab.
+modem.oqpskmod -> modem.oqpskdemod not same result
+calculate array element persistence algorithm
+checking if function is a part of/which toolbox
+How can you draw a bezier curve in Matlab
+Prevent "MATLAB" folder in My Documents
+Porting MATLAB 7 files back to 6.1
+Alternate method to kron
+MATLAB - load file whose filename is stored in a string
+MATLAB - use a string to set the title of a graph
+MATLAB - printing graph with different output names
+how best to loop through an array taking into account of the index in matlab?
+how to apply a function to every row in matlab?
+how do you do symbolic differentiation on function handle?
+Finding a certain value below the maxima in Matlab
+Can the following loop be vectorize?
+how to Display data in  matrix with  with more than 4 decimals
+Find mode of a sequence of numbers without using arrays/vectors
+How to get name of an enumeration in MATLAB
+Symbolic Math in MATLAB, solving simple integration
+How do I make a plot in Matlab if I do not know the specific size of the array?
+MATLAB: pre-allocation of matrix yields error
+How to convert Matlab output into an array?
+Capitalize / Capitalise first letter of every word in a string in Matlab?
+MATLAB: compute mean of each 1-minute interval of a time-series
+Packaging of MATLAB code
+MATLAB: maximum pre-allocated size?
+Multiple assignment in Matlab?
+What's the closest thing to #define in Matlab?
+matlab quickie: test if text file is empty
+MATLAB runs out of memory during program execution
+Using find function on columns and rows in matlab
+Generating vectors in MATLAB
+Matlab - matrix combinations
+Converting rgb images to grayscale and renaming them using matlab
+MATLAB - Redefine YTickslabels
+Is there a way how to run matlab script from specific line without gui?
+Matlab Error: ??? Cell contents reference from a non-cell array object.
+Matlab: How can I change the following program
+MAtlab combining edge region back into image
+How to interpolate the coordinates of a vector on an image using matlab?
+How to optimize Matlab loops?
+Maximum expression string length in regexp (MATLAB)
+How to recognize overflow bugs in Matlab?
+How can I create a cell of strings out of a meshgrid in Matlab?
+Plot inverse colors in Matlab?
+Insert doubles in cell array into vector in Matlab
+matlab script editing
+How to construct unequal width histograms with Matlab??
+vi input mode in command line Matlab?
+MATLAB: element-wise array replication according to a count
+Chop out parts of a square matrix in Matlab
+Eclipse / Java path problems
+Finding 99% coverage in Matlab
+To find points of intersection between straight lines & our figure in matlab
+How can I tell how much memory a handle object uses in matlab
+Matlab: identifying uniques in a cell array
+Matlab - having trouble with subarray
+How to use a cross validation test with Matlab?
+Structure/class in matlab?
+Matlab matrix replacement assignment gives error
+How can I interrupt Matlab when it gets really really busy?
+Loading multiple images in Matlab
+How to document object-oriented MATLAB code?
+How to generate a unit vector pointing in a random direction with isotropic distribution of direction?
+Neural network in Matlab
+Creating a cylinder with axis centered differently
+MATLAB for kids?
+Matlab: Filling a matrix with each column being the same
+matlab:comparing all elements in three arrays
+How to get real Integer Overflows in Matlab/Octave
+Saving "heavy" image to PDF in MATLAB - rendering problem
+delete empty cell matlab
+How do you pass in a value to a subfunction in Matlab I am getting output errors?
+How do you make a 2-d array in Matlab?
+Python to MATLAB: exporting list of strings using scipy.io
+two arrays defining 2d coordinates, as array indices, in matlab/octave
+ploting 3d graph in matlab?
+MATLAB command for exporting geometry from pdetool
+Orcad / Matlab: How to plot the roots of a polynomial
+Uniform distribution of binary values in Matlab
+Finding whether a value is equal to the value of any array element in MATLAB
+Interpolating 1D Gaussian into 2D Gaussian
+MATLAB arbitrary code execution
+Plotting multi-colored line in Matlab
+matlab plot and line
+Matlab and MrVista
+Calculating the maximum distance between elements of vector in Matlab
+Tidying up a list
+Changeing scaling of Matlab Figure
+How to parse the file name and rename in Matlab
+Graph/tree representation and recursion.
+MATLAB image corner coordinates & referncing to cell arrays
+MATLAB: Drawing a line over a black and white image
+How do i get rid of NaNs in matlab?
+Can I distribute my MATLAB program as open source?
+Loopless  function calls on vector/matrix members in Matlab/Octave
+summing up excel files in matlab
+MATLAB pdist function
+Unpacking varargin to individual variables
+MySQL and Matlab
+matlab write image into eps file
+Matlab - building an array while looping
+Matlab - plot multiple data sets on a scatter plot
+Why does file have to be saved prior to running ?
+save plot into image file in matlab: difference between saveas and print
+Texture mapping in MATLAB
+Invoking ADO.NET from MATLAB
+MATLAB: dealing with java.lang.String
+memory not freed in matlab?
+I have a having a a matrix index bounds in matlab
+Matlab interview questions?
+This is more a matlab/math brain teaser than a question
+What is the best way to flag some elements in MATLAB? using NaN or Inf? or something else?
+Does opencv have a function similar to size and bwperim in matlab?
+Free SCM for Matlab 64 bit version on Windows
+Resizing panels in GUIs without changing size of the contents (MATLAB)
+Updating GUI axes in MATLAB
+running pythoon code in matlab?
+How can I tell if a rectangular matrix has duplicate rows in Matlab?
+How to preallocate an array of  class in MATLAB?
+I need to order a list that is dependant on another list. how to change both lists?
+How to clear persistent variables while keeping breakpoints in MATLAB?
+Saving/Associating slider values with a pop-up menu
+half-sine pulse shaping
+How do I call Matlab in a script on Windows?
+Best way to organize MATLAB classes?
+Skip reading strings in matlab
+Changing the x-axis of seqlogo figures in matlab
+matlab v.s. simulink in digital image processing?
+How to setup matlab for parallel processing on Amazon EC2?
+Matlab Simulink: Transfer Function
+Simulink: type consistency errors
+MATLAB Builder NE (.NET Assembly) Data type question
+uncomplete ezplot drawing
+Matlab: how do I force ode45 to take steps of exactly 0.01 on the T axis?
+Matlab - binary vector with high concentration of 1s (or 0s)
+Simulink: implementing a custom transfer function
+Is there a function for checking whether a matrix is diagonally dominant (row dominance)
+How to override the default text in MATLAB
+Getting average value from matlab plot?
+filter that uses elements from two arrays at the same time
+How do we plot a red dot (to represent a trade) on a financial candlestick chart in Matlab?
+Whta is the shortest way to write this in matlab ?
+Faster projected-norm (quadratic-form, metric-matrix...) style computations
+Mean filter in MATLAB without loops or signal processing toolbox
+Removing an array dimension where the elements sum to zero
+MATLAB - Delete elements of binary files without loading entire file
+Getting help on MATLAB's com.mathworks internals
+How to load and show an png image in matlab?
+How to graythresh a indexed image in matlab?
+skip reading headers in matlab
+matlab code for the horizontal mean filter
+How to implement such an effect using matlab?
+Matlab: Analysis of signal
+Infrared image processing in Matlab
+Assigning figure size to a figure with a given handle (MATLAB)
+Is there a better way to declare an empty, typed matrix in MATLAB?
+Vector projection on matrix along diagonal.
+MATLAB : frequency distribution
+Need a explanation for the matlab code snippet
+How to implemnt benfords law in matlab
+Quotient in Matlab
+annotation in matlab plot
+Matlab: Print text in input field
+i want to use some Matlab functions via .dlls and use them in C#, pls Conduct which way i can doing that!?
+Automatic annotation for matlab plot?
+how to divide a spectogram into a certain number of ranges using mel filter banks using matlab???
+How to automate the padding for arbitary images using MatLab?
+MATLAB : search and count (?)
+What does padColor(:,:,1) mean in MatLab?
+Finding edge and corner values of an image in matlab
+What's the difference between [A,B] and [A;B] in MatLab?
+Need some help understanding cat in high dimensions of matlab
+Loops on a Matlab program
+Getting data into MATLAB from HTTPS
+What are the 3 dimensions of a RHB image in MatLab?
+How to retrieve the background color of an arbitary image using MATLAB?
+GCD function in matlab
+How to merge a 64 by 64 cell into a 1 by 1 cell
+accelerating Wheel - psychtoolbox in matlab
+Snippets in matlab editor
+MATLAB: Reading floating point numbers and strings from a file
+What's the best short cut for this in MATLAB?
+How do I solve this possibility problem with MATLAB?
+Need help understanding several MATLAB statement
+Matlab multiple graph types inside one graph
+Does white color has a fixed value(1 IMO) in an RGB image in MATLAB?
+How can I change the tick marks scale in MATLAB?
+Replace empty cells with logical 0's before cell2mat in MATLAB
+Convert cell array of cells into cell array of strings in MATLAB
+BMP2AVI program in  matlab
+Growable data structure in MATLAB
+Running multiprocess applications from MATLAB
+How to convert a web page into an image using MATLAB?
+Matlab: how to find functions on path that use a given function
+How to deal with the warnings when importing BNT tools in MATLAB?
+How can I find the absolute maximum or minimum of a multi-dimensional matrix in Matlab?
+How to delete zero components in a vector in Matlab?
+How to recognize this simple capcha using MATLAB?
+Daubechies-4 Transform in MATLAB
+Calculate area under FFT graph in Matlab
+How to do median filter on an indexed image using MATLAB?
+Is there any difference between [1 2] and [1 ,2] in MATLAB?
+best way to get a vector from sparse matrix
+How to select which Matlab version to start from shell or Matlab startup?
+Retrive blob field from mySQL database with MATLAB
+MATLAB: draw centroids
+Naming convention of im2bw in MATLAB
+What does fopen('text.txt', 'wt') mean in MATLAB?
+A think on sum(X, 1)
+What does L == 2 mean in MATLAB?
+How to convert indexed bitmap images to non-index binary bitmap and replace in place?
+How to make disconnected objects connected by adding a shortest path using MATLAB?
+What's the difference between {} and [] in MATLAB?
+how to use summation in matlab???
+MATLAB date selection popup calendar for gui
+Is it possible for tick marks on an image to be centered around the -edge- of a pixel?
+Saving html page from MATLAB web browser
+Matab - Trace contour line between two different points
+What does  ~= mean in MATLAB?
+Can someone explain what the output of fft means in MATLAB?
+Matlab command to access the last line of each file?
+Matlab, index from starting location to last index
+Need help understanding this MATLAB function implementation
+Launching matlab remotely on windows via ssh?  Impossible?
+How can I make XOR work for logical matrix in MATLAB?
+What does this MATLAB function do?
+cell and array in Matlab
+Matlab - Propagate unit vectors on to the edge of shape boundaries
+Load any file type  into matlab
+Problem using find function in Matlab
+Writing Java code in Matlab?
+Different right and left axes in a MATLAB plot?
+annotation() and text() in Matlab
+General method for making sub arrays around a particular element
+Sort a matrix with another matrix
+Pruning data for better viewing on loglog graph - Matlab
+MATLAB: Can axes tick labels be accesed as text objects?
+matlab - int array to binary array
+Getting MATLAB variable (string) from C
+Matlab tutorial for programmers
+Get the indices of the n largest elements in a matrix
+Simulink: Specifying trajectory
+How do I implement such an invertible mapping for curves using MATLAB?
+MATLAB feature function
+image processing toolbox in matlab
+MATLAB intersection of 2 surfaces
+Matlab: getting "Unexpected error status flag encountered. Resetting to proper state"
+Finding many local max in an image (using MatLab)
+How do I encapsulate some text information in an image and extract it using MATLAB?
+MATLAB syntax of (:)
+building .exe format from matlab
+Pass data from workspace to a function
+??? Error using ==> dlmread at 55 Filename must be a string.
+How do I count the number of persons in an image using MATLAB?
+What's this setting of MATLAB for(which is causing lots of troubles for lots of people)?
+Statistics toolbox in Matlab
+Is there any function in Matlab for changing the form of matrix?
+Find location of current m-file in Matlab
+MATLAB Heart Curve
+Plotting Implicit Algebraic equations in MATLAB
+How to create a function with vectors and vertical asymptote using MATLAB
+sorting a timer in matlab
+MatLab (martix concetenating)
+MATLAB: Convert two array to a sparse matrix
+merging and manupulating files in matlab
+Matlab postpones disp calls when doing demanding calculations why is that?
+Funny plots in MATLAB
+Implementing custom Matlab functions in Simulink
+Passing functions as arguements in Matlab
+Matlab time stamps reading
+List globals in matlab
+How do I rename a field in a structure array in MATLAB?
+Using MatLab to calculate signal:noise ratio
+display "value" on edit text matlab
+How to strink matrix using array mask in Matlab?
+convert f(x,y) to a 2-D matrix
+Matlab crashes on library initialize when called from Java
+Out of Memory Matlab Error
+Color Comparison of two images using matlab
+Plotting Bessel functions
+What is the closest thing MATLAB has to namespaces?
+using load instead of other I/O command
+matlab's fortran's format equivalents
+Add multiple hist fit to a figure, without the hist
+Help in optimizing a for loop in matlab
+How do I transpose a vector into the third dimension?
+A dynamic array of class "landmark", inside another single class "landmarks"
+MATLAB setting matrix values in an array
+How to plot an Excel chart in a Matlab's figure
+Return popupmenu selection in MATLAB using one line of code
+Rotation Matrix calculates by column not by row
+Get dimensions for dataset matlab, Size Function
+How can I find the value of a blury image Matlab question
+Why the valid looking statement gives error in MATLAB?
+How can i interchange the row and column of an input data in matlab
+MATLAB: different function returns from command line and within function
+Converting convex hull to binary mask
+Matlab: How to get the current mouse position on a click by using callbacks
+Matalb: convert global coordinates to figure coordinates
+Matlab matrix translation and rotation multiple times
+'Array of arrays' in matlab?
+Plotting Bessel function in MatLab
+read angles in radian and convert them in degrees/minutes/seconds
+Matlab - applying low-pass filter to a vector?
+Gaussian smoothing in MatLab
+Gaussian filter in Matlab
+How to deal with name/value pairs of function arguments in MATLAB
+Error " Index exceeds Matrix dimensions"
+Using imtophat in Matlab
+Deterministic Annealing Code
+Plotting in Matlab
+Thresholding in Matlab
+Analyzing data for noisy arrays
+Using Matlab to find maxima for data with a lot of noise
+Changing axes and color of plots in Matlab
+Extended maxima transform in Matlab
+Converting from binary to original array values in Matlab
+Converting from subarray coordinates to array coordinates
+Why is Matlab Stateflow 7.7 not throwing errors on undefined variables?
+Simple question about text in Matlab
+Global image threshold in Matlab
+MATLAB: How do I get 3D coordiantes from a user-click?
+3D plotting in Matlab
+Built in colormaps in Matlab
+Evaluating and graphing functions in Matlab
+Special functions in Matlab
+Monochromatic colors in Matlab
+Plotting data with meshgrid
+Graphing special functions in Matlab (2D Bessel)
+matlab precision determint problem
+Forming vectors from the same assigned value (in Matlab)
+Using Cepstrum for PDA
+Why is this class re-initialized every time?
+How do I change the Unit:Characters in Matlab?
+Error: Attempted to access data(2,:); index out of bounds because size(data)=[1,7129].
+SET game odds simulation (MATLAB)
+Matlab- select data from a 3d plot
+How to write a variable with input ?
+Matlab Simulation: Point (symbol) Moving from start point to end point and back
+reading password protected excel file using matlab
+MATLAB: comparing 2 columns content
+Can't compare the norm of a vector to 1 in matlab
+Matlab plot inside a loop
+Programmatically configure MATLAB
+How can the crosshair of ginput be restricted to one plot?
+Matlab GUI: How to Save the Results of Functions (states of application)
+Iterating through struct fieldnames in MATLAB.
+Invalid Handle Object when plotting 2 figures Matlab
+How do I make matlab legends match the colour of the graphs?
+How to efficiently replace a vector of ids by a vector of corresponding numerical values
+MATLAB: vectorized array creation from a list of start/end indices
+matlab's phi symbol
+How to add a number to a variable?
+Plotting a grouped 2 dimensional vevtor in MATLAB
+How to access a matrix in a matlab struct's field from a mex function?
+Drawing a polygon around groups of datapoints in MATLAB
+Select all points in a matrix within 30m of another point
+how to shear image in matlab without using built in function?
+Shading an area boundered by a curve
+.NET coupled with MATLAB or R?
+If a Matlab function returns a variable number of values, how can I get all of them as a cellarray, for instance?
+Matlab: Adding symbols to figure
+GPIB connection to external device using MATLAB
+determine whether matlab license is server- or user-based
+[ MATLAB ] For loop to extract info from a structure doesnt work ?
+can i changed for loop index variable inside the loop in Matlab???
+what algorithm good for image matching?
+How to import and plot data from a .mat file to x and y variables ?
+Using polyfit to predict where the object falls ?
+How do I create efficient instance variable mutators in Matlab?
+making GIF animation from "movie" command
+Importing matlab functions in matlab
+How to mask part of an image in matlab ?
+Show camera inputs at different axes - MATLAB
+Matlab wont extract first row & column because of matrix dimensions !
+How to deal with memory problem - MATLAB
+matlab image processing 3d
+Add inputs to more than one row in a structure array in matlab
+recursive function's summation in MATLAB
+In matlab, how do I apply a function of two arguments to two cellarrays of equal length?
+how to plot ellipse in this format?
+MATLAB surf plots
+Reading a text file in MATLAB line by line
+Stop writing blank line at the end of CSV file (using MATLAB)
+How to make a random number generator in matlab that is based on percentages?
+Vectorizing sums of different diagonals in a matrix
+Add axes to an image in matlab ?
+How to create a string array in matlab?
+Introduction to vectorizing in MATLAB - any good tutorials?
+Matlab/octave count number of operations
+Plot overlaps in matlab
+Simulink sim of rician channel ber process
+matlab and gplot
+difference equations in MATLAB - why the need to switch signs?
+Parallelize or vectorize all-against-all operation on a large number of matrices?
+How to check in MATLAB if a vector only contains zeros?
+Import & modify data in Matlab
+adding slider to a movie
+Program for viewing MATLAB figures without MCR library
+Why is simulink data type conversion block altering the data when it should be typecasting?
+In need of a good MATLAB class tutorial
+How to terminate a running process in matlab ?
+Out-of-memory algorithms for addressing large arrays
+how to count number of elements of same value in a matrix?
+How to change Matlab program for solving equation with finite element method?
+Percentage of white pixel
+Extracting Filiform Areas using MATLAB
+What is the algorithm of Skeleton
+vectorizing loops in Matlab - performance issues
+Using matlab and Time Series object (fints), how can I make an array of them?
+matlab noninteger step indexing
+Plotting special function (Debye) in Matlab
+Small eps figure size in Matlab
+How to read an word document in matlab
+What is the best way to store a 16 ├ù (2^20) matrix in matlab?
+Why i get this following error when using dir in Matlab?
+Problem with y-axis in Matlab Diagram
+Brackets at the start of input in matlab ?? [ x , y ] = ....

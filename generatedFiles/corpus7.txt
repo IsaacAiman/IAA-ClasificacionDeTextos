@@ -1,0 +1,757 @@
+Extending chart functionality in SSRS
+How do I configure visual studio to use the code view as the default view for Webservices?
+Project dependencies across multiple Visual Studio versions
+What is the best way to separate UI (designer/editor) logic from the Package framework (like Visual Studio Package)
+DLL versions and Visual Studio attach to process
+How do I sort my code in Visual Studio 2008?
+Visual Studio Debugger + Break when a value changes?
+Is there a way to keep Visual Studio from modifying the solution file after every test run?
+Visual Studio 2005: All projects in solution explorer expanded on first opening of solution
+Visual Studio 2008: make ctrl-k, ctrl-n (next bookmark) stay within the same file
+Prevent Legacy Function Calls In VB.NET
+Creating Project Fails in Visual Studio 2005 and VS2008
+C# structural highlighting in Visual Studio 2008
+What is Microsoft's official stance on using WCF with Visual Studio 2005?
+How do you manage .vcproj files in souce control which are changed by multiple developers?
+How did you choose your Visual Studio productivity addon?
+Any clever way to launch a makefile in Visual Studio only if build succeeded?
+Visual Studio database project designers
+Very slow response for Visual Studio 2005 Web Site Administration Tool
+Eclipse's Crtl+click in Visual Stdio?
+Visual Studio Memory Usage
+How do I disable the "smart insert" function that is bound to the Tab key in the Visual Studio emacs mode?
+Is there a way to maximise the current tab in Visual Studio?
+Programming on the Asus EEE Pc in Visual Studio
+How to remove paths from tabs in Visual Studio 2008?
+Visual Studio: Is there a "move class to different namespace" refactoring?
+Using VS 2005 to design abstract forms
+Can you add documents and spreadsheets to a Visual Studio Project?
+What do you do about references when unloading a project in Visual Studio?
+How do you uninstall Visual Studio SP1 w/ .Net 3.5 SP1?
+Unable to start debug in Visual Studio 2005
+Where does the Toolbar Metadata live in Visual Studio on the Filesystem
+Visual Studio 2008 Design Surface Error: "The operation could not be completed. Invalid formatetc structure."
+Which Visual Studio debugger features are missing from WinDbg?
+Visual Studio Express any good ?
+What is the single best resource for learning the visual studio tools?
+Any free alternative to VisualStudio?
+How do you change Visual Studio's default web browser? (not .aspx)
+[Best Practise] Visual Studio Solution Structure for multiple deployable projects
+Why does Visual Studio take so long to delete a file
+VS 2k8 Doesn't Release File Handle After Debugging Stops: Unable to copy file X to output directory because it is being used by another process.
+Why doesn't Visual Studio always render my page correctly when debugging locally?
+Visual Studio 6 Processor Pack compatibility
+Good Alternatives to Visual Studio Setup Projects
+Hidding source control files within Visual Studio's solution tree
+Mixing Visual Studio versions OK?
+Team Foundation Server (TFS) File Difference viewer - how to split horizontally
+How to assign keyboard shortcut to Source Control commands in Visual Studio 2008?
+Change background color of Solution Explorer in Visual Studio
+What are your most-recommended Visual Studio perferences?
+Visual Studio MSTest run failing to even start
+Should the Visual Studio GUI editor be used?
+How do I wrap a selection with an HTML tag in Visual Studio?
+Is there a Visual Studio plugin for sorting build output (scrambled from multi-threaded builds)?
+Show file tree in visual studio 2005?
+Editing SQL query with Visual Studio 2008
+How to set Visual Studio as the default post-mortem debugger?
+Commonclipse for Visual Studio?
+MSDN links in Visual Studio
+Global Find and Replace in Visual Studio
+Visual Studio 2008 -- Can I change which "add reference" tab is selected by default?
+Can I compile legacy MFC applications with Visual Studio 2008 ?
+Where are Visual Studio breakpoints saved?
+Solution: Per application, or per application suite.
+Debugging with exceptions: How to work around 'Break when thrown'
+VS2005 + cant select windows service as project type
+Is it possible to communicate with the Visual Studio debugger programmatically while debugging?
+Dow do you set ASP.NET Development Web Server to not cache any content?
+Visual Studio unit tests throw MissingMethodException when assembly is in GAC?
+Context help in Visual Studio
+Include directory in VS 2003
+Internationalisation in Visual Studio
+Why does Visual Studio keep building my C++ project?
+Is there a tool to alphabetize CSS definitions in Visual Studio?
+Is there a devenv flag to disable pdb generation at compile time?
+How do you move visual studio DataTip window
+Help documenting Javascript in Visual Studio?
+Displaying Japanese fonts in source code using Visual Studio
+How do I rename a Project Folder from within Visual Studio?
+how do I add a test web service to my project in Visual Studio?
+How do I get output to show up in the Messages pane of the Error List for Visual Studio 2005?
+Creating Visual Studio toolbar commands to execute batch files
+How do you create a Visual Studio Solutio File (.sln) in the same directory as the web project
+In Visual Studio, my design view doesn't load the master page controls. Why?
+Visual Studio 2010 SP1 to 11 Beta - Unit Test Project Cannot be Loaded
+Visual Studio debugger tips&tricks (for C/C++ projects)
+Ability to set the font to italics in Visual Studio
+Missing Visual Studio features when running in 64-bit mode
+How to exclude files from Visual Studio compile?
+Remote machines cannot connect to Visual Studio web server
+MIDL generates the same file for /env win32 and /env win64
+How do I compile an ASP.NET website into a single .DLL?
+Iterate enumerable object while debugging in Visual Studio
+Enable/Disable "Step into" debugging on certain project in visual studio solution
+Visual Studio reference x64 GAC
+Shortcut to collapse to definitions except regions
+Change version informaiton in a built binary
+Sharing Visual Studio Code Snippets amongst a team of developers
+VS.NET "watched" objects and recursive depth
+What would be the most convenient way to connect Visual Studio 2005 (C#) to Oracle8?
+.NET VS2005 WinForms: How do i drop a user control onto a form?
+Visual Studio (2008) mixed mode project depencies. C-sharp project depends on C++ dll, but C++ dll is not getting re-built
+Visual Studio 2008 Syntax Coloring Problem
+Interpreting Visual Studio 2005 Threads Window
+How can I make Visual Studio wrap lines at 80 characters?
+Implementing a SQL Server 2008 User-defined function in managed code for geocoding
+Visual Studio opens Development Servers for all websites in my project
+Can you configure VS2008 Code Analysis to use a British English Dictionary?
+C#: How to include dependent DLLs?
+Your experiences with Visual Studio 2010 CTP?
+What do you use to develop for PowerShell?
+Managing reference paths between x86 and x64 workstations in a team
+Replacing typelibs for imports
+Is there a standard keyboard shortcut to build the current project in Visual Studio?
+How To Prevent Tab Hell With Visual Studio And FireFox Debugging?
+Creating a VS .Net 2003 property macro/variable
+Shortcut for commenting CSS in VS 2008
+break whenever a file (or class) is entered
+How to create XML/XSD equivalent of a DataSet or DataTable in VS2008 (or other tool)
+How do you invoke the Visual Studio Preprocessor from the command line?
+Is it true, visual studio can't handle fonts installed after it was ?
+How to heighlight occurences of a search term in text in Visual Studio?
+Ribbon UI for Visual Studio 2010 or beyond?
+Will installing the Visual Studio 2010 +Oslo CTP screw my Visual Studio 08 install?
+Can Ctrl+Backspace be made to work in VS2008's Solution Explorer?
+Visual Studio "Find" results in "No files were found to look in. Find stopped progress."
+404 Problem Running Visual Studio ASP.NET Unit Test
+Visual Studio - How to remove a reference in Release mode
+numericupdown control
+VisualStudio: How to save the obj folder somewhere else
+How does Visual Studio's source control integration work with Perforce?
+Share .obj files between different configurations
+Fastest way to insert replacement characters in Visual Studio
+Visual Studio&Source Control: How to have shared code?
+Visual basic auto imports namespaces
+Add references to project when control dropped from Visual Studio 2008 toolbox
+Running vc2008 debug builds on non-dev machines
+Does it worth switching from Visual Studio 2005 to Visual Studio 2008 ?
+How to add and compile for custom 'Platform' switch for visual studio projects?
+Compiling a .vbproj or .csproj project file without Visual Studio
+Visual Studio Solutions Folder as real Folders
+vs2008 publish problem with unmanaged dlls
+In the Visual Studio SQL editor, how do I get rid of the boxes?
+How get VS HTML editor to default to single quotes?
+Does Visual Studio have debug symbols available?
+invoking functions while debugging with Visual Studio 2005?
+Getting started with Visual Studio Designer
+How to put BIDS solutions under source control?
+Add-In for Visual Studio - How to access solution explorer
+Can Visual Studio Automatically Expand Text with a Code Snippet?
+Pausing after debugging command line application in Visual Studio
+How to stop VS2008 trying to compile .ASP pages as Visual Basic?
+Framework goto definition shows comments, are these generated from xml comments?
+team system unit testing and configuration
+Visual Studio: How to store am image resource as an Embedded Resource?
+Does Visual Studio have anything like Borland's CodeGuard?
+Customizing dockable windows in Visual Studio
+Visual Studio Website Reference Paths
+Save all files in Visual Studio project as UTF-8
+What's a good directory structure for large C#/C++ solutions?
+How to get cmd line build command for VS solution?
+Visual Studio - Prevent stopping debugging from closing Internet Explorer
+Visual Studio: How do I show all classes inherited from a base class?
+How to Prevent Visual Studio launch WcfSvcHost.exe in Debuggin?
+Is there any best practices for Visual Studio Project/Solution Structure?
+re writting methods with in a project
+Visual Studio: Where is intellisense in the immediate window?
+Visual Studio behaves strangely while debugging with breakpoint conditions
+Visual Studio code formatting
+T4 not working in Visual Studio 2008
+.NET Install Package Sometimes Not Completely Removing Previous Versions
+How to Export/Import Toolbars in Visual Studio
+Contextual code generation in Visual C# 2008?
+Opening a VS 2003 C++ project in VS 2008
+Why Isn't My C Code Being Compiled To An EXE
+MSVCR90.DLL was not found.
+Is there a way to specify outlining defaults in Visual Studio so that a file opens up with members collapsed by default?
+Split edit window in Visual Studio
+Adding a script with ScriptManager on a CompositeControl?
+Defining macros in Visual Studio - /D or #define?
+How to change the default browser to debug with in VS2008?
+Debugging with command-line parameters in Visual Studio.
+Visual Studio - tips for managing work on many open files
+Chanigng path for custom build step
+Any way to run a macro (in an open VS instance) from the command line?
+Why does Visual Studio 2008 forget where to dock my add-in's window pane?
+Where are the Icons included with Visual Studio?
+How to ensure a mobile app is deployed to the mobile device?
+Automate "Attach to Process" in VS2005/2008
+Using different Web.config in development and production environment
+What is the easiest way to determine the dependencies of a .NET assembly.
+How do I get the Visual Studio Load Test Agent to use the servers second CPU
+Add a common namespace reference by default to all pages in a project
+Complex builds in Visual Studio
+How to programmatically cancel an embedded MsBuild build
+Change the location of the ncb file in Visual C++ 2008 (9.0)
+IDispose - Visual Studio
+Visual Studio: hotkeys to move line up/down and move through recent changes
+What could cause Visual Studio / C# error MSB3105: Duplicate resources
+Make Visual Studio understand CamelCase when hitting ctrl and cursor keys
+Getting rid of "There is no source code available for the current location"
+Multi-lingual projects in Visual Studio
+How can I toggle word wrap in Visual Studio.NET?
+Why would Visual Studio/CLR produce a "bad" executable?
+Remove elusive keyboard binding in visual studio
+How to view load test reports by individual request in Visual Studio Team edition
+VS2008 Navigate to class definition add-in
+VS2008 debugging with firefox as default browser - how to make the debugger stop/close on exit?
+Any have a Visual Studio shortcut/macro for toggling break on handled/unhandled exceptions?
+Visual Studio Tips on getting headers that are used in a given project?
+MRU list in Visual studio is missing
+How to free up a key combination in visual studio?
+How to reduce linkage time for large project written in native Visual C++ ?
+Visual Studio Performance Choice - ESXi or Vista?
+Is there a way to conditionally run Visual Studio Post Build Steps
+How to use dependencies of C++ libs in Visual Studio regarding the header path
+Is it possible to start an external program from the target directory when debugging?
+VS2010 Extensibility - how different is it?
+Visual Studio - show all calls to a function in source code level
+What are your favorite, but less obvious, Visual Studio 2008 tips and tricks?
+Drag and drop .cs files not using "Add As Link" in Visual Studio
+How can I clear the Warnings sections of the error list In VS2008?
+Visual Studio IDE layout tips
+What is the optimum number of projects in a Visual Studio 2008 solution?
+Visual Studio 2008 sometimes won't open .aspx html markup
+Do you use any of the features in the various Visual Studio 2008 Team editions?
+Bazaar (bzr) integration with Visual Studio
+Automatic tracking of build number in VS 2005?
+What do you use (free) to format C# code?
+Can I create "Solution" level items in a Visual Studio Project Template?
+Are there any add-ons for Visual Studio to help manage todo comments?
+Make Visual Studio's Find in Files default to the project directory?
+How to use app.config with Visual Studio add-in?
+What to do about the solution explorer and getting around? Suggestions and improvements!
+How can i have two concurrent web apps running on VS2008/VSS8.0/ASP.NET/IIS for a trunk and branch version?
+VS2008 Windows Form Designer does not like my control.
+How can I make a setup that makes my software require administrative priviliges while installation?
+Microsoft Visual C# IntelliSense has stopped working in project referencing F#
+Visual studio - is there a way to select multiple files and wrap a namespace around each of them?
+Version control of MDF files
+Creating mdf file from sql script
+Programming visual studio macros
+Open a file in Visual Studio at a specific line number
+How do I find a complete list of extensions installed in VS2008?
+How does visual studio determine what to copy to the output directory with multi-project solutions?
+Can I automatically increment the file build version when using Visual Studio?
+What causes Visual Studio 2005 Out-Of-Order Command Line Builds?
+How can I use the "Publish" function in Visual Studio 2008 without erasing the contents of the target folder?
+Weird VS2008 Intelliesense problem
+Output library project XML to asp.net bin folder on build?
+Visual Studio: How to debug a program using Visual Studio?
+VS2008: Launching the executable for a project that isn't the active project in a solution
+Why is Visual C++ lacking refactor functionality?
+Screen resolution for programming
+Case preserving find/replace in Visual Studio
+Debug/Release diffrence
+Escaping out of the Find and Replace box in Visual Studio 2008
+Change default XML comment snippet in Visual Studio
+Errors in Windows Forms controls in designer view
+VS2005: How to not have VS try to parse text file resources as html?
+Print from Visual Studio Object Browser
+Visual Studio hangs on build
+What is a solution folder in visual studio
+Is there a recommended number of lines of code per file?
+Visual Studio - Publish to multiple locations?
+What are all these Visual Studio 2005 files for?
+Visual c++ 2008: how to have global settings defined in a solution
+Setting both Debug and Release settings in Visual C++ 2008
+Should the new MFC Feature pack contols appear in VS toolbox
+Changing font for member variables in Visual Studio
+Useful Add-In's or Plug-In's for native Visual Studio developer
+Visual Studio 2008 Fatal Execution Engine Error (7A2E0F92)
+Globalizing source code
+How to make warnings persist in visual studio
+Visual Studio and the build for anycpu option
+How to change Visual Studio Auto Format
+Visual Studio add-on gallery?
+Is it possible to enable ClearType on Visual Studio only?
+how do you add an existing directory tree to a project in visual studio
+How Can I add additional functions to Visual Studio's Server Explorer?
+Visual Haskell 2008
+How do you get a minimal SDL program to compile and link in visual studio 2008 express?
+Visual Studio Attach to Process
+How to debug "Unexpected debug information initialization error -- 'Failed to find a required export in the runtime.'"
+Does it exist an API for "International Settings" in Visual Studio?
+Visual Studio Performance with External Hard Drive
+Visual Stuido: Make view code default
+Office XP Shared Addin VS 2008
+Testing in Visual Studio Succeeds Individually, Fails in a Set
+How to use Office from Visual Studio C#?
+Automatically adding .Net code comments
+How to move autocompleted closing tag in Visual Studio
+Is there a fast way to change tabindexes on a form with lots of controls?
+VSTS Database Edition and the GDR project structure
+Visual Studio solutions, do you nest them?
+Need Visual Studio macro to add banner to all C# files
+Visual Studio + Crystal Reports + SourceSafe = auto checkout
+Getting a Signature Mismatch Error when Compiling Even though it Matches in VS.NET 2005
+Visual Studio - rewrite / lifespan
+[Visual Studio 2003] Setting environment variables in pre-build event and using in compilation step
+How to make file show when opening Visual Studio solution
+Drawing a line in Visual Studio .net at design time
+Visual Studio to Make
+Convert asp.net project pages from Windows-1251 to Utf-8
+How to keep the installer's version number in sync with the installed assemblies' version numbers?
+Attaching to child process automatically in Visual Studio
+Collapsible member events in Visual Studio designer
+Why doesn't intellisense show the appropriate methods according to what I am passing in?
+Navigating backward and forward with the mouse in Visual Studio 2008
+How do I customize the auto commenting text in Visual Studio?
+Visual Studio Shortcut for Automatically Creating Constructors from an Inherited Class
+Programatically enforce capitalization in Visual Studio 2008?
+Attach to IIS7 with a macro?
+Slow "Find All References" in Visual Studio
+Visual Studio shortcut for showing dropdown of availble Enum values for function argument
+How to get rid validation warnings
+how can i add two projects..vs2008
+Including a VB project within a VC++ project
+Does anybody have experience with Visual Studio 2008 on Windows 7?
+Showing generic class eg Table<String> in xml comments in visual studio.
+Using Studio's "Custom Tool" in MSBuild
+Why is Visual Studios Installer not picking up dependencies
+VS2005: Assembly '<assembly>' is incorrectly specified as a file.
+Can one access TestContext in an AssemblyCleanup method?
+Visual Basic Compiler keeps crashing
+Can intellisense be exported or extracted from Visual Studio to a text file?
+Are there any known issues of VS 2003/2005 and 2008 coexisting?
+Moving an arbitrary setting to a toolbar in Visual Studio
+How to run just one ASP.NET Development Server in Visual Studio 2008?
+F6 for compiling?
+Automatically attach vs2005 debugger to a child processes
+Visual Studio tip
+Keep indentation of wrapped lines in Visual Studio 2008
+Auto-sync Visual Studio's Class View
+How can I use GDB from inside Visual Studio C++ (Express) to debug my GCC Makefile projects?
+How to unit-test a file writing method with Visual Studio's built-in automated tests?
+Pascal syntax highlight in Visual Studio ?
+How do I make Microsoft VCC crash out on the first build-error?
+How to make a visual studio add-in that cannot be unloaded?
+Mysterious cosmetic Visual Studio Editor issue
+How to configure Visual Studio not to give UAC prompt on each run?
+How to stop Visual Studio from automatically creating solution files
+Visual Studio vs. SQL Server Management Studio - Your Pick
+Number of solutions in a visual studio solution
+Can I have a hit-point in VisualStudio that skips lines?
+VIsual Studio - How to change the return value of a method in the debugger ?
+Return value alternative in Managed Code
+XML Comments: To Use or Not To Use?
+Visual Studio
+Visual Studio 2008 Reports: Relative image paths?
+Mixing Static Libraries of C Code  built from different versions of Visual Studio 2002 and later
+Insert Tracepoint: how to set the default message?
+What are your most frequently used shortcut keys in visual studio?
+Is there a way to run an outside executable after a SPECIFIC solution is built in Visual Studio 2008?
+Is it safe to use incremental rebuild for generating release build in visual C++ ?
+What messaging/communication programs can be embedded into Visual Studio?
+Do I need to buy Visual Studio Professional?
+Removing SourceSafe Integration from Visual Studio 6
+How can I map out which Visual Studio Solutions use which Projects?
+ScrollBar in DataGridView
+Why should I NOT use the /optimize switch to compile my C# code?
+DataGridView/ListView - Display in an Outlook style?
+Crystal Reports: New Page
+VisualStudio-based Rich Client Platform
+What is the Visual Studio 08 C# Assembly Information GUID setting for?
+How to make Visual Studio take automatic actions on check-in?
+Best type of Visual Studio project for a simple collection of files?
+Visual Studio: Preserving syntax coloring when pasting code into HTML
+Is there a way to make a region of code "read only" in visual studio?
+How do I create a "virtual" folder in a Visual Studio 2008 project?
+Can I reformat HTML in Visual Studio without removing blank lines ?
+Are there any Jira plugins for Visual Studio?
+What's an easy way to access prebuild macros such as $(SolutionDir) and $(DevEnvDir) from code in C#?
+Why would my ASP.NET project run on the development server when not among the startup projects?
+Default News Feed on Visual Studio Start Page (C# Profile)
+How do I prevent Visual Studio from renaming my controls?
+Visual Studio: How to figure out where this type is defined?
+Loads of extra space at bottom of class in Visual Studio 2008 C# Express
+Is there any way to avoid installing Microsoft Visual Studio 2008 Team System Database Edition to be able to build DBPro projects on a centralized build server?
+Best Practices: IDE Code Color Scheme and Font
+Using Visual Studio 2005 with ClearCase Eclipsed Files
+Is it possible to insert a mult-line code snippet relative to the cursor position in Visual Studio?
+Tools for inspecting .lib files?
+How do I enter a DateTime value in the VS QuickWatch window?
+How can I stop cl.exe from terminating when a user logs out?
+How can easily view the contents of a datatable or dataview in the immediate window
+Visual Studio Extension to map Solution Folders to Real Folders
+Is form display dependent on development machine in Visual Studio?
+Visual Web Developer and multiple sites on the same FTP server
+Does the VS disassembly window show the whole EXE?
+Convert Visual Studio project to ASP.NET MVC
+In Visual Studio can i plot my variable in breakpoint ?
+Copy always to output directory does not work
+How to profile methods in dependent assemblies in a unit test instrumentation performance session?
+Crystal Reports chanes text to lower case.
+Why does Visual Studio 2005/2008 keep 'forgetting' to color code and format?
+Unable to launch the ASP.NET Development server because port '1900' is in use.
+Visual Studio: How to reference assemblies in Visual Studio?
+Why does the extract method command in visual studio create static methods?
+Code template's indentation is buggy for code behind files in VS2005?
+Why does Visual Studio want to check-out a File when open?
+Update all WCF Service References in one click (two clicks would be OK too!)
+Validate all ASPX, ASCX and HTML files when building
+Copy-paste code from Visual Studio, but paste UNFORMATTED code
+Aside from the Addins folder, where (and how) do VS add-ins get deployed?
+Organizing classes into namespace in the App_Code folder not working as expected.
+How do you clear your Visual Studio Cache on Windows Vista
+Visual Studio C++ Debugger: No hex dump?
+Awesome Visual Studio Macros
+Smart tool (addin?) for creating class body from header file
+VS2008 files and "start debugging"
+FxCop on build (Visual Studio 2008 Professional)
+How to generate build dependencies after custom build tool has been launched ?
+Visual Studio: What is the App_Data folder used for?
+Add codebase as reference instead of copy Visual Studio
+How to configure MSBuild to do some tasks only on release builds?
+Why does Visual Studio debugging mode does not work properly (performing F5 when F11 was pressed)
+Team is Going from XP32 to XP64 for .NET Development - Any Gotchas?
+Unicode Basics on Windows
+How do I have an icon  displayed when a setup CD is autoplayed in Windows.
+How do I specify a publisher for the setup.exe when a setup CD is autoplayed in Windows.
+Why can't I debug?
+Visual Studio Vs Visual Web Developer
+Per language settings in Visual Studio 2008
+Can I change the warning setings for Web Sites in visual studio?
+Solution items cross several web projects in Visual Studio
+Visual Studio - Automatically refresh class view when changing class.
+How to quickly organize functions in source code (c#) to order by alpabetical order?
+Regenerate missing AssemblyInfo.cs in VS 2005
+How do I apply a set of properties to a subset of files in a Visual Studio Project?
+How to see the normal tooltip information in Visual Studio instead of the error help
+Drawing lines in Visual Studio for Compact Framework 2.0
+most efficient way to cut/paste in visualstudio
+Appropriate VS Project for Multiple .Net Sites
+Tortoise SubWCRev.exe Pre-Build Event
+Why don't code snippets work for me in Visual Studio?
+What event is raised when a file is added to a project?
+Visual Studio plugin to allow opening 2005 solutions with 2008?
+Why does the Visual Studio IDE sometimes initialize the "this.components object: and other times not?
+Spicing up the Visual Studio IDE
+Refactoring plug-in for Visual Studio 2003
+Strange visual studio 2008 behavior when pressing keys
+Delete files from disk that aren't in a Visual Studio project
+Per-filetype "View whitespace" setting in Visual Studio
+Can optimizations affect the ability to debug a VC++ app using its PDB?
+Getting the GUI of an app that went poof!
+What is the purpose of Browse Information generated by Visual Studio
+Can you disable autohide animation in Visual Studio docking?
+Can you set VS2008 to break on an error inside a try-catch statement
+Visual Studio vs. #Develop - Default event handlers
+Breakpoints behaving strangely in visual studio
+Disable designer in Visual Studio?
+Visual Studio 2008 Unnecessary Project Building
+How to order variables alphabetically (Visual Studio 2008)
+Any way to keep myself from accidentally building in the wrong Visual Studio configuration?
+Huge AboutIconData block in add-in file
+What 's your favorate way when debugging your program in Visual Studio?
+manually finding the size of a block of text
+How to change the title bar text of Visual Studio
+Visual Studio: ContextSwitchDeadlock
+Only OnConnection fires in Visual Studio add-in
+Problem with Class wizard in VC++ express edition
+w3Schools gives some basic example for web based languages is there any kind of equiverlent for Studio Basic?
+VS2008 Macro: Perform action on every code file in the solution
+Visual Studio 2008 SP1 and Visual SourceSafe 2005
+Vertical line limiter in VS 2008?
+Attach existing VS.NET 2008 instance that's already debugging as JIT debugger
+Adding Existing Form to C++/CLI WinForms Project
+Can I generate values for a custom parameter such as a timstamp for a Visual Studio Item Template?
+What Visual Studio files should be ignored by subversion to eliminate, or at least lessen, conflicts?
+DebuggerDisplay Attribute does not work
+Writing two dimensional array to file and reading two dimensional array from file using Visual C++
+VS get returned value in C# code ?
+how to work with multiple coincident panel controls in VS 2008 windows forms
+Good techniques to use Makefiles in VisualStudio?
+Eclipse's tab double click on Visual Studio?
+Visual Studio Task Panel
+Would you like to continue and run the last successful build?
+Macro to wrap selected with tags in Visual Studio
+How to work-around "Object required" error when adding a variable in an ATL Dialog
+Where is Visual C++ Redistributable Installer in VS 2008?
+How do I merge two different Visual Studio solutions?
+Howto Speedup Visual Studio(2005/2008) Toolbox initialization
+Visual Studio, MS Build
+Make visual studio deploy a folder's content without having to update it in the project
+What are the licensing terms of the Visual Studio Image libraries?
+Suggestions for maintaining Visual Studio vcproj project files in version control
+Visual Studio switch statement formatting
+Easily (GUI?) creating custom VS project template?
+How to make the Visual Studio compiler ignore a file?
+Developers with VS 2005 and VS 2008 working on the same project(s)
+Already have MSDN with Team System Test edition, how do I....
+Permissions Error Registering Assembly
+Tool to automatically reformat whole C# source tree in VS2008?
+Unmanged x64 assemblies in mixed .NET development environment
+Visual Studio Addin Development - How to resolve the "The process cannot access the file" problem after exiting visual studio?
+Visual Studio Move current document to the left.
+How do I tell VS 2008 to stop putting byte-order marks in front of my files?
+Cannot add server to Visual Studio Server Explorer
+Visual Studio: Is there an incremental search for the entire solution?
+How to begin a text selection in a Visual Studio macro
+Visual studio formatting options
+How to Relocate Visual Studio project (.sln) file
+CodeRush for C# issues
+Visual Studio Addin - "file in zombie state" error
+how to generate multi part assembly ( per folder) in visual studio for custom library project , C#?
+Do Visual Studio 2005 testing tools contain tools for mocking?
+Variable quantity columns report
+version number inside AssemblyInfo.cs update outside visual studio
+Highlight user-specified words in Visual Studio?
+Excluding Page from Release Build in ASP.NET Project
+Visual studio addin - finding current solution folder path
+How to add enviromental variable to VS solution (.sln )
+Disabling default XML Schemas in Visual Studio?
+Visual Studio won't make debug DLL
+How can I get Office-like AutoCorrect in Visual Studio?
+Visual Studio Unit Test - The member specified could not be found.
+Why does this take so long to compile in VCC 2003?
+Shorten delay when hovering over auto-hide panel / toolbars in Visual Studio '08
+Can you print JavaScript variables from a Visual Studio 2008 Tracepoint?
+Creating registerable Visual Studio packages
+How to remove projects/ solutions from Recent Projects window in Visual Studio 2005
+Disabling StyleCop rules
+Visual Studio warning level meanings?
+Visual Studio projects with multiple folders
+Test view keeps dissapearing in visual studio
+VS2008 setup project installing extra dependency files
+Close all files in visual studio on exit
+MSTest copy file to test run folder
+Visual Studio & SubVersion : What about Machine Specific Files
+Where are project level imports stored in Visual Studio 2008?
+vssettings
+How to make document tabs in Visual Studio 2008 appear in left-to-right order, just as it was in earlier VS?
+Anyone using "database projects" in Visual Studio? Never heard people even mentioning them. Are they so bad?
+Default using directives in new C# files
+Vim style folding for CSS/javascript in Visual Studio
+Is there a Breakpoint Plugin for Visual Studio?
+Visual Studio 2003, Macro, Process.Attach not working always
+How to debug external class library projects in visual studio?
+How do I force Visual Studio to use an Open instance when double clicking a file?
+VS Intellisense: can you hide extension methods?
+Using EnvDTE.Solution - How to Remove Source Control Bindings
+Re-enabling JavaScript debugging in IE7 with Visual Studio
+Visual Studio/C++: How to turn off certain first-chance exception debug messages?
+Are there any drawbacks to running Visual Studio remotely?
+Visual Studio 2008 - Distribute library with sample-application - ensure no access to the source-code of the library
+Visual Studio plug-in that mimics eclipse environment
+VMware Workstation overrides VS2008 hotkeys
+Visual Studio Macro to Paste similar to String.Format
+Problem with large solutions and service factory
+Where is the 'Autos' view in msdev 2005 ?
+How do I get a code window to split vertically in Visual Studio 2008? (not HTML mode)
+Resolving resx references
+Avoiding too many configurations for a Visual Studio project
+Visual Studio 2005 - C++ - What controls the manifest creation
+Would ReadyBoost have an impact on Visual Studio 2008?
+What is the best Ruby on Rails environment for a Visual Studio user?
+A First Chance Exception
+msvcp80.dll not found while using TBB
+Build won't copy System.Drawing to output folder.
+How to link multiple visual studio solutions together?
+Visual Studio: Printing all source files in a solution?
+Building Projects in Visual Studio
+Visual Studio project is placing object files in unrelated project directory. help.
+Best practices in Visual Studio C++
+Shortcut key for 'View in Object Browser'
+VBPROJ / CSPROJ
+Can you add custom T4 Templates to the VS2008 "Add New Item" dialog?
+Visual Studio Debug Visualizer for all types
+LinqPad Feature - Does VS do this?
+Visual Studio unmanaged C++ smart file explorer
+How to display placeholder value in WPF Visual Studio Designer until real value can be loaded
+How to set standard encoding in Visual Studio
+Is there a Visual Studio shortcut for replacing the beginning and ending tag name in XAML/XML/HTML at once?
+String Compare not working in Visual C++ 2005
+Web Client Software Factory Unit Testing Big Fail
+How to increase the time tooltips remain visible in Visual Studio
+How do you default a new class to public when creating it in Visual Studio?
+Visual studio database edition: deploy to db without visual studio
+VS2008 crashes with "Fatal Execution Engine Error"
+How do I write a custom start page for VS 2008?
+VS: Automatic "ArgumentNull' check ?
+How to navigate to Begining/End of a curly brace by selecting one of the braces in Visual Studio 2005.?
+SharePoint Feature to install WebPart and custom list.
+debug vs release build in Visual studio c++ 2008 win32 runtime issue
+Where is the Visual Studio layout saved?
+Visual Studio 2008 macro to switch between header and source files?
+Library for parsing Visual Studio Solution files?
+Is there a way to force Visual Studio 2008 (or below) to use a spellchecker for comments?
+How do I get rid of the unknown property name errors in Visual Studio?
+Visual Studio class/file templates: Is there a way to change their content automatically per project/solution?
+How should I set up external resources in my project?
+VisualStudio immediate window command for Clear All
+Referencing a COM assembly in Visual Studio vs converting a COM assembly via tlbimp.exe
+How do I stop Visual Studio from launching a new browser window every single time I hit the Start Debugging button?
+How do I stop ReSharper from inserting "object" when I type "new {"
+Make VisualStudio C# have files/folders outside of the project directory.
+How do you get server blocks <% %> to format well in Visual Studio?
+Visual C++ error C2143: syntax error: missing ')' before 'constant'
+Project (bin) folder path at compile time?
+Connect Visual Studio 2008 to Virtual PC 2007
+In Visual Studio (2008) is there a way to have a custom dependent file on another custom file?
+How to return an error from .bat in Visual Studio project?
+How to remove, reinstall and/or find info about Visual Studio 2008 hotfixes?
+Is there a way to use VS with a remote site accessible only by sftp?
+Open two instances of a file in single Visual Studio session
+Shared files between projects in Visual Studio
+Custom color settings in VS.NET editor for current line when in debug mode
+Visual Studio Test Project - Does not copy folder on deployment
+How to disable the "auto format" feature of VisualStudio2008 editor?
+Problem with const vs #define in Visual Studio
+How to "watch" character values of a string on Visual Studio?
+Breakpoints not being hit
+How to get Program Files Path in Visual Studio configuration
+Do you have performance problems when you work on Visual Studio projects via a network share?
+Preventing Visual Studio from building all projects when debugging one
+VS2008 Solution Template
+Turn off auto formatting in Visual Studio
+Visual Studio clipboard problem
+Is it possible to customize the colors of RockScroll's variable syntax highlighting?
+Can't see Methods, etc. in Visual Studio 2008 C# Code
+Visual Studio: default settings
+C++/CLI: linker gives "resolved token" for win32 function
+Need help on setting web service proxy dynamically without build?
+How do you build a debug .exe (MSVCRTD.lib) against a release built lib (MSVCRT.lib)?
+How do I fix this Visual Studio keyboard mapping problem?
+Quick way to insert interface methods to a class in Visual Studio 2005
+SAXON.NET XSLT 2.0 Processor
+Visual Studio and MySQL
+What to look out for when moving from Visual Studio 2005 to 2008?
+visual studio - remove custom control from designer window
+i wan't to delete all bin and obj folders to force all projects to rebuild everything
+A project with output type of class library cannot be started directly - with a startup exe
+What is tab #13119 on  my VS 2008 toolbox?
+How to get Visual Studio External Tools to use a currently open instance of the external tool?
+Pre-build events for Visual Studio Deployment projects?
+Visual Studio 2008 Pro - How to get a quick report about the number of files/classes/lines of code in a solution or project
+Visual Studio - view type from metadata
+Updating the version number of all assemblies in a solution
+format code from ide ( VS2008)
+How to automatically convert VS2003 classes to partial Designer.cs files?
+In Visual Studio (2008), can I start up a website debug session as the web root?
+How to maintain scroll position after postback in web application created in visual studio 2003
+Using Visual Studio macro names to launch external applications doesn't work?
+How to delete files in Visual Studio Pre-build event command line
+How can I highlight the active line in Visual Studio, without using ReSharper?
+Can Visual Studio be made to debug child processes like WinDBG?
+One executable that starts as gui application or console application based on command line in VS2005
+Is there a tool for emailing Shelveset's and History items from within Visual Studio Team System?
+Create SQL Database and add to project using Visual Studio
+Whats the "Browser File" in Visual studio 2008, and why we may need it?
+Find all .rpt files in VS solution
+Is a seperate Visual Studio license required for a build machine?
+Visual Studio (or resharper) variable and method coloring
+How to associate external files with an assembly
+What References Does Visual Studio Add When I Accidentally Click Add New Winform?
+Visual Studio 2008 - Customise right click menu
+How do I get rid of the dots!
+ASP.NET MVC Development tool
+How do you deal with multiple open files of the same name in VisualStudio?
+Multiple web application deployment targets in Visual Studio 2008?
+How to keep Visual Studio debugger visualizers from timing out?
+Best Visual Studio 2008 Debugging Tutorial?
+How to programatically add a tracepoint for Visual Studio?
+What's event that Visual Studio 2008 do after post build event?
+C# 2008 Express: Project type (.csproj) is not supported by this version of the application.
+How do you use the immediate window in Visual Studio?
+Visual Studio Debugging/Building
+Where is Visual Studio COM project template?
+Visual Studio project template multiple Project Types
+Icon of project in Visual Studio
+VSTemplate with build action
+Getting Visual Studio to ignore source control bindings in a solution
+Visual studio or resharper shortcut to close currently selected file in IDE
+How to make Error List window automatically active during compilation in visual studio?
+How to break on Insert in Visual Studio / SQL Server 2005
+.NET 2.0 Setup Project in Visual Studio 2008
+How to get Visual Studio's designer to render CSS correctly in an ASP.NET Web User Control?
+Calling Visual Studio 2005 external tool without changing focus
+Debugging sometimes very slow
+Optimization settings in VS
+Add Solution Folder for VS 2008?
+Displaying code sections with a different background color?
+Override visual syntax highlighting through a plug-in?
+How can I inhibit warning 2400 in Visual Studio 2005?
+Visual Studio Find and Replace Variables
+What is the easiest way to create a overview 'outline' of  the most important sections  of an app  in VS 2005 (VB.net) ?
+Visual Studio 2008 New Web site always creates a solution folder
+Is there a Windows equivalent of EDQUOT?
+Visual Studio - New Filter instead of New Folder when using Create Project From Existing Source Wizard
+I can't create New Project on Visual Web Developer 2008 Express
+How to automatically insert preprocessor and comment blocks into a new C++ header file in Visual Studio?
+How can you automaticly insert a namespace for a Visual Studios snippet?
+Which projects do you include in your solutions
+Are there reasons to use Visual Studio 2005 when 2008 is available?
+API/Framework to generate Visual Studio solutions/projects
+Create a WPF library in Visual Studio Express
+Visual Studio 2005 is slow for C++
+Sys.Debug messages not appearing in VS debugger Output window
+how can i move the cursor in insert mode in viemu (w/o using the arrow keys)?
+Upgrading to VS 2008 Professional from Web Developer Edition
+Why Visual Studio doesn't create a public class by default?
+How can I load an image saved in database to Visual Studio ReportViewer 2008?
+Flowcharting tool/add-in for Visual Studio
+Is there a Visual Studio plugin that spellchecks strings and comments?
+What are Microsoft's public symbol servers useful for?
+Is it possible to use VS2008 built libraries from a VS2003 solution?
+How to enter long SQL text sample data with Visual Studio?
+VS2008 Express Editions and Resources
+How do I determine which service pack Visual Studio is running?
+Visual Studio 2008 freezing when editing aspx/master pages
+Go To Definition in Visual Studio only brings up the Metadata
+Setting the TabIndex property of many form controls in Visual Studio?
+how to change source file encoding in csharp project (visual studio / msbuild machine)?
+Visual Studio - Can I export templates via command line?
+Run Visual Studio 2008 Macro on Pre Build Event
+Collapse all Visual Studio toolbox regions shortcut
+How to add Windows Mobile 6.1 image to VS 2008 Device Emulator Manager ?
+How do I get the "Publish Website" command to emit PDB files for my Visual Studio 2005 Web Site project?
+Best way to eliminate all intermediate files from Visual Studio project folders?
+Stop Visual Studio from Closing Program After Finish
+How will adding DataSources to DatdGrids in my development version of an ASP.NET web application affect deployment?
+What is the shorcut in visual studio to switch from code behind to Xaml Code ?
+Visual Studio 2008 Help slow to load... How come?
+Reopen last closed tab in visual studio
+Install VS 2008 Prof.
+VS 2005 Toolbox Messed Up
+How to valid that some template does *not* compile for given argument types?
+visual studio 2008 - is hand coding ~80% of the time too much?
+Getting started with Visual Studio 2008 plug-in / add-in development
+Finding references in Visual Studio
+Visual Studio: Stop copying DLL files during build without my permission!
+What's the cheapest way to get a Visual Studio 2008 Standard Edition license?
+Is it possible to have version-independent DLL references in a class?
+How to create a Visual Studio Setup Project registry value with the application install path?
+Please explain what an outlook add-in is
+How to use environment variables within Visual Studio 2008 project properties?
+Unable to open the Web site: http://.. Forbidden
+Best way to reference an external library in multiple projects in a Visual Studio solution
+Prevent Visual Studio from trying to load symbols for a particular DLL
+Can VS_VERSION_INFO be added to non-exe files?
+C++ class - Increment and decrement attribute every N milliseconds
+What's the most abused features in Visual Studio / C#?
+ReflectedSchemas folder in the user's AppData folder (Visual Studio)
+Is there anything I can do to make "help" load faster in Visual Studio 2008?
+How do I open a new visual studio instance using EnvDTE?
+Can Visual Studio 2010 Beta be installed side by side with VS2008?
+CoCreateInstance without an AddRef()?
+on which os should i try the vs2010 beta1? which emulator is faster?
+Problem with Visual Studio 2010 with WIndows 7 RC1
+Can I write to the Test Results window "Error Message" field without failing a test?
+Way to see assigned visual studio shortcuts with given prefix
+Generating Member for labels:  Any reason I should?
+Unable to debug web service project in Visual Studio 2008
+Visual Studio Add-in QueryStatus() calls
+Does visual studio is only used for programing ?
+What is .net framework ?

@@ -1,0 +1,991 @@
+Autostart spring app
+How to make Jetty dynamically load "static" pages.
+How to connect my Spring + Hibernate based application backend with pure HTML and AJAX based client?
+How to configure spring HandlerExceptionResolver to handle NullPointerException thrown in jsp ?
+Spring initialization order
+What is the best way to initialize a bean?
+In a spring configuration, what is the difference between using name vs id?
+get ResultSet from Spring-JDBC
+Integrating JCaptcha with Spring Security
+How do I inject a single property value into a string using spring 2.5.x ?
+How to relate between two classes with mongodb and spring?
+Can anyone point me to Spring MVC, Tiles, Freemarker integration example?
+SpringSecurity : always redirect logged in users to a page
+Getting template text from FreeMarker in Spring app
+Spring + Tiles2 + Freemarker - integrate via Freemarker Servlet or via Spring's FreeMarkerViewResolver?
+How do I get my dependenices inject using @Configurable in conjunction with readResolve()
+How to nest Spring JMS MessageConverters
+Is it possible to partially autowire a spring bean?
+duplicate spring configruations being loaded?
+When using Spring Security, what is the proper way to obtain current username (i.e. SecurityContext) information in a bean?
+spring and interfaces
+have you tried the Spring Workflow alreay ?
+Spring configuration error
+Real life business case for using spring method replacement?
+How do I redirect to an ftp:// url with Spring Webflow?
+Getting the caller to a Spring AOP Proxy
+<on-start> Expression
+spring beans configuration
+spring BeanIsAbstractException
+Using spring to get your service layer - good idea?
+inject property value into Spring bean
+Spring bean with no id or name
+Embed XML configuration directly in Spring application context
+What are some use cases for various DispatcherServlet.detectAllXxx flags?
+Spring <prop> tag
+Integrating Spring Webflow 2 and Apache Tiles
+How can I set up an LDAP connection pool in a JEE Container?
+Hibernate and Spring transactions - using private constructors
+spring bean configuration
+Spring MVC
+method-invoking Spring bean
+App Servers vs. Spring
+How to Debug Spring NoSuchBeanDefinitionException
+Can Spring Webflow 2.0's entity manager commit from subflow states?
+Best Practice for Spring MVC form-backing object tree initialization
+JSP-based Templating with Spring
+is JFig language syntax efficient and clear (and better than Spring-Framework's XML DSL)?
+HibernateTransactionManager(Spring) with multiple Session Factories
+How to know which URLs are mapped in the current servlet context in a Spring 2.0 Controller method?
+How to create hyperlink in Spring + JSP
+Spring AOP: applying properties through the aspect
+Spring and Hibernate, Lazy initiation problem
+How to wire Interdependent beans in Spring (Deferred property binding)?
+auto-detecting components using spring annotations
+Is it safe to assume that Spring MessageSource implementations are thread-safe?
+Spring context files organization and best practices
+How to use CurrentSessionContext/SpringSessionContext along with HibernateDaoSupport to intercept calls to getCurrentSession()
+Do you think the Spring WebFlow Flow Definition format would be suitable for externalising a Web Flow for a non Spring framework?
+Spring MVC tag interaction with custom tag
+What do I need to offset the performance setback induced by use of the Spring framework?
+Custom spring scopes ?
+How can I determine what roles are required to access a URL with Spring Security?
+Spring - Annotation Based Controller - RequestMapping based on query string
+Pointcut not working with Spring AOP
+Automatic configuration reinitialization in Spring
+Spring and hibernate.cfg.xml
+Getting Spring Application context from a non bean object without using Singleton
+Is there a recommend way to get Spring 2.5+ to autowire Hibernate domain objects
+Best way to validate URL parameters in Spring MVC website?
+Using Spring Pitchfork to have JEE complaint code that runs in non-JEE container
+Load Balancing, Spring Security, ConcurrentSessionFilter
+How to throw an informative exception from AccessDecisionManager that uses voters
+Custom Spring sterotype annotation with scope of prototype?
+Spring - binding to an object rather than a String or primitive
+How assign bean's property an Enum value in Spring config file?
+Define DAOs in spring when the datasource is varying dynamically
+spring not enforcing my method security annotations
+Basic Spring help
+Problem migrating Spring Web App from tomcat 5.5 to tomcat 6.0
+Reloading/Refreshing Spring Configuration File without restarting the Servlet Container
+How to collect spring properties from multiple files for use on a single bean
+Null Inner Bean with Spring IoC
+Spring JavaMailSenderImpl: where to set the charset?
+Use Spring options tag to display enum's toString value
+Spring embedded ldap server in unit tests
+ACEGI Authentication available in tomcat 404 error handler.
+Cannot locate 'org.springframework.security.annotation.Jsr250MethodDefinitionSource'
+Spring: Setting up a simple PropertyPlaceholderConfigurer example.
+Spring beans redefinition in unit test environment
+Simple autosave for Spring MVC form
+Spring introductions with dynamic implementation
+How to create a custom EL expression handling regime for jBPM
+Spring-modules caching not working... silently.
+Is there a static way to get the HttpServletRequest of the current request
+Having spring bean properties refreshed automatically from properties file
+Spring MVC with an externally rendered PDF as the view
+Splitting applicationContext to multiple files
+How can I access the ApplicationContext from within a JAX-WS web service?
+Spring Controller destroy method?
+Getting LazyInitializationException when trying to integrate Hibernate and SpringMVC for a web app
+Spring @Autowired usage
+Integrating Spring + Hibernate + Sql server with unicode support
+Does Acegi/Spring security support getUserPrincipal()?
+How do I write StoredProcedure sub-classes to call Oracle functions?
+Spring - best way to deal with binding to a list of beans in a simpleformcontroller
+Spring: Remove singleton
+Best way to cache persistent data (e.g. code books) in Spring?
+Importing Spring object definitions
+Have you found success with a Spring  and Hibernate Web Application
+Exposing multiple objects with RMI in Spring
+What's the best online tutorial for starting with Spring Python
+Can't make hibernate stop showing SQL using Spring JPA Vendor Adapter
+Looking for a good Spring framework cheat cheet
+do i need to worry about concurancy with tomcat spring beans
+Junit4 + Spring 2.5 : Asserts throw "NoClassDefFoundError"
+Simple Spring, use of ClasspathApplicationContext for standalone apps, how to reuse?
+How to make spring load JPA classes from multiple paths?
+How to Inject Spring  ReloadableResourceBundleMessageSource
+Spring Integration: How does RendezvousChannel work?
+How to batch delete using bulkUpdate
+Intent of Spring form command
+Can a Spring form command be a Map?
+Spring: No transaction manager has been configured
+How do you make a multi-module spring configuration ?
+How to XML configure Spring bean for constructor injection when bean has varargs constructor
+What are the design patterns which used in Spring framework?
+Automatic Hibernate Transaction Management with Spring?
+Different views with Spring's SimpleFormController
+Avoiding in-place pointcut expression in Spring AOP
+What is the problem with not using Spring
+Spring Connection Pooling
+Streaming Data through Spring JDBC, unkown length
+Keeping request parameters on Spring SimpleFormController with Validator
+Spring Integration: Hooking web services to a FIFO queue
+How can I apply an aspect using annotations in Spring?
+How can I define multiple sessionfactory instances in Spring?
+Spring Calls Object Constructor Before Setting Properties
+Is fine grained control of aspectj-autoproxy possible in spring ?
+in Spring.config, can I define object of type string?
+Using Spring AOP in an JSF application
+What applications do i need to download to start developing apps using spring framework?
+What applications do i need to download to start developing apps using spring framework?
+Obtaining a Hibernate transaction within a Spring class
+Why does Spring's @Configurable sometimes work and sometimes not?
+Spring WS calling .net web services
+Trouble stopping Tomcat due to apparent threading issue..
+How to inject MessageSource to a View extending AbstractView
+Spring MVC DefaultRequestToViewNameTranslator capitalization issue
+Spring and Stripes Security Design
+Spring MVC isFormSubmission() equivalent for annotations?
+Can DWR add a session attribute that Spring can access via @ModelAttribute when submitting a form?
+Putting values in error.getModel in onBindAndValidate
+Spring- How to use Springs Dependancy Injection to write a Standalone Java Applicaiton
+Is Spring ever going to combine MVC and WebFlow?
+Best way to set HTML head title in a Spring+Tiles2 application?
+different using @Transactional and spring template ?
+when using @transactional do i need to use jpatemplate/hibernatetemplate ?
+Spring AOP error
+What happens if I forget to mark the Spring SessionStatus as "Complete"?
+Narrowing problem with Spring MVC annotation-based controller and @RequestMapping
+configurable vs component with spring and aspectj
+How can I chop down a transaction in Spring with JPA?
+Store Custom properties in aplicationContext.xml Spring file
+Is there an equivelant to spring's ContextLoader for a non-webapp
+springdoclet usage?
+Spring + Hibernate Dynamic Mapping
+The prefix "security" for element "security:http" is not bound
+can any one tell me which is the best way to learn spring
+Best Spring/Hibernate configuration for never changing tables
+Using Spring to inject EasyMock mocks causes ClassCastException
+<security:custom-authentication-provider /> means?
+Spring-AOP
+method @Secured suppose to throw error when no user authenticated yet
+How does Spring for Python compare with Spring for Java
+spring security integrate with facebook connect
+How can use Spring XML configuration to set a bean property with list of all beans of a certain type?
+spring JDBC
+@Secured()      is there any statement show on log...?
+Spring, JDBC & MultiThreading
+Easiest way to add GWT to a Spring MVC application?
+Q about AbstractApplicationContext.getBeansOfType() and getBean()
+Short way of making many beans depend-on one bean
+gwt+grail.. advantages and shortcomings..
+multiple security:custom-authentication-provider
+Spring Transaction Management Test
+programmatically create a spring context
+Does it make sense to have more than one MethodSecurityInterceptor bean?
+No Runnable methods Error From Base Test class
+How do I use custom roles/authorities in Spring Security?
+BeforeClass using Spring transactional tests
+spring initBinder and webbindinginitializer example ...
+About Spring BeanFactory
+Java Project Configuration
+c:foreach using List: Must evaluate to a Collection, Map, Array, or null
+Autowiring Unmanaged Beans Annotated With @Component
+Validating multiple forms on one page using Spring Web Flow and JSF
+Spring context tests can't find config locations
+Where can I find at least two great online tutorials for building a Web application with the Spring Framework
+Can I dynamically load additional Spring configuration files into an existing WebApplicationContext?
+how to specify a bean as non lazy with annotations
+How to use multiple ViewResolvers in Spring?
+Building a HTTP link inside a Spring bean which is not a Controller
+Example of Spring missuse
+spring custom namespaces with maven
+Spring RuntimeBeanReference
+How can I configure Spring to save as much memory as possible?
+How can I cancel a long-running query using Spring and JDBCTemplate?
+What Spring exactly is for?
+Spring parent and child resources
+Spring + Hibernate - multiple databases
+Error reading configuration file for JAAS Authentication Provider in Spring
+Spring, log4j and JBoss4
+Parent Contexts in spring based web-app
+SpringAOP-generated Dynamic sublcass is missing annotation
+Can I have multiple security contexts with spring security?
+SpringIDE and eclipse galileo 3.5
+Spring Security UserDetails Best Practice
+Spring @Transactional Annotation Best Practice
+Spring MVC Domain Object handling Best Practice
+Spring JPA Exception Translation
+Passing properties to a Spring context
+Programmatically set a specific bean object - Spring DI
+Spring: How to programmatically define FactoryBean
+Making sure a Spring Bean is properly initialised
+SpringJUnit4ClassRunner tests -- work from ant, not from IDE
+Spring roo Vs (Wicket and Spring)
+Is Spring hard compaired to Ruby on Rails?
+Newbie Spring Config Question
+why does Spring use XML for component wiring?
+Sharing Spring Security Configuration Between Applications
+Spring JPA and persistence.xml
+Integration Test with Spring: Cannot convert value of type error
+Startup performance of Spring @Configurable with Compile Time Weaving
+Using Spring by Creating Multiple ApplicationContexts to manage bean life time - is this okay?
+Spring and JSF and JPA
+What are the benefits of proxying by class as opposed to proxying by interface (Spring)?
+Spring 3.0 and SOAP - What's best practice?
+Test if Spring Scope is active
+Use of getBean as opposed to method injection in Spring
+Running spring program inside application server
+How can I check Spring Security for user authentication and get roles from Flex?
+Extending spring's default component factory
+Hibernate flush and JTAUnexpectedRollback exception
+Are there Compound property values in Spring
+What is org.springframework.orm.hibernate3.support.BlobByteArrayType good for?
+Spring - How do you set Enum keys in a Map with annotations
+org/springframework/metadata/Attributes not found in spring3.0?
+Vaadin and Spring MVC Integration
+error handling with spring + servlet spec
+Quartz JobStore with Spring Framework
+FilterInvocation being called instead of MethodInvocation
+Spring Wire a Static Class
+Where is RequestMapping?
+Custom 404 using Spring DispatcherServlet
+Something like EJB wiring in Spring for non EJB's
+Spring's AuthenticationProcessingFilter override
+jdbcTemplate hangs on long update
+How do I setQueryTimeout on SimpleJdbcTemplate?
+Hibernate/Spring3: could not initialize proxy - no Session
+Automatic dynamic binding in spring
+Spring ApplicationContext Bean Scope
+Is there a good reference for how Grails was architected with Spring?
+UrlFilenameViewController does not return View (Spring-MVC)
+How to use Spring to inject an object in a setter that doesnt follow the Java bean specification ?
+Bulk inserts with Spring / Hibernate
+Sharing JMS and Hibernate transactions in a Spring MDB using Oracle Streams AQ?
+Spring Injecting into Struts RequestProcessor
+Spring Open JPA
+Can I use Spring roo in existing project that doesn't use Maven?
+Two approaches of task distribution in a multi tier application
+Spring Annotation-based controllers not working if it is inside jar file
+Spring JDBC connection pool and InputStream results
+ConstraintViolationException VS DataIntegrityViolationException
+Spring Datasource and Database Schema
+Is it possible  to declaratively configure the spring.net cache rather using attributes
+map url to controller
+WebSphere and PropertyPlaceholderConfigurer
+springsource tool suite (eclipse) tutorial?
+Refreshing/replacing beans in the ApplicationContext.  Possible or am I missing the point?
+Spring XML inner bean question
+An RMIPRoxyFactoryBean factory in Spring?
+log4j:WARN No appenders could be found for logger in web.xml
+cannot display view after handler call it
+How can i register a global custom editor in Spring-MVC ?
+jdbctemplate, jpatemplate
+template method pattern
+Introducing Spring MVC
+@Autowired and TransactionProxyFactoryBean?
+Java Execution Context Class Explain
+call valang validator in MultiActionController ModelAndView method... possible? how?
+java logging vs Log4j in Spring framework. Which one is the most suitable.
+Spring configuration file cannot parse elements defined in my own schema
+Forcing Spring's MBeanExporter to use a particular MBeanServer
+How to inject spring beans into a jsp 2.0 SimpleTag ?
+Pentaho Acegi Security Framework Digest Authentication & Ruby on Rails
+global properties in spring
+Which hibernate adapter should I use to handle Lazy Initialization in BlazeDS / Spring integration projects with Flex?
+Spring and the anemic domain model
+Aspectj in spring
+Circular Dependency and Spring-powered Event Queue
+Spring can't see my imported classes
+Database-sessions in Spring
+google gin? use with spring?
+Naming convention for Spring application context XML
+Spring: Is there a simple non-web tutorial?
+Configuring Spring based servlet with sysadmin defined properties
+Advantages to adding Spring to Flex
+Trouble configuring AspectJ LTW with Tomcat and Spring
+g:set blocks out my code
+Wiring Twitter class of Twitter4j in Spring
+Auto-wiring a List using util schema gives NoSuchBeanDefinitionException
+When is it appropriate to use an EAR and when should your apps be in WARs?
+Spring MVC and parsing HTML
+Updating built in Spring/Hibernate Archetype in Maven?
+Spring RegisterSingleton
+Spring Security Child Thread Context
+Spring Framework Events
+Can I inject an interface subtype in Spring?
+MethodInvokingBean question
+Spring 3.0M4 and passing objects as parameters to POST
+How to mock a static variable in java using JMock
+Accessing the JDBC ResultSet concurrently in Spring
+In what case would a programmer get the webApplicationContext out of DispatchServlet?
+Spring.NET Expression that References an Object Definition
+Flex + Spring + BlazeDS + Glassfish + OpenMQ - How do you configure the web-application-config for OpenMQ?
+Hidden features of Spring framework ?
+incompatible types found: required: default enums in annotations
+application-context.xml problem for Spring ActionScript
+Which one of the java spring books to start?
+Spring - Ways to include a jar which itself is using Spring in a Spring project
+Spring - When should I consider loading another context in same JVM?
+spring enabled web application
+spring ioc and JSR168 Portlets
+Runtime dependency injection with Spring
+same bean id on different xml file, will it merge?
+Java spring database application won't quit reference to org.enhydra.jdbc.pool.PoolKeeper is still active why?
+Spring list beans by type
+Estimating a Spring/Hibernate project.
+Spring 2.2.5 and Xfire 1.2.6 - NoSuchMethodError: <init>
+Spring destroy-method & half injected objects
+How to set up a global prefix and suffix used in each error field in Spring ?
+Should I use Spring or Guice for a Tomcat/Wicket/Hibernate project?
+How can i get error message in form:errors tag by using MultiActionController ?
+DefaultAnnotationHandlerMapping via ContextLoaderListener instead of DispatcherServlet on Spring 3
+Spring - How to load a new hierarchical context?
+Unable to publish web app: SpringSource Tool Suite problem?
+Spring-MVC is adding on an extra .jsp extention to the URL a user enters
+Spring - Weird Error in Bean Creation
+Spring - StackOverflowError in Bean creation
+Form based login while also applying REST principles
+How can I mix and match custom Spring schema types with traditional Spring schema types?
+How to modify beans defined in a spring container
+Spring RDBMS vs JDBCTemplate
+Convert XML based configuration to Annotations
+How to log the time taken by methods in Springframework?
+how to create Thread poolling using Spring scheduler?
+TestNG and Spring 3
+Spring Entity to use Service, possible design flaw, but still....
+Handling transactions spanning across database servers
+how to add filterclass into applicationContext?
+Start the H2 database in server mode via Spring
+Spring JSR303 validation doesn't work like described in Spring Documentation
+Injecting Log4J loggers with Spring
+Problem managing session with multiple data sources
+Spring DI, Domain Model & best practices
+scope of a controller and a validator
+Java Spring: AnnotationSessionFactoryBean, Hibernate-Dialect AutoDetection
+How to create bean of type Class?
+Server side MVC +Client side MVC
+spring component scan for classes
+spring: a bean that receives a list of Classes
+spring mvc: detect if an exception has been thrown while loading the context
+Spring MVC Custom Authentication
+What causes a Spring 1.2 NullPointerException when creating prepared statement?
+Is it possible to use placeholder in context.xml
+Ready configurations for Spring + Hibernate
+LazyInitializationException while unit-testing Hibernate entity classes for use in Spring, using TestNG
+spring annotation configration issue
+Spring map definition
+How to define Spring datasource in controller ?
+SpringJUnit4ClassRunner initialize beans for each test?
+DWR + Spring + JPA Session Closed
+How can I use SimpleFormController with Validator with Spring 3?
+How to externalize a Spring MessageSources bundle outside the WAR
+How does Spring maintain singletons,prototypes... under the hood?
+Again: Spring3/Hibernate3/TestNG: some tests give LazyInitializationException, some don't
+Problem creating bean of sessionFactory in spring-hibernate configuration
+Spring security - SecurityContext.authentication null in taglib and jsp but ok in controller
+DAO, Spring, Hibernate, Jboss
+Getting error when submitting form using SpringMVC and REST
+SOAP and Spring
+Spring Application Context available inside the constructor
+Spring Explorer not showing beans from bean definition file
+How can I access path variables in a URI template in the view (Spring 3/SpringMVC)?
+caching spring/hibernate webapp
+Spring not restoring tomcat persistent sessions to session registry after restart?
+Creating temporyary JMS jms topic in Spring
+Faces conversion service is not found for converting 'dataModel'
+Is there a Spring HandlerAdapter implementation for Struts?
+How to implement Abstract Factory pattern in Spring-AOP?
+Reading a list from a java .properties using Spring properties place holder
+Spring's PropertyPlaceholderConfigurer with property in a jar file
+creating spring bean
+Mapping both static and dynamic files in Tomcat/Spring?
+spring: set property of one bean by reading the property of another bean?
+No Hibernate Session bound to thread
+Spring JSON View: ApplicationObjectSupport does not run in an ApplicationContext
+Executing a method from another class in java(and more)
+I need a simple custom authentication in spring
+Spring AOP vs AspectJ
+Howcan I get started with Spring Batch?
+Why Spring Framework ?
+Best way to Learn Spring Framework
+Spring + Thread safe singletons
+Spring security and Struts 2
+Problem with spring quartz
+Using @PostConstruct annotation in Spring 3.0.0.RC1
+In Java/Spring, how do you setup the hashmap to append the query string?
+How do i get the Session Object in Spring ??
+Using the same service & DAO from two threads
+TransactionProxyFactoryBean when switching from configuration-based Service beans to annotation based service beans
+Service activator method mapping using @Header annotation in Spring Integration
+Pass Url Parameter web flow
+Spring Transactions in diffrent DAOs does not work anyway?
+Transactional services => BeanNotOfRequiredTypeException, should be Advice, but is TransactionInterceptor
+spring - java - syncronisation
+System properties can't be resolved in Spring XML using Maven
+how to conditionally show jsp content to logged in users with Spring security
+Mock object and Spring annotations
+Spring + SOAPExceptionImpl: Error during saving a multipart message
+Recommended to use Lingo with Spring?
+Spring MVC binding parameters to backing object
+what do the terms formBackingObject and ModelAttribute mean in Spring MVC?
+Spring Web Flow Set Form Input Value
+how do i check for errors in spring - security ?
+Spring 2.5 Form validation - Dynamic data lost if validator is called?
+spring+hibernate mapping class without xml
+Spring - How 'multiple' AOP behaviors to sevices are resolved?
+Spring: Getting FactoryBean object instead of FactoryBean.getObject()
+How does transaction propagation work when using Open Session In View?
+spring ibatis mysql transactions
+Spring Transaction with Sybase
+How do i convert JSP facelets to Code in a servlet ?
+What is the difference between putting @Autowired to a variable and a method ?
+identity from sql insert via jdbctemplate
+My Spring AOP not working
+Removing Spring.Cache
+Roles/Priviledges in a Spring/Hibernate application
+Spring SimpleUrlHandlerMapping not allowing routing for any html page
+Workflow engines that integrate easily/work well with Spring Web?
+Spring - Aspect is not getting applied at runtime
+Spring - Best approach to provide specific error messages in a validator from a DAO?
+Getting an application context
+Cannot get bean from flowScope
+Resource Bundle Spring
+Add Principal/authority dynamically for anonymous user
+ActiveMQ maven plugin configuration
+Spring Faces Error faces:flow-builder-services
+Is this spring training usefull?
+how to integration test a DAO built with spring + iBatis
+how to configure java.xml.transform.transformer in spring
+how to set SqlMapClient outside of spring xmls
+How can I determine Objects in application context?
+Spring web Dependency Injection(IOC) and the ServletContextListener
+Testing simultaneous calls to transactional service
+Spring webflow validation
+How to update a postgresql array column with spring JdbcTemplate?
+com iplanet AsException when trying to instantiate spring bean outside container
+Is the following utility class thread-safe?
+ContextLoaderListener problem while spring is loading up
+Spring Properties File
+SimpleFormController help
+SpringJunit4ClassRunner -- can I change the lifetime of the injected resources?
+Spring schemaLocation fails when there is no internet connection
+What are the available options to retrieve Spring-managed beans in a Log4J Appender inside a Spring-managed web application?
+Spring applicationcontext loading hooks
+array dependency injection in spring?
+DefaultMessageListenerContainer not working with Websphere MQ
+Logging user agent info on login with Spring Security
+Exception thrown after processing onSubmitAction
+Eclipse Spring Builder set properties with Groovy beans
+Putting array of arrays into a spring context
+Invalid property exception in spring.
+Spring and the scope attribute
+spring portlet MVC and request params
+Spring Advice - submitting a form
+Using Spring JUnit4 and JMock together
+How to tie the Lifecycle for a Spring Bean to the webapps' lifecycle ?
+Rewrite spring-security redirect URLs
+How to restart transactions  on deadlock/lock-timeout in Spring?
+ref vs idref attributes in spring bean declaration
+Getting server name in ContextLoaderListener
+Spring - share web application context between different webapps
+How to user Hibernate @Valid constraint with Spring 3.x?
+Access properties file programatically with Spring?
+Trying to get the information of session WebFlow Spring
+spring vs ejb. can spring replace ejb?
+How to programatically use Spring's JdbcTemplate?
+Spring JTA configuration - how to set TransactionManager?
+argh - can't get spring to log sql
+Where do you define spring bean configuration files
+How do i display non-validation errors in jsp with spring webflow
+Using Srping managed DAO without controller?
+Calling @Controller methods once per request
+Spring Batch: java.io.IOException: Stream closed exception when combining MultiResourceItemWriter and FlatFileItemWriter
+How to use spring to resolve dependencies of an object created manually?
+How can i wire-up  org.springframework.transaction.interceptor.TransactionProxyFactoryBean  and org.springframework.orm.hibernate3.HibernateInterceptor ?
+Spring Properties File
+Spring MVC very confused about controller mappings
+Accessing Spring bean *not* by dependency injection
+[Spring] Using beans from other modules?
+In a spring messages.properties, how to ensure line break of error message when using an error code as key ?
+Using Resteasy with javassist?
+Hibernate Spring Transactions
+Spring best practice for locking domain objects?
+Spring Security Encypt MD5
+Is it possible to bind a Spring Form to an Object using the constructor or by mapping multiple fields to a single value via a custom Editor?
+Spring Web Flow form binding
+Getting access to a spring bean from a webservice?
+Registering a shutdown hook in Spring 2.5
+HandlerExceptionResolver for annotated controller.
+Generating simple crud applications in Spring based off existing database or hibernate configurations?
+Spring JDBC RowMapper with Class Hiearchies
+autocommit and @Transactional and Cascading with spring, jpa and hibernate
+Spring Webflow Best Practice
+Spring - handle multiple forms submit with one controller
+Can I use an Environment variable based location for Spring FileSystemResource?
+Spring Web Flow
+Customizing Spring concurrent-session-control configuration
+Dependency Inject by type using generics - how does it work?
+Spring, db and property file configuration.
+Decoupling backing store with Spring Web MVC
+What are the differences between Spring integration and JBoss jBPM?
+Interoperability by using Spring and Hessian ? Is it possible ?
+Modifying show method of generated roo controler
+How to register multiple servlets in web.xml in one Spring application
+Spring MVC and JSF navigation rules together
+how to manage a custom user object in session when spring security autheticates user.
+How to connect HttpServlet with Spring Application Context in web.xml?
+Idiom for achievieng imperative wiring in a declarative Spring xml config?
+Spring Web Flow
+spring: add xml context on-the-fly?
+JPA Multiple Persisrtence Unit [bug]
+Model generation for manually entered page in Spring framework
+Spring Web Flow
+spring ioc injecting conrete implementation of interface to test
+Any existing way to make sure beans defined in spring xml are stateless?
+ASP.NET => Spring Web Flow: How do I get up to speed fast?
+In Spring, how do I use a ClassPathXmlApplicationContext to get an EntityManager?
+org.springframework.transaction.annotation.Transactional vs javax.jdo.annotations.Transactional
+Spring Web Flow  Error MEssages
+Spring Faces Javascript
+persistenceUnitManager problem
+xapool connection timed out
+Referencing beans in xml config created via Annotations
+In spring, what code is used to inject the value for the @PersistenceContext annotated variables?
+Spring Security Logout
+Spring - config apache commons email
+Spring MVC form:options tag not wiring into my objects Id?
+JRuby app throws exception in Spring
+Spring 3.0: Unable to locate Spring NamespaceHandler for XML schema namespace
+how to map "a-b" query to a command object in Spring MVC
+Multiple messageSources in Spring configuration files
+spring - hibernate load *.hbm.xml from classpath resource
+problem in Spring session scope bean with AOP
+caching per request in ASP.NET?
+Spring 3 on GlassFish 2.1 java.lang.NoSuchFieldError: APPLICATION_CONTEXT_ID_PREFIX
+How to programmatically add Security to a Spring Bean
+Spring Security basics
+How to configure transaction management for working with 2 different db in Spring?
+Cannot migrate from spring 2.5 to spring 3.0
+File based Spring Security
+accessing HttpServletRequest object in Spring WebFlow
+url-action mapping & routing in Spring MVC 3.0
+spring transactional cpool. Which one do I use?
+setting a property in a spring bean outside the spring bean definintion.
+How to generate a dynamic "in (...)" sql list through Spring JdbcTemplate?
+Downloading spring 3.0 with dependencies?
+Annotation-based and xml-based transaction definitions precedence
+does spring provide 2 mvc platforms, grails and spring mvc?
+Spring Security Access role
+Spring Security Max Login Session
+Can't I use annotation to indicate a bean is a primary bean
+Spring framework IDE - where to learn efficently?
+Spring Hello World setup and code in eclipse
+Spring Security Redirect if no access on page
+Loading Constants from db and reading them in an include file
+Apply dynamic properties to a bean at runtime
+Infinite loop using Spring Security - Login page is protected even though it should allow anonymous access
+Spring Security Concurrency On Different Browsers
+How to ensure that  methods called from same thread use the same DB session
+creating inner classes with spring
+DB backup problem with Spring/Hibernate GenerationType.AUTO
+Spring - Have multiple submit buttons in a form and determine which was pressed in a controller
+integrating springMVC and extjs
+How can I package an extensible default Spring configuration in my framework?
+Spring Security - Custom authentication provider not called
+Spring queryForLong - Loss of precision
+Spring Ajax controller - Accept submissions without refreshing page
+What other libraries or tools would you add to a Spring/Hibernate stack for improved rapid application development?
+How can I inject a property value into an annotation configured spring mvc 3.0 controller
+Conversion strategies for bind variables
+Is there an example on how to use Spring 3.0 content negotiation for RESTful services?
+problem creating an EhCache Cache from spring
+Spring + Hibernate + JPA
+Another Spring + Hibernate + JPA question
+spring 3.0 and JSRI68 support
+How do you model form changes under Spring MVC?
+Spring MVC + Oracle LOBs + Streaming
+Can Spring @Cacheable be configured to block on a cache miss?
+Applying additional aspectj around advice to a spring transactional method.
+Spring + Hibernate bean declaration error
+Spring + Hibernate JPA Question
+EntityManager refresh problem
+Getting Exeception
+Spring 3 Java Config: Imported @Configuration not enhanced?
+how to disable spring bean loading log
+EntityManager merge/persist problem
+Not showing error messages when validated using @valid(JSR-303) in Spring MVC
+Dependency Injection problem with EntityManagerFactory + jpadaosupport
+Dynamic injection of bean properties based on a locale variant in Spring
+Compiling jasperreports automatically on change
+Caching a resultset
+When does Spring create instances of objects that are injected
+Add messages with Spring
+Supply Spring managed objects to non Spring managed Objects?
+spring 3 AOP anotated advises
+Slow to start after upgraded to Spring 3
+What would be the Spring way of using TCP connections?
+How to manage a large dataset using Spring MySQL and RowCallbackHandler
+multiple session factories, one connection?
+Validate Numbers in Spring
+Spring 3.0 orm with jpa2.0 ClassCastException
+host/role dependent spring configuration
+How to handle DataIntegrityViolationException in Spring?
+Looking for a tutorial and/or example for the following: Annotation based Spring 3 with JPA and/or hibernate
+Spring programmatic transaction with parameter
+Spring OpenSessionInViewFilter: cant save object
+Convert Spring Batch from 1.1.3 to 2.0.0
+Spring Roo how to maintain state between commands
+How to "white label" spring beans
+Lazy initialiazation of cache with Spring IBatis
+Change Spring email settings based on dev/test/prod mode
+Where is the debug class path in netbeans / where does the spring config XML file go?
+Using Spring, mapping to root in web.xml, static resources aren't found
+Use Spring annotations to automatically apply Hibernate Interceptor?
+spring session scoped bean value empty?
+Spring Security Account lockout
+In a mvc application, where will the DI take place?
+spring hibernate: save form object in relation
+using Spring JdbcTemplate
+Problem with Hibernate find method
+Is there a performance hit with Spring if I use component-scan and make the base-package my root package?
+How to autowire factorybean
+Spring dependency injection in construcor with annotations
+Spring's JDBCTemplate IllegalArgumentException: datasource required
+Spring security null pointer exception
+Spring 3.0 - Unable to locate Spring NamespaceHandler for XML schema namespace [http://www.springframework.org/schema/security]
+What is the different between spring 2.5.6 and spring 2.5.6.SEC01
+Spring Security OpenID - Unable to Process claimed identity "null"
+Spring application context : access web.xml context-params ?
+on submit action
+getting value from one controller to another controller
+How can I read contents from Spring Messagesource within a Enum?
+Spring DefaultMessageListenerContainer, ActiveMQ and message redelivery
+Can spring transactions unsynchronize a synchronized method?
+Jersey w/ Spring 3.0?
+Data does not persist using HIbernate with Spring's @Transactional Annotation
+Does spring form taglib disabled attribute really have to resolve to a string?
+How can I implement a redirect-after-post form with Spring's AnnotationMethodHandlerAdapter?
+Is It Possible To Spring Autowire the same Instance of a protoype scoped class in two places
+Spring MVC configuration question
+Whats wrong with my Url Mappings?
+Anybody using Qi4J
+Spring application root variable
+Getting Exception for Spring File upload (Urgent)
+spring jdbc RowCallbackHandler nightmare
+Spring controller setup question?
+How to cluster and load balance a Sprint + OSGi app
+Spring+JPA+Hibernate: persist is updating the entity surprisingly.  Please go through the details.
+Invoking Concrete Methods From an Abstract Class Using Spring
+Request handling methods in spring
+how to do background computing in Spring 3.0?
+Unable to locate Spring NamespaceHandler for XML schema namespace
+Spring Timers on JBoss don't stop when undeployed
+How does Spring resolve views?
+Spring 3.0 set and get session attribute
+spring xml config
+What is the meaning of using proxy ( dynamic proxy) in spring framework?
+How to correctly implement OpenSessionInView with Spring 3.0 and Hibernate 3 (in liferay portlets)?
+Spring MVC 3 Validation - Unable to find a default provider
+How do I prevent Spring/Hibernate from automatically committing my modifications to the database?
+Is there a transaction management for DAO in Spring framework?
+Translate Spring XML configuration to Java config
+Which maven modules to include for spring 3.0?
+Spring 3.0 EL How to get property from a properties file?
+Using Spring Security with EJB or Spring?
+Issues with setting URL mappings in Spring MVC 2.5
+Spring Transaction - Proxy confusion
+Spring Security with EJBs
+Spring application context : webapp folder variable ?
+In Spring Web Flow, how do I add # to the end of the flowExecutionKey to redirect to an anchor in a page?
+Multiple servers checking and writing flag in database
+How to implement pagination is spring mvc 3
+Spring Design By Contract: where to start?
+Spring MVC vs JSF
+How to handle back browser button problem using spring?
+Database connection management in Spring
+How exactly JdbcTemplate with TransactionManager works together?
+Spring Unit/Intergration Testing setup
+how to send mail Spring implemention using gmail smtp?
+Spring 3.0 making JSON response using jackson message converter
+Getting started with Spring 3 Web MVC - Setting everything up
+exception while deploying spring app on tomcat 6
+Using Email Template in Spring
+Spring AOP Pointcut syntax for AND, OR and NOT
+how i use spring and netbeans
+Add SoapHeader to org.springframework.ws.WebServiceMessage
+How to create the file browser in view for spring roo?
+Getting a  Spring resource
+Accessing legacy out-of-container instantiated objects from Spring beans
+How do I suppress the 'Returning cached instance of singleton bean' logging message in Spring/Java?
+Access bean name in custom method interceptor
+Runtime value injection using Spring?
+What class should I inherit to create a database integration test in case of Spring?
+Jersey, Spring, Tomcat and Security Annotations
+Is SecurityContextHolder thread safe?
+How can we share data between the different steps of a Job in Spring Batch?
+How configure a RESTful controller in Spring 3 with annotations?
+Proper way of "shutdown" a spring context in J2SE
+I've a function updating database table using Spring's JdbcTemplate and for some reason there was exception that connection is read only u can not update any database related changes. How to resolve these problem?
+SimpleJdbcTestUtils.executeScript and multilines script
+Spring servlet mapping - no css or jsp!
+Bzip2 Tomcat Output
+Is there is any way to protect the password in .xml using spring
+Testing Spring @MVC annotations
+Single DispatcherServlet with Multiple Controllers
+Spring beans, Lifecycle in a XmlWebApplicationContext (web context)
+Get Spring Security intercept urls from database or properties
+How do I configure Spring Security 2 database authentication with Hibernate 3 Annotated Classes?
+ModelAttributes  not accessible on jsp (Spring MVC)
+How do I use Spring's IdToEntityConverter to do my Entity Type Conversion during form binding?
+During Spring unit test, data written to db but test not seeing the data
+Duplicate form submission in Spring
+How to set up multi-threading in Spring Batch?
+How to bind IP address to a Spring 3 @ModelAttribute?
+Where to store database passwords in a spring application or use JNDI?
+Spring - Rewrite one URL to another
+IllegalArgumentException for dataSource in Spring application
+Usage question: Spring AOP vs. AspectJ weaving
+Spring Security in a distributed application.
+jpaTamplate how to autocommit...?
+image uploading using MultiPart
+spring batch insert using hibernateTemplate, JdbcTemplate
+How to google for spring 3.0 documentation?
+Spring WebContent Resources - Access outside ServletContext
+SPRING: How do you programmatically instantiate classes based on information passed from Flex UI
+Streaming Dynamic Files from Spring MVC
+sample_en.jsp and sample_fr.jsp in Spring MVC
+What happened to the Spring Modules project?
+@Transactional not working with spring and hibernate
+Spring Injection - Interfaces and Classes
+Spring: Programmatically use PropertyPlaceHolderConfigurer on none Singelton Beans
+Spring: PropertyPlaceHolderConfigurer to set values for complex properties
+What's the difference between Tomcat JNDI based and Spring/Hibernate DS based connection pooling
+Creating lazily initialized Spring beans using annotation based configuration
+Spring and view resolvers
+How to create dynamic Template String
+spring multiple property file
+Cannot use Spring LDAP with Spring Security
+Is there any advantage to use spring DataAccessExceptions instead of JPA PersistenceExceptions ?
+Do I understand Spring @Transactional behaviour correctly?
+In Spring can you alter property placeholder values using a BeanDefinitionDecorator?
+AbstractTransactionalJUnit4SpringContextTests: can't get the dao to find inserted data
+FileSytemResources in Spring Framework
+Spring Map a file to a Url / URI
+@Resource annotation not injecting a subclass
+Spring bean initialized on web app starts up
+Initialize Spring beans packaged inside a jar file
+when spring bean is loaded and if i have a constructor and setters which one will be called first?
+What is the best view layer for Spring 3 ?
+Spring Autowiring class vs. interface?
+Is there a spring lazy proxy factory in Spring?
+client side spring
+Spring MVC Date and CustomDateEditor problem on simple text Field.
+Hibernate/Spring: Persisting collections
+Best way to force Spring shutdown from a bean?
+Execute method on startup in spring
+What does <tx:annotation-driven/> in Spring really do in the code level ?
+Spring WS & Validator interceptor
+request scoped beans in spring testing
+Monitor Spring java application
+Apply Transaction Management Spring
+Spring context XML validator for eclipse?
+Exemplary open-source Spring projects
+Representing multiple ordering through Spring @RequestParam
+Spring web application: executing common code before entering RequestMapping in controller
+Best Flex Framework with Spring
+Using WebServiceTemplate with a keystore
+EntityManager injection with JPA
+How to access sprinr context in jUnit tests annonted with @RunWith and @ContextConfiguration?
+spring binding formmultiselect
+Spring 3 simple extentionless url mappings with annotation-based mapping - impossible?
+Newlines and Spring's SimpleUrlHandlerMapping
+How to inject dependencies into HttpSessionListener, using Spring?
+ACL architechture for a Software As a service in Sprgin 3.0
+spring security : Failed to load ApplicationContext with pre-post-annotations="enabled"
+Define DataSource bean on code
+Fill a list from JSP in Spring
+Spring Application Context Switch at Runtime
+Unit Testing Hibernate's Optimistic Locking (within Spring)
+MultiActionController no longer receiving requests?
+Spring, Hibernate, EntityManager and class inheritance
+Which view will be resolved, code from spring's docs
+Autowire Annotation in Spring without using Component Scanning
+How to make a legacy webapp spring aware at the container level for bean autowire into Servlets?
+Does Spring MVC form submit data bind children objects automagically?
+Spring validation errors not displayed
+What's mean that Caused by: javax.validation.ValidationException: Unable to find a default provider ?
+Dependency on Spring's annotations
+Spring: Same object, different validation
+How to create an aspect on class, that is not a bean using Spring AOP?
+Problems overriding a property to null in Spring bean declaration
+Are there any examples/tutorials of using Spring 3.0 with Cassandra as a backend?
+spring roo backup command lost my files
+Access and modify attributes/objects which are not part of the form backing bean
+Conversion of bytes into a type without changing the application (ie storing the conversion method in DB) with Spring 3.0
+Using single spring application context for web app
+Reading annotation property in aspect
+Qestion about spring manning-in-action
+Spring Transaction Manager
+Spring Transactional Parameterized Test and Autowiring
+Spring MVC Web PetClinic Tutorial?
+Spring 3 replacement for isDisabledInThisEnvironment
+static factory method (Spring)
+Spring freemarker bind - what is controller?
+Programatically bridge a QueueChannel to a MessageChannel in Spring
+Is it possible from Spring to inject the result of calling a method on a ref bean?
+SessionFactory in Hibernate
+Trying to setup externalizing properties in spring
+extending spring form tag library attributes
+What's the most minimal way to achieve Dependency Injection?
+What is the equivalent of Struts ActionMessages in Spring MVC?
+Spring Security 3.0 and Active Directory LDAP: DOMAIN\user login
+Injecting property values via Spring by Environment
+Ant target for compile-time code instrumentation with Spring aspects
+Error creating bean with name 'sessionFactory'
+how does a spring framework works?
+Spring - Redirect after POST (even with validation errors)
+spring - use both simple SimpleUrlHandlerMapping and AnnotationMapping
+Am I allowed to declare a lifecycle interceptor on an interceptor?
+Spring @notation documentation
+Spring Webflow: cannot get flow execution url at action phase of portlet
+Spring AOP: how to get the annotations of the adviced method
+Learning Spring MVC For web-projects
+Custom bean instantiation logic in Spring MVC
+Spring to understand properties in YAML
+view is not rendered when returning ModelAndView
+SPRING: What is AOP, Dependency Injection and Inversion Of Control in Simple English
+Dependency Injection mechanism
+Spring Transitive Dependency Injection
+What is detached  persistance and transient object in hibernate ?
+Spring Custom Filter Problem?
+Spring HandlerInterceptor or Spring Security to protect resource
+Spring rejecting bean name, no URL paths specified
+Jar utility for the Java package org.apache.poi.hssf.usermodel.*
+IDE support for Spring framework; Are they worth using?
+How do I get spring to inject my EntityManager?
+Exception in JEE application Email Notification Pattern
+what's the best practice to config Hibernate-Spring for multiple database relationship?
+Using beans from another project
+How to parameterize @Scheduled(fixedDelay) with Spring 3.0 expression language?
+Spring Security: Redirect to invalid-session-url instead of logout-success-url on successful logout
+Mapping to a JSON method with url-pattern
+Any open source Spring sample project that's bigger than PetClinic?
+spring - @ContextConfiguration fail to load config file in src/test/resources
+Spring, Hibernate, Blob lazy loading
+Start app in a web flow
+Is it possible to configure a Spring session scoped bean with attributes from the session?
+Intercepting method with Spring AOP using only annotations
+Srping, autowire @Value from a database
+Is Two phase commit possible using RMI and Spring
+Properties framework in java apps
+Compile classfile issue in Spring 3
+Spring's JMS Design Question : Decouple processing of messages
+How do I set a dependency on Spring Web Services in my POM.xml
+Spring redirect: prefix issue
+First steps in Spring Framework
+XSD Client in Spring
+Dealing with SQLException with spring,hibernate  & Postgres
+Is the REST support in Spring 3's MVC Framework production quality yet?
+Spring struts and forms
+Setting nested object to null when combobox has empty value
+How to use a Spring config file in a Maven dependency
+How to know the line of a bug in a spring generated bean ?
+Not able to use spring Beans outside container . Always picking up WebSphere Context
+Why so Long time span in creating Session Factory?
+Spring security problem, Error creating bean with name 'org.springframework.web.servlet.mvc.annotation.DefaultAnnotationHandlerMapping'
+Caused by: java.lang.NoSuchMethodError: org.springframework.beans.MutablePropertyValues.add(Ljava/lang/String;Ljava/lang/Object;)Lorg/springframework/beans/MutablePropertyValues;
+How can I get access to spring container?
+Location of view.properties in my proyect spring mvc jasperreports
+Spring: I wish to create a junit test for a web application - WebApplicationContext needed
+What transaction manager should I use for JBDC template When using JPA ?
+How to configure Spring Security PasswordComparisonAuthenticator
+How do I create a Spring 3 + Tiles 2 webapp using REST-ful URLs?
+Safeguard against forgetting to configure transactions in spring
+How to achieve spring injection in oVal validation Framework?
+Sending multi-part email from Google App Engine using Spring's JavaMailSender fails
+What is the single most compelling reason to migrate to Spring 3 from 2.x
+SpringFramework3.0: How to create interceptors that only apply to requests that map to certain controllers?
+CGLIB proxy error after spring bean definition loading into XmlWebApplicationContext at runtime
+Problem with Autowiring & No unique bean
+Spring MVC 3.0: Avoiding explicit JAXBElement<> wrapper in method arg
+spring classloader isolation problem on jboss
+How to Configure SSL over Database in Spring?
+What is the best way to get a reference to a spring bean in the backend layers?
+JSR-303 dependency injection and Hibernate
+@Autowire strange problem
+Web based Report Designer Spring/Hibernate
+Which Java modules get Spring Security
+Why is SpringSource Tool Suite (STS) so slow? And how can I fix it?
+Spring scheduler shutdown error
+No properties file found Error for ReloadableResourceBundleMessageSource
+Where is the sample applications in the lastest Spring release(Spring Framework 3.0.2)?
+How to @Autowire objects in Validator classes?
+Could someone explain Spring Security BasePermission.Create?
+Minimizing SpringLdap dependencies.
+How can I get the Hibernate Configuration object from Spring?
+LazyInitializationException in Spring
+How to create CommonsMultipartFile object given only a file.
+em.persist seems doesn't persist data on postgreSQL db
+How to perform spring validation  in multiaction controller?
+Spring 3: task namespace: How to find out time of next execution?
+How to get error text in controller from BindingResult
+Question about spring transaction propagation
+Spring Framework 3 and session attributes
+Is there a maven 2 archetype for spring 3 MVC applications?
+PropertyPlaceholderConfigurer vs Filters -- Spring Beans
+Is there any difference between Spring and Spring.net?
+Spring Security 3.0- Customise basic http Authentication Dialog
+Best way to pass objects between controller actions in grails
+Spring Security 3.0 - Intercept-URL - All pages require authentication but one
+Controlling new features in Spring/Apache tomcat
+How can I make properties files mandatory in Spring?
+How can I translate text inside controller in Spring Framework 3 ?
+Spring Sample Application
+Pointcut matching methods with annotated parameters
+Spring & Hibernate SessionFactory - recovery from a down server
+Upgrading dojo in Spring-js from 1.3 to 1.4
+Spring MVC Table selected row
+OSGi Logging with spring-DM extender not logging
+Spring deployment-level configuration
+What does "bean X is injected into bean Y" mean in context of Spring framework
+Spring 3 and a custom object wrapper for FreeMarker
+@ContextConfiguration in Spring 3.0 give me No default constructor found
+Spring custom error message
+Spring servlet-mapping
+Beans... what is it actually
+Loading Properties with Spring (via System Properties)
+inyect a mockups to a bean that has @autowired annotations
+What is annotations and how do it actually works for frameworks like Spring ?
+spring - constructor injection and overriding parent definition of nested bean
+lazyinializationexception with transactional annotation in messageconvert
+How to make Spring load a JDBC Driver BEFORE initializing Hibernate's SessionFactory?
+Spring validator default message codes not resolving
+Spring 3.0 vs J2EE 6.0
+Spring MVC defaultValue for Double
+java.lang.IllegalArgumentException: Method must not be null
+Spring Batch validation
+Disable Spring URL resource loading in context file
+Spring FactoryBean and scopes working together
+Spring-samples don't understand the templates
+ETL , Esper or Drools?
+Problem with Spring @Configuration class
+Spring 3 DI using generic DAO interface
+Different i18n in spring according to url
+Spring/Hibernate: InvocationTargetException when deleting entity
+sitemesh and tiles 2.1  integration with  spring MVC
+What the consensus on Spring p namespace for Beans?
+Spring using JNDI with Tomcat... why do I need a META-INF/context.xml in my project
+Create spring beans, based on a comma-separated list of classes
+sitemesh and spring MVC decorator pattern problems
+Dependency Injection into your Singleton
+Creating multiple forms in one jsp file. ModelAttributes have to always be set?
+How to create TestContext for Spring Test?
+Where to open sessions in a Spring/Hibernate stack?
+Spring Test / JUnit problem - unable to load application context
+BindingResult.rejectValue does not find value from ValidationMessages.properties
+Spring/Eclipse 'referenced bean not found' warning when using <import>?
+Caching with Spring Framework
+I'm using spring, hibernate and mysql. How can I let my app create the table automatically.

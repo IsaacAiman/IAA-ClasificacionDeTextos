@@ -1,0 +1,997 @@
+Explicit Type Conversion in Scala
+Arrays in Scala
+Real-world examples of Scala applications?
+Getting the string representation of a type at runtime in Scala
+Scala: how to create XML nodes from some collection
+java/scala shutdown hook -noclassdeffounderror
+How to use scalax.io.CommandLineParser?
+Scala combinator parsers - distinguish between number strings and variable strings
+Scala syntax - pass string to object
+Better way to access tuple(other than match case)
+Is it possible to add a method to a built-in type in Scala?
+Is there syntactic sugar for binding a value inside an anonymous function in Scala?
+Building a scala app with maven (that has java source mixed in)
+lazy loading some config params, trying to come up with a pattern in Scala...
+Non-mathematical use cases for functional programming ?
+Idiomatic Scala Map manipulation
+Which is the best IDE for Scala development?
+How do I configure jEdit for Scala projects?
+How to write eclipse rcp applications with scala?
+Unit testing scala actors
+Scala Programming for Android
+How to write a nice Low-Pass-Filter in Scala
+scala -> use .net (linq) and java (various frameworks) in the same program?
+How does one write the Pythagoras Theorem in Scala?
+Is there a way in scala to convert from any Map to java.util.Map ?
+Is Scalas/Haskells parser combinators sufficient?
+Iterating over Java Collections in Scala
+Factory methods for implementations of Java interfaces wrapped with Scala implicits?
+EBNF to Scala parser combinator
+Creating a parametric graph type in Scala
+Scala remote actors
+Does Scala's pattern matching violate the Open/Closed Principle?
+Unpacking tuple types in scala
+Scala: splitting a list using a predicate for sublists
+How does the "specs" BDD framework for Scala work?
+Type parameters versus member types in Scala
+What is the rationale behind having companion objects in Scala?
+Do you plan to use the Scala programming language and on what project?
+Generic wildcards in variable declarations in Scala
+Scala covariance / contravariance question
+scala turning an Iterator[Option[T]] into an Iterator[T]
+Scala and interfaces
+Scala equivalent of new HashSet(Collection)
+Scala best way of turning a Collection into a Map-by-key?
+Converting Java collection into Scala collection
+Scala collection standard practice
+Scala non-covariant immutable Set
+Scala do I have to convert to a Seq when creating a collection from an iterable?
+Scala API design; a service which returns a Set<I> where I is some interface (abstract/trait)
+scala Map: mysterious syntactic sugar?
+What is the _root_ package in Scala?
+What's the Scala syntax for a function taking any subtype of Ordered[A]?
+How do I implicitly convert Tuples to vector in Scala
+What are the key differences between Scala and Groovy?
+Enterprise Scala
+Web Application Development on Scala
+What's so great about Scala?
+How should I specify the type of JSON-like unstructured data in Scala?
+How to add external library to the classpath in scala's interpreter?
+Is there any Wicket-like web framwork to use with Scala (not lift)?
+Pattern matching a String as Seq[Char]
+Why does the empty string not match as Seq.empty?
+Unit testing Scala
+Is scala.net production ready?
+Why does Scala have very little Enthusiasm about it?
+How is pattern matching in Scala implemented at bytecode level?
+Scala XML serialization
+Scala lift framework, ajax form that submits multiple values?
+Why cannot this.type be used for new instances
+What are some example use cases for symbol literals in Scala?
+Scala: Is there a way to use PriorityQueue like I would in Java?
+Use Class Variables As Constants In Scala
+Learning Scala or Haskell
+Creating a jar file from a scala File
+Abstract Types / Type Parameters in Scala
+This seems awfully repetitious for Scala...
+how do i create a map with a type parameter of class
+What are stackable modifications?
+What is the best way to format a string in Scala?
+Mapping over sublists in scala
+What does single appostrophe mean in Scala?
+How can I construct and parse a JSON string in Scala / Lift
+Why is PartialFunction <: Function in Scala?
+Scala: How do I cast a variable?
+How to check existence of a program in the path
+Scala Swing event framework - where do I add my reactors?
+Using @Autowired of spring with scala
+Scala Popup Menu
+When to use the equals sign in a Scala method declaration?
+If scala scaled well for Twitter, would jruby have done the same?
+scala Map filterKeys: Projection cannot be assigned to a Map reference
+scala collection.Map cannot be added to
+Code Coverage Tools for Scala
+Set that match both arrays in Scala
+Does this Scala actor block when creating new actor in a handler?
+How to write Tetris in Scala? (code review)
+Handling properties in Scala
+Scala - modifying nested elements in xml
+What's the best Scala build system?
+Logging in Scala
+Scala - replaceAllIn
+GUI programming in Scala
+How to integrate Scala language with Spring Security
+How to pass a class object from Scala to Java?
+Scala actors as single-threaded queues
+Scala - which characters can I omit
+Can Scala actors process multiple messages simultaneously?
+Processing messages concurrently in an Actor
+Using varargs from Scala
+lift snippet help
+Scala match decomposition on infix operator
+Aggregate list values in Scala
+Can Scala survive without corporate backing?
+How to convert from from java.util.Map to a Scala Map
+Scala's existential types
+Can Scala's Actor framework handle 10.000 actors without stack problems?
+Should my Scala actors' properties be marked @volatile?
+Scala HMAC-SHA1 signing?
+Is there any game engine in Scala?
+How to set an expected exception using Scala and JUnit 4
+Can someone explain Scala's yield?
+Functional Reactive Programming in Scala
+Converting Enumeration to Iterator
+Is it bad practice to send an  actor a message from something which is not an actor?
+How can I identify a remote actor?
+What does the remote-actor framework do if trying to write to a client which is no longer there?
+How is Scala "filling in" missing arguments to a case class?
+How is this case class match pattern working?
+scala Iterable#map vs. Iterable#flatMap
+Scala/Lift question rss feed fetch
+What is the purpose of Scala language?
+Static inner classes in scala
+How can I convert a Java Iterable to a Scala Iterable?
+Construct a java.util.List from a java.util.Set in Scala
+Scala: match and parse an integer string?
+Question on Scala Closure (From "Programming in Scala")
+Mixin Multiple Traits in Scala
+Scala Regex enable Multiline option
+Scala - Java interop: can Scala emit enums in bytecode for Java to consume?
+Is there a Scala unit test tool that integrates well with Maven?
+How do I get around type erasure on Scala? Or, why can't I get the type parameter of my collections?
+Changing XML Namespace with Scala
+Scala constructor overload?
+What makes Scala's "operator overloading" good, but C++'s bad?
+Scala as the new Java?
+Should I study Scala?
+Editor does not contain a main type
+How do you define a local var/val in the primary constructor in Scala?
+What the meaning of colon, underscore and star in lift's Sitemap(entries:_*) ?
+How do I sort an array in Scala?
+Scala equivalent of Java java.lang.Class<T> Object
+java.lang.NoSuchMethodError: main when starting HelloWorld with Eclipse Scala plugin
+Can Scala allow free Type Parameters in arguments (are Scala Type Parameters first class citizens?)?
+Scala - can yield be used multiple times with a for loop?
+How do I extend scala.swing?
+What ORMs work well with Scala?
+Use Scala to unit test Java?
+Using scala actor framework as fork-join computation?
+Scala: Abstract Types vs Generics
+Multiple actor invocation from blocking call
+Mapping over multiple Seq in Scala
+Is there an efficiency penalty when using Scala inner functions within non-tail recursive functions?
+What good are right-associative methods in Scala?
+Best Scala imitation of Groovy's safe-dereference operator (?.)?
+Chained comparisons in Scala
+What is the Scala equivalent of Java's ClassName.class?
+lift net.liftweb.http.S#param doesnt works like wiki says
+How do you call Scala objects from Java?
+What are the precise rules for when you can omit parenthesis, dots, braces, = (functions) etc?
+Why can't Scala infer the type parameter in this example?
+Scala factorial on large numbers sometimes crashes and sometimes doesn't
+Using alternative comparison in HashSet
+Using Either to process failures in Scala code
+Idiomatic table cell renderers in Scala
+Scala: keyword as package name
+Avoiding Scala memory leaks - Scala constructors
+Sleeping actors?
+Case class to map in Scala
+Sorting objects based on Double values?
+Scala Traits Usage
+scala dot syntax (or lack thereof)
+Preferred way to create a scala list
+What are the biggest differences between Scala 2.8 and Scala 2.7?
+Is there anything like Haskell's 'maybe' function built into scala?
+Practical use of futures? Ie, how to kill them?
+scala / lift example of form processing
+Scala actors: receive vs react
+Scala: How to define "generic" function parameters?
+How to define a cyclic type definition?
+Calling an blocking Actor from within an Actor
+How to use Java Collections.shuffle() on a Scala array?
+Programmatically setting Repeated Parameters in Scala
+Scala: how to merge a collection of Maps
+Does Scala AnyRef.clone perform a shallow or deep copy?
+What is the easiest way to deeply clone (copy) a mutable Scala object?
+What is are differences between Int and Integer in Scala?
+How should I organize implicits in my Scala application?
+Scala immutable SortedSet are not "stable" on deletion
+How do I get started developing for a web using Scala?
+Elements of Scala Style?
+Scala closures on wikipedia
+Scala: What is the difference between while(true) and loop?
+Scala equivalent to Haskell's where-clauses?
+Read entire file in Scala?
+Drawbacks to using Lift (Scala-based framework) for webservices?
+How to get Scala plugin and AJDT to be installed in same Eclipse
+How to use SBT (Simple Build Tool) with Google App Engine?
+Infix operators in Scala and Jython
+How should I think about Scala's Product classes?
+How to instantiate an instance of type represented by type parameter in Scala
+Scala: Mutable vs. Immutable Object Performance - OutOfMemoryError
+Writing applications with Scala actors in practice
+Writing applications with Scala actors in practice II
+What's the "functional way" to avoid passing state-choosing context down the call stack?
+Is there a scala version of Python's Mechanize?
+Thread.join not behaving as I expected in scala
+Scala vs. Groovy vs. Clojure
+How to reduce Scala (/ Java) startup overhead?
+Is there potential starvation in this code or is it just me?
+Calculating the Moving Average of a List
+Scala doesn't have enums - what to use instead of an enum
+Alternatives to multimethods in Scala or Jython
+Practical examples of using symbols in Scala?
+Table Cell renderer using Nimbus and Scala
+Common programming mistakes for Scala developers to avoid
+Avoiding implicit def ambiguity in Scala
+Scala BigDecimal division
+Scala profiler?
+How can I force the type of an array when initialized in Scala?
+Does Scala's BigDecimal violate the equals/hashCode contract?
+what is the Benefit from Scala ?
+Can a range be matched in Scala?
+Object converting string into "A"
+Scala Parser Issues
+What are good application containers for mid-tier services for scala?
+Is it possible for Scala to have reified generics without changing the JVM?
+Why is Clojure much faster than Scala on a recursive add function?
+Maximum size of Actor Queues?
+Wanted: Good examples for Scala database persistence
+How to create stand-alone lift web application?
+How to write a proper null-safe coalescing operator in scala?
+Executing a simple task on another thread in scala
+Call Scala code from Java?
+Scala Enumeration and readResolve
+Scala list recursion performance
+Method call inside Actor freezes in Scala
+How to create non-blocking methonds in Scala?
+Learning Sclala.
+graph database to store several time based data values, result of simulation
+Scala's for-comprehensions: vital feature or syntactic sugar?
+Scala overriding a def with a var
+Parse error of nested tuples in scala
+How to start playing with Lift framework?
+Is there any set of excercises for Scala?
+how does  compare two different type of objects in scala?
+Lift image upload, resize, store in database, display
+Scala implicit usage choices
+How to create List from Range
+Ways to improve this code
+Scala Remote Actor Security
+Rendering images with Processing.org on Java servlet
+Structural Type Dispatch in Scala
+How can Scala receive multiple parameters in a method definition?
+Increase JVM heap size for Scala?
+What is Scala blogs that you regularly follow?
+How to copy a list in Scala
+How can I get the max of an arbitrary property from a list in Scala?
+Scala inconsistant type signatures: Range.toList and Range.toArray
+How to curry a function in Scala
+Get function value of a instance method in Scala
+Question on scala compiler syntax hacking
+So I compiled something with maven, now what do I do with it?
+Can't understand type errors in Scala
+How would I do multiple concurrency in Scala, without the need for messages?
+Scala: How do I dynamically instantiate an object and invoke a method using reflection?
+Scala: Elegant conversion of a string into a boolean
+How to extend Java interface containing generic methods in Scala
+Stuck with JVM, Sick of Java... Where to go?
+Find all nodes that have an attribute that matches a certain value with scala
+Can you return an unevaluated function in scala?
+Why do scala implicitly convert Char to Int?
+List of Scala's "magic" functions
+Scala and Tomcat -> NoClassDefFound Stringbuilder?
+scala - Getting a read-only sublist view of a List
+Is there a built-in more elegant way of filtering-and-mapping a collection by element type?
+How to handle XML Character reference in scala?
+How many Scala web-frameworks are there?
+why in SPOJ we can't code in SCALA programming language?
+How do I setup multiple type bounds in Scala?
+Scala in java code : $colon
+Hibernate and Scala
+How to do something like this in Scala?
+Using Scala as a scripting language from Eclipse
+List[Map[String,A]] to database table in scalaquery
+Partitioning an Iterator in scala 2.7.5
+Please suggest direction for my small scala project
+Error-tolerant XML parsing in Scala
+Overriding equals and hashCode methods for a JavaBeans implenented in Scala
+What are Scala continuations and why use them?
+In scala, how would to declare static data inside a function?
+What is the current state of the Scala Eclipse plugin?
+Scala extra parentheses printout
+Java <-> Scala interop: transparent List and Map conversion
+scala case classes questions
+Library support for Scala's NotNull trait
+When is Scala 2.8.0 going to be released?
+dangling local blocks in scala
+When are threads created for scala actors
+Netbeans scala plugin - no documentation
+Difference between Iterator and Stream in Scala?
+Can I run JUnit 4 to test Scala code from the command line?
+parser combinator: how to terminate repetition on keyword
+How to split a Scala script into multiple files
+Simple Type Inference in Scala
+conditional loop conversion in Scala
+Pattern matching functors in scala: mystified by warning
+Scala: comparing fresh objects
+How in Scala to find unique items in List
+How to control TCP_NODELAY setting for Scala remote actor ?
+Scala unexpectedly not being able to ascertain type for expanded function
+Scala can't multiply java Doubles?
+What does Scala's "try" mean without either a catch or finally block?
+Scala Actors - Worst practices?
+scala actors and persistence context
+scala anonymous function syntax
+Why it is allowed to point to constructors parameters?
+Calculating the Difference Between Two Java Date Instances
+Syntactic sugar for compile-time object creation in Scala
+How does ScalaTest syntax work?
+Easiest way to do idle processing in a Scala Actor?
+Lift and Eclipse RCP Integration
+Int vs Integer: type mismatch, found: Int, required: String
+Scala and Swing GUI applications
+Scala build tool and test framework that play nice together?
+How to start external application from Scala
+Source.getLine - the line index, first line is 1
+Scala 2D Animation library
+Are there code examples comparing Scala and JavaFX Script?
+How to access parent element in Scala XML
+Why is method overloading not defined for different return types?
+Using comparision operators in Scalas pattern matching system.
+Scala: how to inherit a "static slot"?
+Is there a "SELF" type in scala thet represents the current type?
+Scala: set a field value having it┬┤s name in a  string
+initializing generic variables in scala
+Idiomatic IO with scala
+Break or shortcircuit a fold in Scala
+Limiting recursion depth in Scala
+Understanding the different dispatchers in Akka 2
+How to designate a thread pool for actors
+scala: list.flatten: no implicit argument matching parameter type (Any) = > Iterable[Any] was found
+scala: why does underscore (_) initialization work for fields but not method variables?
+Construct XML with dynamic label and attributes in Scala?
+Scala XML \\ copies xmlns attribute. Why and how can I stop it?
+Performing operations on (specifically how to add a List of) Long in Scala
+Using type aliases to Java enums
+Scala Implicit convertions: 2 way to invoke
+Singleton Scala actor?
+Scala: How to "store" a function in a var?
+How to print a Map in Scala
+A better way to test the value of an Option?
+Symbols or Case Classes for sending messages to Scala Actors?
+Scala errors in Eclipse 3.5 using Scala 2.8.0b, "Syntax error on token String"
+scala mailbox size limit
+java.nio.BufferUnderflowException when processing files in Scala
+Tuple parameter declaration and assignment oddity
+How does one validate the schema of an XML file using Scala?
+Scala: public static final in a class
+Scala: overflow despite use of Long when adding
+instantiate object with reflection using constructor arguments
+scala 2.8 control Exception - what is the point?
+Can I construct a BigInt with any byte array (Scala)?
+Proper way to access shared resource in Scala actors
+Better syntax for Scala anonymous function?
+JSP or .ascx equivalent for Scala?
+Shortcut for subclassing in Scala without repeating constructor arguments?
+Can't access ResizableArray's protected method, swap, from subclass, ArrayBuffer?
+Does Scala have an equivelant to C# yield?
+pass variable number of arguments in scala (2.8) case class to parent constructor
+Issues with maps and their entries in Scala
+scala: 'def foo = {1}' vs 'def foo {1}'
+Can I zip more than two lists together?
+Unimporting in Scala
+How the Scala script that reads 5G log file from network drive should be modified in order to read last x lines (like 'tail' in Unix)?
+Selection sort in functional Scala
+Does Scala support tail recursion optimization?
+Why are my Scala types not matching?
+Is there a safe way in Scala to transpose a List of unequal-length Lists?
+What is scala -i command-line option supposed to do ?
+Scala Regex Multiple Block Capturing
+Sala and html parseing
+How to implement efficient sorting algorithms for multiple processors with Scala?
+why doesn't scalac optimize tail recursion?
+fold list of tuples in scala with destructuring
+Scala and tail recursion
+Cannot get FeatureSpec structure to show up in the output when combined with JUnitSuite
+Scala: XML Whitespace Removal?
+Include jar file in Scala interpreter
+What is a proper way to manage a flexible, typed, immutable data structures in Scala?
+Why does Scala create a ~/tmp directory when I run a script?
+scala 2.8 breakout
+Is there a comparison between Scala and Google 'Go' language (feature by feature)?
+How can I create a typed Tuple2 from Java / Spring?
++=/*=/etc operators on AnyVal types (Int,Double,etc...) in Scala
+scala 2.8 CanBuildFrom
+scala 2.8 collections design tutorial
+scala override methods in child object of class
+Is the scala 2.8 collections library the "longest suicide note in history" ?
+Scala and html: download an image (*.jpg, ect)  to Hard drive
+Implicit conversion from String to Int in scala 2.8
+Refactoring val to method results in compile-time error
+If the Nothing type is at the bottom of the class hierarchy, why can I not call any conceivable method on it?
+Private and protected constructor in Scala
+Using Scala, how does one differentiate XML elements having elements as children, or having text?
+How to efficiently processing 300+ Files concurrently in scala
+To use or not to use Scala for new Java projects ?
+How to flatten a List of different types in Scala?
+scala: defining main method that can be used by 'java'
+Lift CometActor: Organizing HTML generated by render and fixedRender
+Scala: Something like Option (Some, None) but with three states: Some, None, Unknown
+Implementing a string class that does case insensitive comparisions in Scala
+Could/should an implicit conversion from T to Option[T] be added/created in Scala?
+How to subclass an object with a var in its primary constructor
+scala specs don't exit when testing actors
+Is there a problem-free way to run Scala unit tests in Eclipse integrated nicely?
+Is pretty XStream serialization feasible with Scala?
+Concurrent map/foreach in scala
+How can I serialize (and later deserialize) a generic type in Scala?
+How can I get XStream to output Scala lists nicely? Can I write a custom converter?
+scala: anything like python/ruby development mode?
+Scala difference between object and class
+How to resolve java.nio.charset.UnmappableCharacterException in Scala 2.8.0?
+Approaching Text Parsing in Scala
+Why doesn't Scala Source close the underlying InputStream?
+Need opinion regarding design/architecture of a web application
+Alternative to anonymous functions for lazy evaluation in Scala?
+How can I convert scala.xml.Elem to something compatible with the javax.xml APIs?
+Scala AST in Scala
+What is the difference between a var and val definition in Scala?
+Idiom for Scala's Option when doing equality tests
+When should I use Scala's Array instead of one of the other collections?
+Using Java Lib with Scala Reserved Words
+Can someone explain this article about enforcing race safety in Scala.
+garbage collecting scala actors
+Is there a scala identity function?
+Using generic methods with implicit type conversion
+Scala Parser Token Delimter Problem
+Why doesn't this match?
+parsing recursive structures in scala
+Why is flatten declared on GenericTraversableTemplate?
+How to write "asInstanceOfOption" in Scala
+pattern matching on a series of values in scala
+A list of scala "global" functions?
+Do I have to create a new object to mix in a Scala trait?
+Scala Case class matching compile error with aliased inner types?
+Thread monitoring for scala actors
+Accessing Scala Parser regular expression match data
+scala: tracing implicits selection and other code magics
+Extend scala class that extends ordered
+Is it possible to use implicit conversions for parameters to extractors (unapply) in Scala?
+Remove Characters from the end of a String Scala
+How to write a lazy, variable argument version of "orElse"
+Scala TreeMap strangeness; implementing a reverse-order iterator
+scala: PartialFunction with state
+Enums in Scala with multiple constructor parameters
+scala reflection: getDeclaringTrait ?
+can't extend two traits that have a method with the same signature?
+Match multiple cases classes in scala
+Getting the correct scala actor sender reference when sending from an different class
+Regex.MatchData returning null: why not Option[String]?
+Can First-class functions in Scala be a concern for allocating a large PermGen Space in JVM?
+Default value for generic data structure
+Scala default values behavior
+What is the best book for learning Scala for an experienced programmer?
+How do you uninstall the Scala Eclipse plugin?
+Static testing for Scala
+Scala Concurrency slowing down
+Scala 2.8 and Lift status
+depp copy of 2D array in scala?
+Scala: Whats the best way to do numeric operations in generic classes?
+How to do fast prefix string matching in Scala
+Possible to make a  producer/consumer obj in Scala using actors 'threadless' (no receive...)?
+lift CalendarMonthView sample fails with Lift 1.1-SNAPSHOT
+Can I use a block when defining a Scala anonymous function?
+Scala compiler error passing null?
+A list of things from Java that we will now happily bid good-bye after Scala
+Is there a way to control which implicit conversion will be the default used?
+What replaces class variables in scala ?
+In Scala, how do you define a local parameter in the primary constructor of a derived class?
+Scala compiler error due to constructor parameter (property) having same name in both base and derived class and used in derived method
+Any reason for having "val capacity : Int" instead of "val Int Capacity" in Scala
+Can a Scala program be compiled to run on any JVM, without having Scala installed on the given machine?
+scala compilation problem - with java libs
+Scala on the CLR
+Case classes vs Enumerations in Scala
+Is there a Scala command-line debugger?
+Compile scala classes with debug info through Maven
+Why is this Option transformed to a String? [Scala]
+Is it a rule that unapply will always return an Option?
+How to convert X => Option[R] to PartialFunction[X,R]
+Where can I find documentation for Scala's delayed function calls?
+Getting object instance by string name in scala
+filterMap scala
+Understanding why "pimp my library" was defined that way in Scala
+varargs puzzle?
+Need some help with Scala's instance variables
+Scala case classes in collections
+Are there any methods included in Scala to convert tuples to lists?
+Is it possible to curry the other way around in Scala?
+programmatically setting the `type` of an abstract type
+Using Scala Actors to create sth like a Pipeline
+Scala bug in concurrent program?
+Return type of "|" in Scala's parser combinators
+scala "error: io error while decoding" "with utf-8"
+Is is possible to capture the type parameter of a trait using Manifests in Scala 2.7.7?
+How do I form the union of scala SortedMaps?
+How to add a method to a Scala Enumeration object?
+Printing Unicode from Scala interpreter
+Extracting nodes only when they have specific attributes with specific values
+Sort ArrayBuffer[A] in scala?
+Does Scala run on GWT?
+Can I get AST from live scala code ?
+Case classes with an upper type bound
+String representation of objects as in Scala REPL
+create a database with scala/lift and a simple interface to log in
+Compile Scala 2.8.x code with Apache Buildr
+Declaring multiple variables in scala
+rereading akka application.conf when using restarting container in sbt
+How to eliminate stack trace when running Specs through SBT?
+Applying a function to a tuple in Scala
+Ant-Ivy-Scala Template: any suggestions on improvements?
+Scala: How to Create Immutable Map/Set from an Seq?
+Getting failure detail on failed scala/maven/specs tests
+What is the difference between scala self-types and trait subclasses?
+Scala traits vs abstract classes
+scala: Method\Operator Overloading
+Question on Scala Abstract Type
+Monad trait in Scala
+Substantial Android development in Scala
+How to use scala.None from Java code
+What is the motivation for Scala assignment evaluating to Unit rather than the value assigned?
+Any conversion from scala's XML to w3c DOM?
+Difference between Abstract Class and Trait
+Using Undercover with ScalaTest and Mavern
+Scala Raw Strings: Extra tabs at the start of each line
+Capturing from java Iterators and Enumerators
+How to create a decent toString() method in scala using reflection?
+logging in scala
+An efficient technique to replace an occurence in a sequence with mutable or immutable state
+How to expose a constructor variable(sic!) as read-only?
+match tuple with null
+Scala: How can I implement a clone method on a superclass, and use it in a subclass?
+making a GET request to a webservice from the playframework 2.0
+How do I handle unicode user input in Scala safely (esp XML entities)
+scala: suggestion for an idea for a hands on session
+scala: mixins depending on type of arguments
+scala: traits and abstract methods override
+Scala: Pattern matching when one of two items meets some condition
+Scala semantics of equals/hashCode for case classes with traits
+Generating javadoc for project involving scala modules
+Pattern matching with multiline XML case
+How to let the user switch language in playframework 2
+Scala and Lift and SessionVar that loses it contents
+Deploying simple scala app(non-webapp) managed with maven
+Scala:  binary incompatibility between releases
+Recursive XML in scala
+Derived Scala case class with same member variables as base
+Circular type parameters definition in scala
+Is there any Scala feature that allows you to call a method whose name is stored in a string?
+Matching case sub-classes on super type in Scala
+Why and when do I need to follow a method name with _?
+scala actors: long running io operations
+Scala regexps: how to return matches as array or list
+Mixig abstract type parameters and abstract types in scala
+Conflicting nested inherited traits
+Why does Seq.contains accept type Any rather than the type parameter A?
+How to play with Specs matchers in Scala REPL?
+Why Option[T] ?
+A light weight Scala fork join syntax
+What is the purpose of type ascription in Scala?
+Can I pass an object's instance method to a method expecting a callback in Scala?
+Is it possible to specify an anonymous function's return type, in Scala?
+Scala abstract method param question, List of T
+Use-cases for Streams in Scala
+scala: annotating accessor methods
+Scala, repeat a finite list infinitely
+Dependency in traits inheritance
+How to get Enumeration  Value's Enumeration definition?
+Scala: Exposing a JDBC ResultSet through a generator (iterable)
+Your experience with Scala+Wicket
+Does Scala have a library method to wrap nullable return values in an Option?
+Scala equivalent to C#'s Expression API
+What is a simple way to receive SNMP traps in Scala?
+Concrete classes with abstract type members
+Where case classes should NOT be used in Scala ?
+Why is the + operator for List deprecated in Scala?
+What does "trait A <: B" mean?
+Implement a method using a function value in Scala
+Which is the best Scala IDE?
+How to use the scala dispatch library to send a post request to the server in the Lift ?
+Is there a way of publishing Akka actors with Mina?
+How can I match a function signature without getting type erasure compiler warnings in Scala.
+Itaerate over a list, returning the current, next and the element before current
+How do you return an Iterator in Scala?
+Why does a SelectionKey registered to a DatagramChannel return a SelectableChannel in Scala but not Java?
+Scala: Where do I find an OS project written in scala?
+Scala equivalent to python generators?
+Alternative way of implementing a groupBy method in Scala?
+Scala import java package appending com
+How to mock a method with functional arguments in Scala?
+How to tackle Scala source incompatibilities in 2.8.0?
+How is compare different from compareTo in this Scala code?
+Implementing a def with 1 parameter as a val of type Function1
+Is there any Scala built-in class for capturing an external process's output?
+Spurious ambiguous reference error in Scala 2.7.7 compiler/interpreter?
+How to script scala directly in JSP pages?
+Drop into interpreter during arbitrary scala code location
+Implementing a java interface in Scala
+Java SortedMap to Scala TreeMap
+Scala: How to get class of mixin composition?
+Scala objects not changing their internal state
+Scala foreach strange behaviour
+Finding elements in a scala list and also know which predicate has been satisfied
+Strange GC behaviour of scala actors application
+Substitute values in a string with placeholders in Scala
+Concurrent Processing in Scala
+In Scala, how to use Ordering[T] with List.min or List.max and keep code readable
+Existential Quantification over Values
+Many-value map in Scala
+Strange behavior: Scala Actors 2.7.7 vs. 2.8-Snapshot
+Scala XML Building: Adding children to existing Nodes
+Merge sort from "Programming Scala" causes stack overflow
+Implementing yield (yield return) using Scala continuations
+Reflection API for Scala
+Scala Catalog of functional Design Pattern
+Scala: Parallel assignment of Tuples
+Scala programmer - "should there be one obvious way to do it" or "more than one way to do it"?
+Type Inference on Method Return Type
+How can I use map and receive an index as well in Scala?
+Scala project does not automatically build in Eclipse
+Scala XSD library
+Scala equivalent of Ruby's map.each?
+How to make Scala's immutable collections hold immutable objects.
+Scala collection type for filter
+Do self: T => and this: T => have the same meaning when defining a trait?
+WhatÔÇÖs the difference between ScalaTest and Scala Specs unit test frameworks?
+Non deprecated way of appending an element to a List in Scala 2.7.5?
+how to read immutable data structures from file in scala
+Serializing a JSon object using lift-json [scala]
+What is Scala way of finding whether all the elements of an Array has same length?
+Reflection on a Scala case class
+deserializing a json object through Lift-JSON
+Difference between trait inheritance and self type annotation
+Scala script to copy files
+Managing flexible, typed, immutable data structures in Scala in 2.8.x
+Can I limit the size of the array in scala?
+How to catch exceptions and redirect to error page in Lift?
+Convert Scala Set into Java (java.util.Set)?
+scala way to define functions accepting a List of different numeric types
+Scala equivalent to Haskell Monads
+Handling Error on Insert PlayFramework 2.0 Scala
+How would be a functional approach to shifting certain array elements?
+Why does Scala's semicolon inference fail here ?
+Generating Scala code trees from a Scala compiler plugin
+cannot find class manifest for element type T
+function working on functions of Array[T] or List[T] or Iterable[T]
+Why were the case classes without a parameter list deprecated?
+Automatic casting in Scala
+Java/Scala (deep) collections interoperability
+Implementing unsafe Java interfaces
+Extending a scala collection
+Pattern Matching with Conjunctions (PatternA AND PatternB)
+how to use scala internals to compile source faster than fsc (fast scala compiler)
+Security of scala runtime
+How scalable is the Lift framework's comet/reverse ajax?
+How do you define an @interface in Scala?
+Does Scala has Gaurds?
+Scala's Implementation of haskell last method
+Scala: String Chomp
+How To: debug Scala code when outside of an IDE
+Scala: Constraint on generic class type
+Define Self referencing scala class(recrusive class)
+scala programming question
+What is the difference between a view and a stream?
+Suggested content for a lunch-time "Introduction to Scala" talk
+Scala Actors suspends unexpected when connecting to a database
+Scala: Given a scala.xml.Node, what's the most efficient way of getting the second (or n-th) child element?
+Scala Actors: Different behavior on JRE 1.5 and 1.6
+How to get an java.lang.Class of a scala object for an annotation argument
+Functional equivalent of if (p(f(a), f(b)) a else b
+How to make this code more functional ?
+How to store child objects on GAE using JDO from Scala
+How can I iterate a list of lists in scala?
+good code dojo question for introductory scala?
+How can I add scala actors to an existing program without interfering with the normal termination behavior?
+How to limit concurrency when using actors in Scala?
+What is the difference between scala's case class and class
+A generic quicksort in Scala
+Looking for examples of how to use "@_*" when doing pattern matching in Scala
+Scala 2.8 Actor
+How to add tracing within a for comprehension?
+Executing same piece of code for multiple case values?
+How to create xhtml query strings with Scala?
+How to define accessor method for default constructor parameter?
+Scala 2.8 - Potential problem with named arguments
+Remove duplicates in List specifying equality function
+Transforming Scala varargs into Java Object... varargs
+What are the relationships between Any, AnyVal, AnyRef, Object and how do they map when used in Java code?
+How does the NotNull trait work in 2.8?
+How scala generic constraints to nullable types work
+Elegant way to reverse a map in Scala
+Use 'map' and stuff on Scala Tuples?
+Equality relations in Scala
+Step-by-step explanation of Scala syntax used in Wikipedia quick sort example
+Problems with Scala Swing library
+What is Scala equivalent of Java's static block ?
+How to become more productive using Scala? (Tools, IDEs)
+Can I use a scala class which implements a java interface from Java?
+Questions about Scala from a Rubyist
+In Scala, what is the difference between using the `_` and using a named identifier?
+Function.tupled and placeholder syntax
+Scala @ operator
+Scala Enumeration values not ordered?
+In Scala, why can't I partially apply a function without explicitly specifying its argument types?
+Referring to a Enumeration Value type in a method signature
+Combining JavaFX and Scala - is it possible?
+'Deadlock' in scala
+How well does java and scala Work together?
+Multiple assignment of non-tuples in scala
+Array in Scala 2.8 (beta)
+How can I create a parser combinator in which line endings are significant?
+What should be done to have 'Value' in the enumeration ?
+Parser combinator not terminating - how to log what is going on?
+How does Scala XML support work?
+Scala: "using" keyword
+Streaming Video In Scala Designer 5
+How to create a compiler Action for SBT
+Can extractors be customized with parameters in the body of a case statement (or anywhere else that an extractor would be used)?
+Composing actors
+Can I ignore invalid XML character using Scala's builtin xml handlers?
+How can implicits with multiple inputs be used in Scala?
+How to interpret scaladoc?
+In Scala, can I override a concrete field containing a list and append something to it in the subclass?
+Slow Scala assert
+Project Euler 7 Scala Problem
+How to convert a scala.List to a java.util.List?
+Generic object load function for scala
+How do I alias the scala setter method 'myvar_$eq(myval)' to something more pleasing when in java?
+How to access "overridden" inner class in Scala?
+Don't understand the typing of Scala's delimited continuations (A @cps[B,C])
+Scala isn't allowing me to execute a batch file whose path contains spaces.Same Java code does.What gives?
+scala 2.8 implict java collections conversions
+Scala: Why are Actors lightweight?
+Is this the proper way to initialize null references in Scala?
+Scala println in a for loop
+How would I express this in Scala?
+graph library for scala
+Scala: how to specify varargs as type?
+How to split and dispatch an async control-flow using Continuations?
+Scala: can't write setter without getter?
+Scalac command line parameters in eclipse?
+Cost of using repeated parameters
+When is @uncheckedVariance needed in Scala, and why is it used in GenericTraversableTemplate?
+Scala version of Rubys' each_slice?
+Launch Scala REPL programatically?
+O(1) conversion from mutable.Map to immutable.Map?
+Scala and the Java Memory Model
+Dependency between operations in scala actors
+scala Slider throws casting exception
+Unit testing several implementation of the same trait/interface
+Is there an easy way to integrate scaladoc into IntelliJ Idea?
+best scala idiom for find & return
+Is there an easy way to get the Scala REPL to reload a class or package?
+Using Option all over the place feels a bit awkward. Am I doing something wrong?
+How do I create an XML root node in Scala without a literal element name?
+parameter extends a class
+How well does Scala Perform Comapred to Java?
+Why does `Array(0,1,2) == Array(0,1,2)` not return the expected result?
+implicit parameter definition in class
+Why is there no string interpolation in Scala?
+Convert Option[Object] to Option[Int] Implicitly
+The cost of nested methods
+Automated Java to Scala source code conversion?
+Another Java vs. Scala perspective - is this typical?
+A question about Scala Objects
+Self-modify the classpath within a Scala script?
+Scala type inference failure on "? extends" in Java code
+Repeating a List in Scala
+scala event swing :: chicken or egg
+Scala 2.8 Actors
+force repaint after button click <- scala
+Create and populate two-dimensional array in Scala
+Accessing type members outside the class in Scala
+What is the proper way to remove elements from a scala mutable map using a predicate
+Default type-parametrized function literal class parameter
+scala for yield setting a value
+Overriding Scala Enumeration Value
+NoSuchMethod exception when using scala Regex class... confused...
+The Scala way to use one actor per socket connection
+Why "avoid method overloading" ?
+are scala's mouse events working? how?
+Why scala's TreeSet returns SortedSet
+Scala create List[Int]
+SCALA  Generic Function Values ( Anonymous Function ) - Missing Parameter Type ( Error )
+Difference between method and function in Scala
+what is wrong: "value Parsers is not a member of package scala.util.parsing.combinator"?
+Groovy / Scala / Java under the hood
+How to make a Scala Applet whose Applet class is a singleton?
+Scala XML: create a node not using literals
+Would it make sense to have a separate Scala library in Android market?
+How do I implement a collection in Scala 2.8?
+noClassDefFound error using Scala Plugin for Eclipse
+Equivalent of public static final fields in Scala
+Scala Actors with Java interop to underlying COM libraries
+Scala libraries and frameworks
+How can I define an anonymous generic Scala function?
+Scala and Java Real-Time System
+How are Scala traits compiled into Java bytecode?
+Scalaz: request for use case
+How do I "get" a Scala case object from Java?
+What are the best features of Scala?
+Why does one of these statements compile in Scala but not the other?
+Simple Scala actor question
+What are the features of dynamic languages (like Ruby or Clojure) which you are missing in Scala?
+Scala/Erlang uses the greenThread model or not ?
+Convert a List of Options to an Option of List using Scalaz
+Modern Java alternatives
+Remove duplicates in entries, scala way
+What type of webapp is the sweet spot for Scala's Lift framework?
+Why Scala is Very Complex
+Scala: Can I nudge a combinator parser to be locally greedy?
+Common practice for higher-order-polymorphism in scala
+Scala for Junior Programmers?
+short way to breakOut to specific collection type?
+Scala passing type parameters to object
+Variadic templates in Scala
+using REST webservices as a datasource for Lift ?
+Zip elements with odd and even indices in a list
+Closures and universal quantification
+In Scala 2.8 collections, why was the Traversable type added above Iterable?
+<:< operator in scala.
+cannot override a concrete member without a third member that's overridden by both
+Immutability and shared references - how to reconcile?
+Scala type system : basic type mismatch
+What is the most efficient way to create emtpy ListBuffer ?
+Why does Option not implement Iterable directly?
+Can one create Sized Types in Scala?
+Scala XML Pattern matching and Attributes
+How to use objetcs as modules/functors in Scala?
+Scala contiguous match
+Scala array initialization
+Generating scala AST for recursive method.
+Which IDE for Scala 2.8?
+Using Kate with Simple Build Tool (SBT)
+Scala downwards or decreasing for loop?
+Why does scala immutable HashMap methods return a Map?
+Using lazy evaluation functions in varargs
+Scala Type Failure in 2.7: is there a workaround?
+Scala: how can I sort an array of tuples by their second element?
+Optional attribute values in MappedField
+Scala compiler says unreachable code, why?
+Scala giving me "illegal start of definition"
+Is There an Easy Way to Convert a Boolean to an Integer?
+Lexing newlines in scala StdLexical?
+How do I list all files in a subdirectory in scala?
+I'm having an issue with a scala script using 2.7.7 - Main$$anon$1$$anonfun$1$$anonfun$apply$2
+Can you return an assignable lvalue in Scala?
+Need help with Continuations-Error "found cps expression in non-cps position"
+By-Name-Parameters for Constructors
+Is there an equivalent in Scala to Python's more general map function?
+Scala: How to combine parser combinators from different objects
+Bad class file error when using Scala 2.8.0-rc1 in Javafx 1.2
+Scala wont pattern match with java.lang.String and Case Class
+In Scala, how does one write a class with a constructor, not all of whose arguments are class members ?
+Scala: Can't catch exception thrown inside a closure
+How can I take any function as input for my Scala wrapper method?
+How to access a field's value via reflection (Scala 2.8)
+IS classOf[] in scala 2.8 different from 2.7?
+Very dumb question about IntelliJ IDEA
+How Can I Check an Object to See its Type and Return A Casted Object
+Can you do Logic Programming in Scala?
+Scala traits and implicit conversion confusion
+lift `??` construct and maven example
+Scala: is it possible to override default case class constructor?
+Is there an easy (idiomatic) way to convert a java.lang.reflect.Method to a Scala Function Value?
+how to define a structural type that refers to itself?
+Can I create a collection in Scala that uses different equals/hashCode/compare implementations?
+GAE JCache NumberFormatException, will I need to write Java to avoid?
+What are all the instances of syntactic sugar in Scala?
+Any way to access the type of a Scala Option declaration at runtime using reflection?
+How to unimport String "+" operator in Scala?
+How to create sorted map in scala?
+Parsing of binary data with scala
+Implementing Seq[T] for CPS-Classes
+More issues with IntelliJ 9.0.1 "Hello World" in Scala - Predef version 5.0 vs 4.1
+How are Scala closures transformed to Java objects?
+How Do I Convert Pipe Delimited to Comma Delimited with Escaping
+Parser combinators info
+Have you actually convinced anybody to Scala?
+What are the exact versions of stuff you have to install in order to be able to step-debug a Scala program?
+Simple Scala syntax - trying to define "==" operator - what am I missing?
+How do I get the scalaz IDEA live templates working for the symbolic methods?
+How to make ensime work in windows?
+What compromises Scala made to run on JVM?
+Scala puts precedence on implicit conversion over "natural" operations... Why? Is this a bug? Or am I doing something wrong?
+How do I enable continuations on Scala 2.8?
+Scala 2.8 TreeMap and custom Ordering
+Scala: "Parameter type in structural refinement may not refer to an abstract type defined outside that refinement"
+How can I use the Scala program schema2src?
+How to write two-dimensional array to xml in Scala 2.8.0
+Lazy Quicksort in Scala
+Scala's simple-build-tool doesn't appear to run tests
+Scala: type variance and pattern matching between two equal types
+ZeroC Ice "checked casts" in Scala
+What is meant by Scala's path-dependent types?
+Scala and HttpClient: How do I resolve this error?
+Using Sub-Types And Return Types in Scala to Process a Generic Object Into a Specific One
+Common idiom in Java to Scala, traverse/Iterate Java list into Scala list
+Scala Array constructor?
+Good Scala slides and snippets?
+calling multiple functions with same instance in scala
+Can I transform this asynchronous java network API into a monadic representation (or something else idiomatic)?
+How to define a ternary operator in Scala which preserves leading tokens?
+Generics and Constrained Polymorphism versus Subtyping
+By-name repeated parameters
+Why is this Scala example of implicit paremeter not working?
+What's the new way to iterate over a Java Map in Scala 2.8.0?
+Does the @inline annotation in Scala really help performance?
+Overloading generic implicit conversions
+Difference between Array and List in scala
+Improving MVP in Scala
+Why scala not allowing '$' identifier in case statement?
+Traits vs template
+Declaring functions two ways. What is the distinction?
+Best method to peek into a Scala Actor's Mailbox
+Is Odersky serious with "bills !*&^%~ code!"   ?
+Cross product of 2 sets in Scala
+Using Scala structural types with abstract types
+Catch all exceptions in Scala 2.8 RC1
+Scala's tuple unwrapping nuance
+Scala: when are singleton objects constructed?
+Is there an implementation of rapid concurrent syntactical sugar in scala? eg. map-reduce
+trait implementation
+Restrictions in trait mixing
+Using scala-2.8.0.RC1 with Maven and Intellij 9.0.1
+Why does this explicit call of a Scala method allow it to be implicitly resolved?
+What is Lift's state idiom?
+Scala: working around the "illegal cyclic reference"
+nested CPS "reset"
+Inheritance and type parameters of Traversable
+Niewbie OutOfMemory problem
+How do I break out of a loop in Scala?
+Scala : reference is ambiguous (imported twice)
+Scala 2.8 return type for tuple-functions
+Implicit parameter in Scalaz
+scala implicit or explicit conversion from iterator to iterable
+is there any scala network library with actor model
+dynamically create class in scala, should I use interpreter?
+Overloading on return type ???
+Interesting Scala typing solution, doesn't work in 2.7.7?
+initialise a var in scala
+What is/are the Scala way(s) to implement this Java "byte[] to Hex" class
+a scala remote actor exception
+Targeting Android with Scala 2.8 Trunk builds
+How would I yield an immutable.Map in Scala?
+Scala methods ending in _=
+ensime scala errors (class scala.Array not found, object scala not found)
+scala syntax highlighting in bluefish
+capture types of varargs parameters
+Composing independent traits
+anybody konws gui dsl on scala?
+Scala match/compare enumerations
+`sbt package` results in huge war file - how to make it smaller?
+Scala Tuple Deconstruction
+Scala Eclipse IDE suddenly ignoring breakpoints
+Is there a Pattern in Scala that add a method to an Array object?
+is the + in += on a Map a prefix operator of =?
+Is there a nice, safe, quick way to write an InputStream to a File in Scala?
+Should I upgrade to Intellij Ultimate Edition?
+Static nested class visibility issue with Scala / Java interop
+Is scala functional programming slower than traditional coding?
+Named constructors in Scala?
+Naming case classes in Scala.
+Double variable argument list.
+When should I use package and when object in Scala?
+Extending existing data structure in Scala.
+Perfect hash in Scala.
+Scala: What is the right way to build HashMap variant without linked lists ?
+What is the standard way to optimise mutual recursion in F#/Scala?
+How to get Ponter/Reference semantics in Scala.
+Internal scala compilation. Working with interactive.Global
+How do you code up a pattern matching block in scala?
+Iterators for mutable collections in Scala?
+Scala XML retrieving from optional paths
+How can I get a Node adjacent to a unique Node using Scala?
+Passing enum parameter to a case class does not work
+Discovering a functional algorithm from a mutable one

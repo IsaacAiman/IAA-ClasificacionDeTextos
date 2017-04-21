@@ -1,0 +1,908 @@
+Code coverage for PL/SQL
+Unit testing for PL/SQL
+SQL Developer error
+How should I store a Guid in Oracle
+unwanted leading blank space on oracle number format
+How to trunc a date to seconds in Oracle
+Tool for translation of Oracle PL/SQL into Postgresql PL/pgSQL
+Best practices: .NET: How to return PK against an oracle database?
+How to find oracle error codes that could result from a connection error?
+Oracle ROWNUM
+Oracle considers empty strings to be NULL while SQL Server does not - How is this best handled?
+Ora 12154 error
+Is there a way to get types/names of an unknown db query without executing it?
+How to disable Oracle XE component which is listening on 8080?
+Oracle instant client with OraOLE DB provider?
+Oracle merge constants into single table
+How to find and tail the Oracle alert log
+Oracle Cursor Issue
+Oracle APEX access
+RowNum vs Row_Number
+How to use a function-based index on a column that contains NULLs in Oracle 10+?
+'CONTINUE' keyword in Oracle 10g PL/SQL
+How can I connect to an Oracle database as SYS using an ADO connection string?
+Bulk Row Transfer between Oracle Databases with a Select Filter
+Best solution for migration from Oracle Forms 6i to the web?
+What is the default URL for APEX for an Oracle XE installation?
+Oracle error
+How do I use oracle.jdbc.driver.OracleLog to debug Oracle 10g database connection failures?
+How to constrain a database table so only one row can have a particular value in a column?
+What do the letter codes in Oracle user_contraints table's constraint_type column stand for?
+Free oracle development tools.
+Optimizations for a Write heavy Oracle application?
+What is the size limit for a varchar2 procedure argument in Oracle 10g ?
+Oracle date
+Grant Select on all Tables Owned By Specific User
+How to set session variable skip_unusable_indexes to true in a PL/SQL package to speed up a table delete/insert?
+PL/SQL Evaluation Order
+How do I format my oracle queries so the columns don't wrap?
+Oracle - How does transaction, rollback segment and the undo_retention parameter work ?
+Print text in Oracle SQL Developer SQL Worksheet window
+Is this slash character in an Oracle PL/SQL script an error?
+Oracle recommendations for high volume writes and low volume read.
+Oracle 10gr2: prevent any dates that fall on a Sunday?
+where is the Oracle Event Log located?
+Oracle 10g - UTL_MAIL package
+Oracle DB Mac Address or other unique identifier
+Why isn't querying a JDBC-compliant database from Oracle as easy as pie?
+Correct way to give users access to additional schemas in Oracle
+show running processes in Oracle DB
+Oracle SQL technique to avoid filling trans log
+run oracle sql script from java
+Automatically enforcing a max database table size by dropping old rows
+How to use enums in Oracle?
+Oracle 10gr2: ensure timestamps are between 9am and 5pm
+Why does Oracle 9i treat an empty string as NULL?
+Why does running a script from SQLPlus not require a password?
+What is the syntax for creating a timestamp(6) type field in Oracle
+What can cause intermittent ORA-12519 (TNS: no appropriate handler found) errors
+Migrating a Character Based Oracle Form
+Oracle database allows invalid time portion of datetime column values under what circumstances?
+Dynamically look up column names for a table while in an sql query
+ORA-12154: TNS: Could not resolve service name
+Oracle - Best SELECT statement for getting the difference in minutes between two DateTime columns?
+Oracle 10gr2: enforce a date range
+Oracle V$OSSTAT
+Does oracle allow the uncommited read option?
+Search All Fields In All Tables For A Specific Value (Oracle)
+Connection to Oracle without a username or password
+Problems with globalization when using Oracle collections with thin JDBC
+How to choose and optimize oracle indexes ?
+Pivoting a Table in SQL
+[Oracle] - Alternatives to Toad
+How to query an Oracle table from SQL Server 2000?
+Oracle Text: How to sanitize user input
+How can I implement a "natural" sort?
+Oracle PL/SQL - Are NO_DATA_FOUND Exceptions bad for stored procedure performance?
+Audit Revoke Operations
+Converting between oracle.sql.TIMESTAMPTZ and standard JDBC classes for DbUnit
+Will Pro*C work with MSVC 6?
+Best Oracle database manager/editor?
+How can I insert multiple rows into oracle with a sequence value?
+What is the difference between "AS" and "IS" in an Oracle stored procedure?
+Will Oracle retire 10gAS in favor of WebLogic?
+How to specify default file extension for Oracle's Pro*COBOL precompiler
+How do you add weights together in an oracle text index?
+Conversion tool for MS-Excel spreadsheets with macros and VB to Oracle?
+VC++ problem with 64 bit oracle client with OpenforwardOnly flag in database connection.
+How to use Explain Plain to optimize queries?
+Binding ASP.NET GridView to an Oracle SYS_REFCURSOR
+Oracle: how to UPSERT (update or insert into a table?)
+How to set up OCI to connect to Oracle from PHP?
+Application crashing when talking to oracle unless executable path contains spaces
+ORA-12514 after rebooting server
+Oracle utl_match special characters
+Why  is Oracle's to_char() function adding spaces?
+Oracle Scheduled Jobs
+How to execute an Oracle stored procedure via a database link.
+What exactly is the deal with oracle connection identifiers separated by a period
+paging with oracle
+Oracle PL/SQL Query Order By issue
+Assign auto-incrementing value to new column in Oracle
+Improve oracle query performance without indexing
+How to determine the version of oc4j being used?
+How to debug ORA-01775: looping chain of synonyms?
+Oracle - ODBC connection using MS Access error (ORA-12154)
+Does Oracle allow an ORDER BY within an IN clause?
+What could cause an ORA-00936 - Missing Expression with the following sql?
+How do I Suppress "PL/SQL procedure successfully completed" message in sqlplus?
+How do I log Oracle stored procedure calls with parameter values?
+How do you rate Oracle Portals as a platform?
+What to look for when downgrading from Oracle 10g to 9i?
+Select from Select statement?
+How do I let my DBA pause and resume a stored procedure that is updating every row in a large table?
+Is there a way to do full text search of all oracle packages and procedures?
+Oracle listener state blocked
+Why does Char(1) change to Char(3) when copying over an Oracle DBLINK?
+Oracle: how to add minutes to a timestamp?
+Oracle single-table constant merge with CLOB using JDBC
+Disable trasactions in Oracle
+Is there an easy way to clone the structure of a table in Oracle?
+notification when alter occurs on oracle database
+Oracle Express Edition - Can not connect remotely (plus others)
+How do I compress this Oracle resultset into values according to row priority, ignoring nulls?
+Better Understanding an OC4J Stack Trace
+oracle procedure returns integer
+How do I calculate tables size in Oracle
+How to find out when an Oracle table was updated the last time
+What's the best type 4 Oracle JDBC driver?
+Why can't I reference a user defined type field when using nested queries?
+How do I remember which way round PRIOR should go in CONNECT BY queries
+Oracle - side-by-side schema update technology...is there any?
+Oracle Transactions
+Return a value from a insert statement.
+Find all Foreign Key errors with Oracle SET CONSTRAINTS ALL DEFERRED
+PL/SQL compilation fails with no error message
+Oracle setting per user default scheme (not altering a session)
+Different backup location for DUPLICATE command
+Best way to select out of millions of rows in an Oracle DB
+Oracle why does creating trigger fail when there is a field called timestamp?
+Best way to select the id of the matching row with the most recent timestamp
+Is there an good alternative to SQL*PLUSfor Oracle?
+databases oracle
+Find out name of PL/SQL procedure
+Oracle Default Values
+Oracle packages in version control?
+Oracle detection date of daylight savings change
+Oracle Rollback Segments and ADO.NET
+Print from a windows App - data from an Oracle DB on Linux
+Does SQLDeveloper support executing scripts?
+Use Oracle Exception
+Oracle Check Constraint
+Software to Synchonize Oracle Schema
+Can I use ODAC 11g to access 10g
+If I'm posting a question about Oracle SQL query performance, what should I include in my question?
+Beginning oracle and sql
+In Oracle what does 'Buffer Gets' actual refer to?
+How to recreate an oracle 9i database from backup files (ora files)
+How do you programatically identify a stored procedure's dependancies?
+How can I clean up dead connections using Oracle?
+connecting to remote oracle via cygwin sqlplus
+help on integrating oracle BI into existing application
+How to select a related group of items in Oracle SQL
+Oracle logon trigger not being fired.
+In SQL*Plus, how do I change the prompt to show the connected user and database?
+Detecting if an Oracle Database is Installed
+Oracle Populate backup table from primary table
+How do you detect if there is an index for a specific column on a table in Oracle?
+How do you setup a linked server to an Oracle database on SQL 2000/2005?
+What column type in Oracle can take full range of java double values
+Oracle dbms_scheduler - react to change of system date
+How to tranform an Oracle SQL into a Stored Procedure that should iterate through some tables fetching a certain data field?
+How to split Oracle sql statements for ADO.NET
+The CASE statement in PL/SQL
+Programmatically marking an Oracle BPEL task complete
+Setting global_names parameter.
+Top 5 time consuming SQls in Oracle
+AUTOINCREMENT IN ORACLE
+Oracle - Select where field has lowercase characters
+How to install system packages into oracle?
+Oracle User Management
+Need ideas on outputting table data to a CSV using PL/SQL in a dynamic fashion
+Continue on error in loop
+Connecting to Oracle from ASP.NET is very slow - how to diagnose?
+PL/SQL: Fetching from a Cursor that is passed between two functions
+ORACLE 10.2 Pro*C precompiler not reading header file
+Oracle join operator
+Network Outage Causes Stored Procedure Querying Across DB Link to Hang Forever
+Oracle Floats vs Number
+Oracle table change monitor
+Why does Oracle require TO_NCHAR when binding SQL_C_WCHAR text via ODBC
+Oracle 10g ODBC: SQLBindParameter(SQL_BIGINT) succeeds, SQLExecute fails, but there are no diagnostic errors
+Database design - Should a Date be used as part of a primary key
+How bad is ignoring Oracle DUP_VAL_ON_INDEX exception?
+Displaying foreign key relationships in Oracle 9i
+Oracle linux front end
+UTF 8 from Oracle tables
+Using an Alias in a WHERE clause
+Identifiers in a one to many relationship
+Identifiers in a Diamond Relationship between Tables
+Porting JDBCRealm from tomcat to OC4J
+Does ODP.net close a ref cursor when the connection closes?
+Oracle record history using as of timestamp within a range
+oracle: how do I get the sequence number of the row just inserted?
+oracle left outer joins not showing right null values
+adding oracle's timestamp to query results
+What is your experience with Oracle's result caching feature?
+Oracle XE for Linux...?
+Faster Insert Oracle Hash Cluster Table
+Reading an Oracle Lite ODB file without Oracle Lite
+Oracle function concurrency
+Oracle SQL - Parsing a name string and converting it to first initial & last name
+PL/SQL function to return string with regexp special chars escaped
+Performance of dynamic SQL vs stored procedures on Oracle
+What happens to oracle sequence in a disaster recovery?
+Oracle TO_DATE headache
+PL-SQL: getting column data types out of query results
+Dynamically add where clauses to a cursor in oracle
+Referencing Oracle user defined types over DBLINK?
+ORA-12638: Credential retrieval failed
+Any difference between "current row" and "0 preceding/following" in windowing clause of Oracle analytic functions?
+Oracle 9i: Synonymed Table Does Not Exist?
+oracle materialized view refresh time
+How do I deploy an Oracle database?
+How do I test for an Oracle connection
+Identify a table with maximum rows in Oracle
+Oracle: How can I programmatically arrange to have my current connection killed?
+rebuild indexes oracle 10G
+Add date without exceeding a month.
+A useful example of when to use vsize function instead of length function in Oracle?
+How to put more than 1000 values into an Oracle IN clause
+Adding Sort Keys and Filter to Oracle Stored Procedure
+Free SQL Query generator tool for oracle database?
+Oracle: how to use updateXML to update multiple nodes in a document?
+Insufficiente privileges when creating a trigger for a table in another schema
+pl/sql REPLACE() function isn't handling carriage-returns & line-feeds
+eliminate sort order on Data tab of SQL Devloper table view.
+Oracle Database to Class Diagram
+How can I change the SID or an Oracle XE instance.
+Possible to call Oracle FUNCTION from .Net using Enterprise Library?
+Does Oracle Applications API expose Web Services? (that can be called from .NET?)
+Performance of Dynamic SQL with Bind vs Normal SQL within Package
+Returning Oracle ref cursor and appending multiple results
+Microsoft provider for Oracle and positional parameters
+Is there a way to enable / disable constraints in db2 v7?
+Will Oracle optimizer use multiple Hints in the same SELECT?
+TOAD vs AquaFold - Connecting to Oracle
+Oracle TNS names not showing when adding new connection to sqldeveloper
+Converting small-ish Oracle long raw values to other types
+Are there alternative methods for saying 'next' in a pl/sql for loop?
+ORA-28579: network error during callback from external procedure agent
+Oracle: What does `(+)` do in a WHERE clause?
+What tablespace are Oracle sequences stored in?
+What would simple guidelines would you give your developers for writing good SQL against Oracle?
+When Oracle ROWID may change ?
+Error "stopped because I can't continue" in SQLLoader - DIRECT mode
+Oracle: how to add a text node into an existing element
+Oracle: How to create an element in a specific namespace with XMLElement()
+update a field based on subtotal from another table
+Running total by grouped records in table
+How to catch a unique constraint error in a PL/SQL block?
+In Oracle, why do public synonyms become invalid when a table partition is dropped.
+How to determine an Oracle query without access to source code?
+Are there any .NET data providers for Oracle that do not require the Oracle Client to be installed?
+Hinky Oracle Connection (TNSNAMES.ora Help)
+Left outer join on two columns performance issue
+Using Oracle ref cursor in Java without Oracle dependency
+Hom to change default nls_date_format for oracle jdbc client
+Accessing Oracle DB through SQL Server using OPENROWSET
+Oracle 9i: Supposedly missing right parenthesis
+How to average time intervals?
+How to get column info from oracle table you don't own (without using describe)?
+How to retrieve XML into Oracle PL/SQL via an HTTP Post transaction?
+Mixing "USING" and "ON" in Oracle ANSI join
+Oracle 10g - An invisible column?
+Is there a method in PL/SQL to convert/encode text to XML compliant text?
+Is this implementation correct?
+passing a datatable as a field from Oracle to .NET
+Is it possible to kill a single query in oracle without killing the session?
+Selecting the distinct values from three columns with the max of a fourth where there are duplicates
+What is the best approach for decoupled database design in terms of data sharing?
+How can I combine multiple rows into a comma-delimited list in Oracle?
+How do I limit the number of rows returned by an oracle query?
+Java library or code sample to parse CTXCAT query syntax (for Oracle CATSEARCH)
+Refering to environment variable in oracle sql files on Linux and Windows
+How to make Oracle error messages more verbose?
+Reading CLOB column is slow...
+Export Oracle user tables to MS Access automaticaly
+Calculating person's time zone (GMT offset) based on phone number?
+Why do you hate sequences on Oracle?
+Detecting a column with a default value using the Oracle Call Interface (OCI)
+Oracle9i: Filter Expression Fails to Exclude Data at Runtime
+Limiting returned record from SQL query in Oracle
+SELECT * breaks when adding columns in Oracle Application Express (ApEx) 3.0
+Convert Oracle stored procedure using REF_CURSOR and package global variable to Postgresql or MySQL.
+Checking for the presence of text in a text column efficiently
+odp.net tracing
+Serialize Oracle row to XML
+Why doesn't ODP.NET 11 xcopy deployment work on a machine with Oracle DB 10 installed?
+Oracle: Combine multiple results in a subquery into a single comma-separated value
+Oracle 10 optimizer from RULE to COST: why?
+DESCRIBE via database link?
+Oracle, deleting many records with child tables
+Predicting Oracle Table Growth
+How can I tell if I have uncommitted work in an Oracle transaction?
+Accent and case insensitive COLLATE equivalent in Oracle
+Multi-line PL/SQL command with .NET OracleCommand
+Is there a tool to DB Diff on 'data' for an ORACLE database?
+Oracle ORA-00600
+Porting an application from Oracle 9 to Oracle 11 - gottchas?
+Meaning of (+) in SQL queries
+Oracle command-line tools on Linux
+Oracle connections in Spring
+How do I test if a column equals empty_clob() in Oracle?
+Slow deletes from table with CLOB fields in Oracle 10g
+Allow Oracle User to connect from one IP address only
+oracle - how to multiple statements with .NET
+Removing duplicate rows from table in Oracle
+Is there a easy way to suppress the XML row tags of a collection in Oracle?
+Setting classpath for a Java stored procedure in Oracle
+Understanding Lob segments (SYS_LOB) in oracle?
+Oracle 10g express home page is not coming up
+Does making a primary key in multiple columns generate indexes for all of them?
+How to enforce one-and-only-one concurrent logon per user with Oracle SSO?
+What is the best column for storing XML in an Oracle database?
+How many temporary extents is my oracle 10g session using?
+How to develop an after serverror trigger in Oracle?
+Can I send "batched" INSERTs to Oracle?
+Why would you use Oracle database?
+Oracle Logon Protocol (O3LOGON) in 10g
+Is it reasonable to use small blobs in Oracle?
+Detecting the number of ORACLE rows updated by a OCI OCIStmtExecute call
+How do you choose storage engines for Oracle?
+Oracle client x32 and x64 coexistance
+How do you read the Oracle transaction log
+.NET: How to retrieve the body of an Oracle 9i PL/SQL procedure or function
+Create Black and White PDF from Oracle Reports
+Oracle Database 10g VIEW performance
+Oracle "Partition By" Keyword
+Function or Procedure for an IN clause
+Oracle: What exactly do quotation marks around the table name do?
+Inserting into Oracle the wrong way - how to deal with it?
+What can cause an intermitent ORA-12560: TNS:protocol adapter error?
+Is there a way of selecting the contents of a ref cursor as part of a SQL Select statement?
+Microsoft .NET Framework Data Provider for Oracle problem executing scripts
+Oracle Application Server; What role in an organization typically supports the middle tier?
+What kind of import capability does Primavera support?
+Moving Data from SQL Server to Oracle Repeatedly
+Optimizing Oracle instances
+Sessions with clustered instances of Oracle Application Server
+In Oracle, is it possible to "insert" a column into a table?
+How to Prevent SQL Injection in Oracle SQLPlus?
+Oracle query to get book-name?
+ODP.NET OracleCommandBuilder.DeriveParameters for 9i
+Oracle SQL: LEAST() returns multiple rows...?
+Oracle Trigger: raise_application_error
+Casting DateTime to OracleTimeStampTZ
+Oracle: Pattern for to_char(number) to add additional ascii characters?
+In Oracle Spatial (SDO), is there a way to get the centroid point of a polygon that is contained by the surface of the polygon?
+Oracle TIMESTAMP WITH TIMEZONE named zone vs offset
+What is the best way to escape non-format characters in Oracle's to_char?
+Inserts are 4x slower if table has lots of record (400K) vs. if it's empty
+What is a Simply way to combine groupped values in one field?
+Does using a VIEW for SELECT operations can imporove performance?
+Can Oracle TDE protect data from the DBA?
+How do I call an ORACLE function from OCI ?
+What is the default Precision and Scale for a Number in Oracle?
+ORA-01830: date format picture ends before converting entire input string
+Confusion over class resolution in Oracle java stored procedures
+how to use a procedure parameter in a query
+What tool do you use for developing and administrating your database?
+Oracle10 and JDBC: how to make CHAR ignore trailing spaces at comparision?
+How do you convert SYS_GUID() to varchar?
+bitwise exclusive OR in Oracle
+Always get exception when trying to Fill data to DataTable
+Is Oracle BC4J Still Supported?
+How to call a function with Rowtype parameter from a select statement in Oracle
+Select count(*) from multiple tables
+Is it possible to refer to column names via bind variables in Oracle?
+Oracle correlated subquery in FROM list
+How to extract leaf nodes from Oracle XMLTYPE
+Using Oracle Database Migration Verifier
+how to make a big query on an asp page for an oracle db
+UNDOTBS Tablespace is Full what now?
+Reasonable SELECT ... INTO Oracle solution for case of multiple OR no rows
+Truncating a table in a stored procedure
+What Situations Cause Oracle Packages to Become Invalid?
+How to keep implementation/maintenance costs low in Pro*C?
+How update oracle heterogeneous services metadata?
+My oracle listner to shuts itself down, what could be happening?
+What's the best way to store milisseconds in Oracle?
+Oracle: any replacements for DBMS_OUTPUT package?
+TKProf Output: SQL*Net message from client
+oracle tables in one view
+Oracle stored procedures, SYS_REFCURSOR and NHibernate
+SQL not equals & null
+How to disable XML DTD validation in Oracle DB?
+How To Check for an Index in Oracle
+Oracle sql types over dblink
+Oracle SYS_GUID does not change
+Oracle: how to run a stored procedure "later"
+Mixing ON and USING within one join
+Deleting a LOT of data in Oracle
+How to execute an .SQL script file using c#
+Why use Oracle Application Express for web app?
+Oracle converts empty string to null but JPA doesn't update entity cache correspondingly
+Oracle Backup Database with sqlplus it's possible?
+Database history for client usage
+Oracle Connection Problem
+When I call PreparedStatement.cancel() in a JDBC application, does it actually kill it in an Oracle database?
+Is there a .Net interface to Oracle SQLPLUS?
+Running Oracle stored procs from C#
+Oracle sequence but then in MS SQL Server
+SQL to replace smart quotes
+Oracle materialized view tuning
+Is there a way to specify a super-type sub-type relationship in Oracle Designer?
+What are the benefits of using Oracle Designer?
+Does Oracle have an equivalent of MSSQL's table variables?
+How can I get rid of dynamic SQL
+Oracle 9i: How can I determine, using metadata, whether or not an index is clustered?
+What is native web services?
+How to see Oracle Table Logs ?
+What is the fastest way to load data into a ORACLE database with .NET?
+Oracle: OALL8 is in an inconsistent state
+JVM crashes when trying to connect to Oracle using OCI
+Getting ORA Oracle error code using PHP function oci_connect?
+Oracle VS SQL server
+installing Oracle Instantclient on Mac OS/X without setting environment variables?
+Read/Write data from/to a file in PL/SQL without using UTL_FILE
+Backup and Recovery Scenario
+2 Oracle Question
+Oracle SQL*Loader getting CDATA values...
+Run multiple commands in one ExecuteScalar in Oracle
+Importing selective data using impdp
+How to use Oracle jdbc driver fixedString property?
+DB Index speed vs caching
+How do you obtain the maximum possible date in Oracle?
+PL/SQL Trigger - Dynamically reference :NEW or :OLD
+oracle diff: how to compare two tables?
+How do I bring an Oracle BLOB into SQL Server?
+Oracle empty strings
+How to Convert SQL server to Oracle ?
+How do I close an OracleConnection in .NET
+returning multiple columns using Case in Select Satement in Oracle
+Oracle: Program not forking correctly in SELECT CASE statement on a date
+Looking for good tool to convert Oracle - sql server
+Client tools for Oracle?
+Windows Service in .net Cannot See TNS Names
+How do you work on Oracle packages in a collaborative, version-controlled environment?
+Why does Oracle think I'm missing a right parenthesis?
+Attaching an identifier to an Oracle session
+ORACLE - Exporting Procedures / Packages to a file
+Oracle Documentation Generation Tool.
+Determining Oracle Database Instance
+Strange Oracle problem
+Oracle 10g - optomize WHERE IS NOT NULL
+What's an OCCI context and environment?
+How can I open a file using java stored procedure
+Is there a way to make Oracle recalculate a query plan for each query invocation?
+Finding correlated values from second table without resorting to PL/SQL
+plsql custom numeric format
+SQL: Counting number of occurances over multiple columns in Oracle
+Do DDL statements always give you an implicit commit, or can you get an implicit rollback?
+Oracle Throwing SQL Error when creating a View
+How to get all tables that have FKs to another table?
+select a random sample of results from an oracle query
+Is there an Oracle SQL tool that builds insert statements from a result set?
+When are two columns that look the same not the same in oracle?
+Strange behaviour when accessing Oracle 8i table from servlet
+Getting started with Oracle application development
+Retrieve value of an xml element in Oracle PL SQL
+Oracle merge partition from procedure giving error
+How to reuse dynamic columns in an Oracle SQL statement?
+Oracle in-line method to produce CSV for relation
+REF CURSOR versus TABLE function in Oracle
+Why can't an Oracle XMLType be sent over a DBLink?
+Oracle: how to enable flashback "as of" queries for all developers?
+Defining Collections with variables
+Retrieving a curent and most recent previous value (Oracle)
+Why would a database trigger be invalid in an oracle DB?
+Oracle - OCI query timeout
+What is the maximum length of a table name in Oracle?
+Things to watch out for in moving from Oracle Express to the Real Deal?
+How come sqlplus not connecting?
+Should I use TNSNAMES.ORA or tnsnames.ora?
+Proper way to set ORACLE_HOME?
+How do you use telnet to check a connection to Oracle?
+How to permit update of a view's results in Oracle?
+installing Oracle Instantclient on Linux without setting environment variables?
+Oracle: what is the "instantclient" connection string format?
+ORA-01654: unable to extend index
+Oracle / Python  Converting to string -> HEX (for RAW column) -> varchar2
+Is it possible to know from which package a procedure has been called ?
+How to connect to Oracle from far Computer in LAN ?
+Shift operators in PL/SQL
+When did oracle start supporting "top": select top ? p2_.PRODUCT_ID from PRODUCT?
+Why would an Oracle synonym return a different number of rows to the underlying table?
+Oracle ProC ORA-12547
+Lazy evaluation of Oracle PL/SQL statements in SELECT clauses of SQL queries
+Genealogy Query in Oracle
+Efficient Alternative to Outer Join
+Any good C# code generator for using oracle stored procedures?
+ORA-08177: can't serialize access for this transaction
+Oracle PL/SQL: Loop Over Trigger Columns Dynamically
+sqlldr corrupts my primary key after the first commit
+OracleDependency not firing event
+Oracle datafiles on a Network Share
+Use Oracle 6 from ASP.NET application
+Why doesn't ORACLE allow consecutive newline characters in commands?
+How to load Java Stored Procedure through JDBC into Oracle 10g?
+How to create an Oracle sequence starting with max value from a table?
+Oracle Ref Cursor Vs Select into with Exception handling
+Oracle works better with Windows or Linux? give your answer based on your experience.
+What does the letter on the Oracle release mean?
+SQL SELECT: combining and grouping data between three tables using subqueries
+Oracle: sequence MySequence.currval is not yet defined in this session
+Oracle SYS_CONNECT_BY_PATH hitting 4000 character limit
+scalar subquery in if statement Condition in PL/SQL
+MaxValue Partition Name
+Inserting an array within an object construction, constructed based on a query
+Is there an open-source SQL database that has the concept of Oracle's "rowid" pseudo-column?
+oracle9i querries
+duplicate rows in oracle
+Open Source client for Oracle?
+Using %TYPE on a record field in PL/SQL
+Is there a way to peek inside of another Oracle session?
+Oracle Date formatting "2009-02-13T11:46:40+00:00"
+How can I estimate the size of an Oracle index?
+Are Oracle stored procedures faster than in line SQL for a Microsoft.NET application ?
+How do I get textual contents from BLOB in Oracle SQL
+How to performance tune when you have heavy concurrency on an Oracle table
+Why does DBMS_MVIEW.REFRESH have an implicit commit?
+How accurate is Oracle's EXPLAIN PLAN?
+Oracle XE or MySQL , which one I should choice?
+Oracle Trigger Permissions
+how to create a stored procedure in oracle which accepts array of parameters
+Performance of Oracle .Net drivers
+Import Date Format mmddyyyy
+Why is there a discrepancy between ActiveRecord SQL and PL/SQL Developer SQL?
+SQL: delete all the data from all available tables
+Connecting to Oracle with 32 bit apps running on Vista 64 bit
+Rename Oracle Table or View
+Finding the days of the week within a date range using oracle SQL
+Oracle Query Tuning (Duplicate table access)
+Can I have a deferrable unique functional index in Oracle?
+ORA-27101: shared memory realm does not exist in Oracle 9
+Strategies/Tools for Building Training Website
+Generic-like behavior in PL/SQL procedure parameters
+Oracle can I use scalar functions in WHERE Clause? or a NULL issue
+oracle - how to create date from an already existing date
+How can I set the application information on a session using the Oracle thin JDBC driver?
+How do I get the 'size' of document stored in an oracle blob column in a readable form using SQL?
+Oracle, calling PL/SQL issues from within SQL-Plus file x.sql says my_function "may not be a function"
+How do I determine the maximum and minimum value for an Oracle NUMBER column?
+Oracle Sequences
+Oracle view with multiple join is only recognize when use a quotes around - why ?
+Oracle - select AND delete in a procedure
+Oracle triggers error are not captured while using ADODB
+Oracle moving / transferring schemas from one server to another
+What is the bullet-proof way to specify the Easy Connect string for Oracle?
+Parse CSV (comma separated values) in Oracle
+Please recommand some book on Oracle and Apex
+Table Join Efficiency Question
+SQL to search objects, including stored procedures, in Oracle.
+Oracle/SQL: Why does query "SELECT * FROM records WHERE rownum >= 5 AND rownum <= 10" - return zero rows
+JDBC connection to Oracle Clustered
+Oracle deadlock detection tool
+Oracle Export: ORA-31600: invalid input value EMIT_SCHEMA for parameter NAME in function SET_TRANSFORM_PARAM
+Converting a string to an integer in oracle
+Oracle how to export query to a text/csv file
+Oracle compile view sql
+Prevent Oracle minus statement from removing duplicates
+Run Oracle update statements in a batch mode
+Using Semicolons in Oracle SQL Statements
+Understanding the results of Execute Explain Plan in Oracle SQL Developer
+Oracle - dynamic column name in select statement
+Installing Oracle 10 ODP.NET on Microsoft Windows 2008 Server 64bit
+Replace (translate) one char to many
+When programatically creating a DSN for an Oracle database how can I reliably tell the driver name?
+Program version using the database?
+How to wrapp an Oracle stored procedure in a function that gets executed by a standard SELECT query?
+Best solution for Java web based forms connected to Oracle plus JNI?
+Oracle - How to grant to a user the rights to another user's objects
+oracle objects and collections
+describe query with oracle (.Net Connector)
+Oracle - How to have an out ref cursor parameter in a stored procedure?
+Copying data between Oracle schemas using SQL
+ORA-01031: insufficient privileges creating JMS connection to Oracle topic
+Scripting out Oracle objects
+Changing a column in oracle that has a foreign key constraint
+TransactionTimeout with Oracle 11g
+Oracle/PLSQL performance
+difference between a User and a Schema in Oracle?
+Problem connecting to Oracle database via ASP.NET page under IIS
+Oracle Connection and nls_lang
+How can Oracle User Profiles be put to practical use?
+How do I fix an oracle Table/Index row count mismatch
+Inserting multiple rows into Oracle
+Data Logging with Oracle (or any RDBMS)
+Why does running this query with EXECUTE IMMEDIATE cause it to fail?
+Performance of Oracle's dbms_crypto.hash function for SHA-1
+Oracle Form Builder: Switching between tabs in a form
+How to cancel a long-running Database operation?
+Oracle query to get Data from table inserted in last 10 mins.
+Abort a PL/SQL program
+Oracle stored procedure OUT parameters
+oracle subselect with dynamic table and column
+Too many columns in a single database table?
+Oracle Hierarchical query: how to include top-level parent
+Oracle Resource Manager Plan Design
+Oracle Forms/Applications in Internet Explorer 8 using JInitator
+Is there an easy way to convert HTTP_ACCEPT_LANGUAGE to Oracle NLS_LANG settings?
+Oracle cursor running through the last item twice
+Archive log transfer from Oracle 9i to Oracle 10g
+Extracting time zone from Oracle JDBC TIMEZONETZ object
+Oracle External Tables: Advanced Flat File Layout
+oracle sqlplus command line question
+query long raw data type
+Default row ordering for select query in oracle
+Getting Oracle client to work on Windows 7 RC
+ORACLE 7.3 user management
+Oracle: Using subqueary in a trigger
+More elegant SQL?
+Instantiating Oracle Driver results in InvocationTargetException
+Help optimize an Oracle query?
+Monitoring which statement updates (and when) a certain table row with Oracle 10
+Oracle Date Rounding
+Multiple Oracle Clients
+What are some good Oracle Db maintenance Tools.
+What's the difference between the Oracle SYS and SYSTEM accounts?
+oracle insert with many bind variables over WAN is very slow
+Testing SQL query on Oracle which includes a remote database
+CONNECT_BY_ISLEAF with Conditions
+Oracle Associative Array TYPE is not able to use in USING statement (If  TYPE is declared within Package)
+Importing 3954275 Insert statements into Oracle 10g
+What are the advantages/disadvantages of using Oracle Auto Segment Space Management?
+Is it recommended practice to use uniform extent sizes in Oracle tablespaces?
+Oracle: Calling multiple procedures in a batch
+How do I execute private procedures in an Oracle package?
+ORA-4030 Oracle : How to resolve
+Optimizing SELECT Query on Oracle 10 Dense Unique Index
+Cannot Connect with TOAD but Can with Other Tools/Apps
+Is there a way to view relationships in Oracle SQL Developer?
+Using a ref cursor as input type with ODP.NET
+How to encode string in Oracle?
+Faster 'select distinct thing_id,thing_name from table1' in oracle
+How to get Oracle create table statement in SQL*Plus
+relations in oracle objects?
+Oracle optimizing query involving date calculation
+How do I automatically reset a sequence's value to 0 every year in Oracle 10g?
+How to resolve Oracle RemoteOperationException: Error reading error from command
+Oracle adds NULL Byte (ASCII: 0) to varchar2 string
+Oracle Calculation Involving Results of Another Calculation
+Oracle 8i Query Help
+Oracle Database character set issue with the audit tables on Debian
+Oracle Differences between NVL and Coalesce
+how to change a column's attribute without affecting the values already present?
+Oracle .NET error - Wrong number or type of arguments
+how to write a pl/sql code block that prints out contents of cursor that is out parameter from stored proc
+In Oracle, is there a function that calculates the difference between two Dates?
+Oracle Financials GL Import
+SQL for listing Oracle Stored Procedures
+nHibernate SchemaUpdate Failing
+Restore and Recovery Scenario
+Mapping an Oracle Date to a Java object using Hibernate
+Oracle BPM Ajax to Fuego Object
+Oracle: symbolic names and logical grouping for ORA-XXXXX codes?
+Lost RPC connection to remote Agent error with Oracle connected to Informix
+Can Ruby on Rails connect to Oracle/RDB on Mac OS X or Windows?
+Keeping tables synchronized in Oracle
+Connect to a secure database using JDBC
+Oracle SQL Expert Certification 1Z0-047
+Testing for a valid date in a oracle procedure's parameter
+oracle pl/sql ora-01722 error
+dba_jobs_running: table or view does not exist when trying to access from procedure
+Oracle database connections - what are all the fields I need to fill in?
+Oracle 'identifier myschema.mytable must be declared'
+Is there an easy way to backup Oracle SQL Developer's User Snippets?
+Oracle SQL Query (Analytics?)
+Rolling forward the archivelog and online redo logs to the restored database
+Converting SQL Server date format to Oracle
+Filter SQL query by a unique set of column values, regardless of their order
+What type of index in best for DATE type on Oracle?
+Oracle: Variable number of parameters to a stored procedure
+Query two tables from different schema
+Techniques for removing old data on Oracle databases
+Oracle 11g SQL to get unique values in one column of a multi-column query
+Oracle lag between commit and select
+Exporting Excel Data into Oracle Table using VB.NET
+Oracle Pl/SQL: Loop through XMLTYPE  nodes
+Bulk Insert into Oracle database: Which is better: FOR Cursor loop or a simple Select ?
+Return an Oracle Ref Cursor to a SqlServer T-SQL caller
+secure Oracle connection from java applet
+Oracle Syntax for Creating Database Link Owned by Another User
+Accessing a Windows file folder from Oracle Forms 10g
+Connect SQLplus in oracle
+Resolving ORA-4031 "unable to allocate x bytes of shared memory"
+[Probably something stupid] Can't create trigger using SQLPlus in Oracle
+Whats wrong with this Cursor
+Oracle extractValue failing when query returns many rows
+referential integrity constraint is automatically disabling in oracle.
+ORM for ASP.net, ORACLE, looking for a solution.
+How to obtain the list of Oracle's SIDs
+Oracle: loading a large xml file?
+How can I optimize a dynamic search query in Oracle
+Update the results of a SELECT statement
+Can I get ORA-08177 if there's only one connection to the database?
+Oracle 'printf' equivalent
+Oracle 10g PL/SQL- Select results as update column values
+Working with date ranges in PHP/Oracle
+How to install Java class on Oracle on Solaris
+Oracle EXECUTE IMMEDIATE with variable number of binds possible?
+How do I use CREATE OR REPLACE?
+Oracle and SQLServer function evaluation in queries
+Customize Oracle AWR report
+How to determine ORACLE_HOME from PL/SQL?
+Help me understand the difference between CLOBs and BLOBs in Oracle
+Display contents of Oracle AQ SYS.AQ$_JMS_TEXT_MESSAGE
+Is it possible to use a database link between an oracle database and a postgresql database on different physical servers
+Oracle unique constraint with where clause
+how will you take only stored procedure backup in oralce 10g?
+XAConnection performance in Oracle (10g)
+MODIFY COLUMN in oracle - How to check if a column is nullable before setting to nullable?
+Oracle SQL Query to Summarize Statistics, using GROUP BY
+Oracle DB: How can I write query ignoring case?
+Can a query from an Oracle to a DB2 through a dblink block the DB2 table?
+Oracle Analytic Question
+What is the difference between converting to hex on the client end and using rawtohex?
+How to determine a PL/SQL function's schema from within the function
+Dump Oracle table(s) data to INSERT statements
+What's a quality development environment for writing Oracle SQL?
+How to do monthly refresh of large DB tables without interrupting user access to them
+General Oracle Results Table
+General Oracle Data Collection Storage
+Data Guard Oracle 11g
+Oracle: Does a 10g oracle client work with an 11g server?
+Websphere connections problem
+How to list active / open connections in Oracle?
+Accessing a Function over Database Link with Different Charsets in Oracle
+Oracle connections problem
+How to created a "singleton" scheduled job in oracle?
+ODP.net Oracle Decimal Number precision problem when filling a dataset. Exception: Arithmetic operation resulted in an overflow
+How could predicate pushing on an inline view slow down a query?
+Oracle Generic DB Link not working
+How do I specify which Oracle client install to use?
+Querying Oracle with a pick list
+PL/SQL: Problem in WHERE clause ( don't know how I can address results from DECODE() function in WHERE clause).
+How to handle line breaks in data for importing with SQL Loader
+Oracle 11g SQL select max integer value of varchar column
+pl/sql Stored procedure... where does the execution time go?
+Storing Waveforms in Oracle
+How to improve performance in Oracle using SELECT DISTINCT
+Requirements for connecting to Oracle with JDBC?
+How can I define a type in oracle11g that references a collection of that type?
+What is the SQL Server equivalent to Oracle's Virtual Private Database?
+PL/SQL: Retrieve names of procedures and functions within a package
+Storing Array of Floats as a BLOB in Oracle
+Batch multiple select statements when calling Oracle from ADO.NET
+Accessing Oracle Database from C#
+Compare strings by their written representation - is it possible?
+Resultset logic when selecting tables without a join?
+Continuing Inserts in Oracle when exception is raised
+Possible to create Oracle associative array type outside of a package/procedure?
+Oracle - Is there any effects of not having a primary key on  a table ?
+Loose coupling among objects within oracle schema
+Possible to create Oracle Database object types inside of PL/SQL?
+In Oracle, is starting the SQL Query's WHERE clause with 1=1 useful?
+Oracle V-Limits (VARCHAR, VARRAY, etc)
+How to progromatically know to rollback a transaction (can do it in SQLServer, but need oracle solution)
+Efficiency of storing an Oracle User Defined Type in an index organized table
+What is the PL/SQL API difference between Oracle Express Edition (XE) and Standard Edition (SE)?
+Is there an Oracle equivalent to SQL Server's OUTPUT INSERTED.*?
+How do you add an edit button to each row in a report in Oracle APEX?
+How can multiple rows be concatenated into one in Oracle without creating a stored procedure?
+Can an Oracle variable of type RECORD be passed between procedures without the procedures knowing its real type?
+Oracle SqlDeveloper: how to view results from a ref cursor?
+How do I set the window tile for a SQL*Plus (Windows) instance?
+SQL: the semicolon or the slash?
+NLS_LANG setting for JDBC thin driver?
+What is an effective way to  track, identify and report every 'error message raised by your application similar to Oracle's ORA-00237 database error codes?
+Oracle: Global namespace qualifier for function?
+Oracle: best way to search over a range of values?
+Help me put Oracle terminology into SQL Server terminology
+Oracle Identify Data Type
+Oracle NUMBER Comparisons
+Import Excel File into Oracle
+Quickest query to check for the existence of a row in Oracle?
+alternatives for loading into oracle
+SSRS Report from Oracle DB - Use stored procedure
+What's wrong with adding LOBs to an Oracle table?
+Oracle DATE Index
+Limit Oracle / ASPX Query Time
+Why is oracle spewing bad table metadata?
+use oracle cursor within a sys_refcursor
+How to optimize oracle query for repeated full table sorts?
+How do I turn off Oracle password expiration?
+Calculate difference between 2 date / times in Oracle SQL
+Evaluate Oracle Expression
+oracle: efficient way to configure columns in an output report
+Stumped and Seeking Input Re: Database Design
+Oracle SQL Developer: sharing configuration via Dropbox
+ORACLE Rollback and Trigger
+How can I optmize a MAX date query relating to a other table entity
+How to know which stored procedures are running in an Oracle database?
+Best way in Oracle to go from this data to this result
+How do you add textboxes to Oracle APEX reports?
+No results from Oracle query in VB ASPX
+What is the difference between a hash join and a merge join (Oracle RDMBS )?
+Oracle 11g Cold Restore?
+Oracle performance using functions in where clause
+Oracle requests proxy
+execute immediate over databse link
+How do you strip leading spaces in Oracle?
+#define Equivalent for Oracle SQL?
+Is there an Oracle SQL query that aggregates multiple rows into one row?
+calling a stored proc over a dblink
+Problem with Oracle Sql Loader control file
+Negating an arbitrary where clause condition (including the null tests)
+How to increase Oracle CBO cost estimation for hash joins, group by's and order by's without hints
+Diagnostic output of the Oracle Query Optimizer
+Oracle Builtin String Character Classes
+What's the equivalent of Oracle's to_char in AS400 DB2 SQL syntax?
+Query Hangs
+Find duplicate/repeated rows in hierarchical sql
+Does Oracle 10g automatically escape double quotes in recordsets?
+Is it safe/possible to delete code from the table dba_source in Oracle 10g?
+Oracle Materialized Views Vs Replication on the same DB server
+How to get values of bind parameters from Oracle JDBC PreparedStatement object
+Last day of the month with a twist in SQLPLUS
+Using a Oracle subselect to replace a CASE statement
+Performance of Remote Materialized views in Oracle
+Can you grant privileges to an oracle cluster object?
+Oracle pl-sql escape character (for a '?')
+Is there integer ranges for Where Clause?
+How to determine if a table has been accessed in the last month?
+BPEL for data synchronization
+How to limit RAM usage in Oracle 9
+How can I find which tables reference a given table in Oracle SQL Developer?
+Optional Entity Attributes
+How can I "batch download" data from Oracle?
+MERGE output cursor of SP into table?
+Oracle SQL Invalid Identifier
+oracle varchar to number
+Oracle Data Dump and Data Restore
+Error connecting to Oracle from Visual Studio
+How to get UTC value for SYSDATE on Oracle
+Index not used due to type conversion?
+Oracle Java Stored Procedure Command-line Interaction
+Difference between two queries when selecting a random sample from oracle
+Oracle connections from a COM+ application
+Is ODP.NET required for Oracle 11g Client?
+Version configuration from SQL
+How do I escape a reserved word in oracle
+Oracle NUMBER problem: Decimal to Int64 cast
+Help Constructing an Oracle SQL with Condition
+Possible to create Oracle regular expression that's able to match NULL?
+Oracle Query Optimization
+Delete an oracle-user with single quotes in the username
+What is difference between Access and oracle????
+Get resultset from oracle stored procedure
+what is d2k in oracle
+difference between varchar and varchar2
+Oracle all foreign key references
+What's the best way to determine which version of oracle client I'm running?
+Oracle TEMPORARY TABLESPACE
+Oracle Update Hangs
+Does an index on a unique field in a table allow a select count(*) to happen instantly?  If not why not?
+Can you add values to an Oracle APEX Shuttle item using a textbox?
+How do you pre-set values on the right-hand side of a Shuttle Item in Oracle APEX?
+Oracle Analytics inside Cursor
+Oracle Minus - From a list of values, how do I count ONLY non reversed values.
+update sql in Oracle conversion from Sql Server
+how to use a variable in oracle script for the table name
+Oracle PL/SQL: Any benefits in changing PLSQL_CODE_TYPE from interpreted to native ?
+Oracle and auto_increment/identity
+Oracle optional relationship
+Can I run an arbitrary Oracle SQL script through ODP.NET?
+Local Temporary table in Oracle 10 (for the scope of Stored Procedure)
+oracle 11g hibernate problem
+How to write a SQL Loader control file to load data into multiple tables
+CREATE TABLE reverse engineering in Oracle
+Is there any way to programmatically "move" an oracle table definition from one database to another?
+problem with oracle sqlplus with whitespace in the path of the @ command
+Create or replace role?
+Workaround for Oracle 9i outputting CRLF when using utl_file.putraw() for BLOBs?
+How to refer dynamically to another database user?
+Oracle: Altering JOB_QUEUE_PROCESSES question
+Oracle INSERT giving error in C#.
+How can I use the 'NVL' function on a result table?
+Why oracle does not have autoincrement feature for primary keys?
+Is direct-path insert a good way to do bulk inserts in Oracle?
+Oracle: Create table as select from another database?
+Oracle Gotchas for An Experienced Newb
+Question about Oracle locking and summarisation
+How do I insert sysdate into a column using ODP and an XML dataset?
+How to extract data from a LONG column holding XML strings
+Error when converting XML from a CLOB column to XMLType colum
+Trouble using/displaying special characters from Oracle db in .Net app
+How to deploy web service through oracle enterprise manager [Java]
+What is sql Loader...in details
+Oracle: How do I convert hex to decimal in Oracle SQL?
+Getting Oracle's MD5 to match PHP's MD5
+Differences between two analytic queries
+Can I use Oracle SQL to plot actual dates from Schedule Information?
+Whats wrong with this FIRST_VALUE query?
+When does Oracle index null column values?
+Losing decimals when using Oracle SDO_POINT in a view
+How can I tell which sessions are tracing (after a call to DBMS_MONITOR.SESSION_TRACE_ENABLE)
+PL/SQL Logging - How to control?
