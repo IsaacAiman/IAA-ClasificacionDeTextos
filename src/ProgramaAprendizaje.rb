@@ -55,9 +55,12 @@ def frecuenciaPalabras(i, files)
 
   frec = 0
 
+puts log_prob = Math::log(((861 + 1).to_f / (10938 + 8147 + 1).to_f), 2)
+puts words.length
   palabras_vocabulario.each do |key, word|
-      files[i].write("\nPalabra: " + key + " Frec: " + word.to_s)
-      frec = frec + word
+    log_prob = Math::log(((word + 1).to_f / (words.length + palabras_vocabulario.length + 1).to_f), 2)
+    files[i].write("\nPalabra: " + key + " Frec: " + word.to_s + " LogProb: " + log_prob.to_s)
+    frec = frec + word
   end
 
   puts frec
