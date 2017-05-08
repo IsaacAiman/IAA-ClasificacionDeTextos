@@ -2,6 +2,10 @@
 
 CATEGORIES = 20
 
+NUM_LINEAS = [990, 908, 841, 950, 954, 993, 757, 984, 905, 956, 991, 993, 997, 896, 962, 989, 988, 958, 991, 997]
+
+# Creamos el fichero clasificación.txt
+$clasificacion_file = File.new("./../generatedFiles/clasificacion.txt", "w+")
 
 # En corpus está el corpus indicado.
 ARGV.each do|filename|
@@ -40,7 +44,7 @@ end
 
 # Calcula la probabilidad de una palabra usando un fichero de aprendizaje determinado.
 def probabilidad_palabra(num_fichero, palabra, num_palabras_corpus)
-
+  palabra = palabra.downcase
   if ($tablas_hash[num_fichero][palabra] != nil)
     return $tablas_hash[num_fichero][palabra].to_f
   end
@@ -64,7 +68,19 @@ end
 
 to_hash()
 
+contador = 0
+num_categoria = 1
+aciertos = 0
+
 $corpus.each do |line|
+  contador += 1
+
+  if (contador > NUM_LINEAS[num_categoria - 1])
+    puts num_categoria
+    num_categoria +=1
+    contador = 1
+  end
+
   mayor = calcular_probabilidad(line, 0).to_f
   pos = 0
   (1..CATEGORIES - 1).each do |num_fichero|
@@ -74,8 +90,15 @@ $corpus.each do |line|
       mayor = prob
       pos = num_fichero
     end
-
   end
-  puts line + " " + (pos + 1).to_s
+  $clasificacion_file.write(line + " " + (pos + 1).to_s + "\n")
+
+  if ((pos + 1) == num_categoria)
+    aciertos += 1
+  end
+
+
 end
+
+puts ("Porcentaje de acierto: " + ((aciertos.to_f/19000).to_f*100).to_s) + "%"
 
