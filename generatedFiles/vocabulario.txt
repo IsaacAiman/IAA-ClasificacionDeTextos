@@ -1,4 +1,4 @@
-Número de palabras: 10938
+Número de palabras: 10749
 Palabra: 0
 Palabra: 00
 Palabra: 000
@@ -218,7 +218,6 @@ Palabra: _root_
 Palabra: _server
 Palabra: _session
 Palabra: _svn
-Palabra: a
 Palabra: a1
 Palabra: a2
 Palabra: aac
@@ -229,9 +228,7 @@ Palabra: ability
 Palabra: abiltiy
 Palabra: able
 Palabra: abort
-Palabra: about
 Palabra: abouticondata
-Palabra: above
 Palabra: abrecordref
 Palabra: absence
 Palabra: absolute
@@ -292,7 +289,6 @@ Palabra: acl
 Palabra: acls
 Palabra: acquire
 Palabra: acquisition
-Palabra: across
 Palabra: act
 Palabra: acting
 Palabra: action
@@ -392,12 +388,9 @@ Palabra: affecting
 Palabra: affects
 Palabra: affiliate
 Palabra: afp
-Palabra: after
 Palabra: aftertransactioncompletion
 Palabra: afterward
-Palabra: again
 Palabra: agains
-Palabra: against
 Palabra: agenda
 Palabra: agent
 Palabra: aggragate
@@ -456,7 +449,6 @@ Palabra: aligned
 Palabra: alignment
 Palabra: alist
 Palabra: alive
-Palabra: all
 Palabra: allocate
 Palabra: allocated
 Palabra: allocating
@@ -471,9 +463,6 @@ Palabra: allows
 Palabra: allowunsafeupdates
 Palabra: allusers
 Palabra: alluserswebpart
-Palabra: almost
-Palabra: alone
-Palabra: along
 Palabra: alot
 Palabra: alpabetical
 Palabra: alpha
@@ -481,9 +470,7 @@ Palabra: alphabet
 Palabra: alphabetically
 Palabra: alphabetize
 Palabra: alphanumeric
-Palabra: already
 Palabra: alreay
-Palabra: also
 Palabra: alt
 Palabra: alter
 Palabra: altered
@@ -493,9 +480,7 @@ Palabra: alternateive
 Palabra: alternating
 Palabra: alternative
 Palabra: alternatives
-Palabra: although
 Palabra: altogether
-Palabra: always
 Palabra: alwaysontop
 Palabra: am
 Palabra: amazon
@@ -505,14 +490,11 @@ Palabra: ambiguous
 Palabra: amcharts
 Palabra: amex
 Palabra: ammount
-Palabra: among
-Palabra: amongst
 Palabra: amount
 Palabra: amounts
 Palabra: amp
 Palabra: ampersand
 Palabra: amphersand
-Palabra: an
 Palabra: analogue
 Palabra: analtyics
 Palabra: analysing
@@ -525,7 +507,6 @@ Palabra: ancestor
 Palabra: ancestrally
 Palabra: anchor
 Palabra: anchors
-Palabra: and
 Palabra: android
 Palabra: anemic
 Palabra: anf
@@ -556,7 +537,6 @@ Palabra: anon
 Palabra: anonfun
 Palabra: anonymous
 Palabra: anotated
-Palabra: another
 Palabra: ansi
 Palabra: answer
 Palabra: answers
@@ -564,17 +544,13 @@ Palabra: ant
 Palabra: ant_ops
 Palabra: antipattern
 Palabra: antislaed
-Palabra: any
 Palabra: anybody
 Palabra: anycpu
 Palabra: anymore
-Palabra: anyone
 Palabra: anyref
-Palabra: anything
 Palabra: anyval
 Palabra: anyway
 Palabra: anyways
-Palabra: anywhere
 Palabra: aop
 Palabra: apacahe
 Palabra: apace
@@ -674,7 +650,6 @@ Palabra: archive
 Palabra: archivelog
 Palabra: archives
 Palabra: archivial
-Palabra: are
 Palabra: area
 Palabra: areas
 Palabra: aren
@@ -698,7 +673,6 @@ Palabra: arithmetic
 Palabra: arithmetics
 Palabra: arity
 Palabra: arn
-Palabra: around
 Palabra: arounds
 Palabra: arp
 Palabra: arrange
@@ -725,7 +699,6 @@ Palabra: artist
 Palabra: artwork
 Palabra: ary
 Palabra: aryule
-Palabra: as
 Palabra: as400
 Palabra: asapmail
 Palabra: asax
@@ -795,7 +768,6 @@ Palabra: asynchronous
 Palabra: asyncpostback
 Palabra: asyncronously
 Palabra: asyncsocket
-Palabra: at
 Palabra: atl
 Palabra: atom
 Palabra: atomically
@@ -1002,7 +974,6 @@ Palabra: bc
 Palabra: bc4j
 Palabra: bdc
 Palabra: bdd
-Palabra: be
 Palabra: bean
 Palabra: beandefinitiondecorator
 Palabra: beanfactory
@@ -1013,12 +984,7 @@ Palabra: beanstalk
 Palabra: beanutils
 Palabra: beautiful
 Palabra: beautifying
-Palabra: because
-Palabra: become
-Palabra: becoming
-Palabra: been
 Palabra: beep
-Palabra: before
 Palabra: beforeclass
 Palabra: beforeproperties
 Palabra: beforesend
@@ -1036,13 +1002,10 @@ Palabra: behavior
 Palabra: behaviors
 Palabra: behaviour
 Palabra: behaviours
-Palabra: behind
 Palabra: beign
-Palabra: being
 Palabra: belong
 Palabra: belonging
 Palabra: belongs
-Palabra: below
 Palabra: benchmark
 Palabra: benchmarking
 Palabra: beneath
@@ -1052,7 +1015,6 @@ Palabra: benefits
 Palabra: benfords
 Palabra: ber
 Palabra: berserk
-Palabra: besides
 Palabra: bessel
 Palabra: best
 Palabra: bet
@@ -1060,9 +1022,7 @@ Palabra: beta
 Palabra: beta1
 Palabra: better
 Palabra: betterauthorizationsample
-Palabra: between
 Palabra: betwenn
-Palabra: beyond
 Palabra: bezier
 Palabra: bi
 Palabra: bias
@@ -1176,7 +1136,6 @@ Palabra: borders
 Palabra: borland
 Palabra: bosh
 Palabra: bot
-Palabra: both
 Palabra: bottleneck
 Palabra: bottom
 Palabra: bought
@@ -1258,14 +1217,12 @@ Palabra: bus
 Palabra: business
 Palabra: businessdatalist
 Palabra: busy
-Palabra: but
 Palabra: butn
 Palabra: button
 Palabra: buttons
 Palabra: buy
 Palabra: buying
 Palabra: bwperim
-Palabra: by
 Palabra: bye
 Palabra: bypassing
 Palabra: byte
@@ -1328,7 +1285,6 @@ Palabra: camelcase
 Palabra: camera
 Palabra: camiloo
 Palabra: caml
-Palabra: can
 Palabra: canbuildfrom
 Palabra: cancel
 Palabra: cancelation
@@ -1336,7 +1292,6 @@ Palabra: canceled
 Palabra: cancelled
 Palabra: cancelling
 Palabra: candlestick
-Palabra: cannot
 Palabra: cant
 Palabra: canvas
 Palabra: canÔÇÖt
@@ -1640,7 +1595,6 @@ Palabra: cmdline
 Palabra: cmnewprofilesearch
 Palabra: cms
 Palabra: cmses
-Palabra: co
 Palabra: coalesce
 Palabra: coalescing
 Palabra: cobol
@@ -2056,7 +2010,6 @@ Palabra: corrupts
 Palabra: cosmetic
 Palabra: cost
 Palabra: costs
-Palabra: could
 Palabra: couldn
 Palabra: count
 Palabra: counta
@@ -2769,7 +2722,6 @@ Palabra: doublespinbox
 Palabra: doubt
 Palabra: doubts
 Palabra: dow
-Palabra: down
 Palabra: downcasting
 Palabra: downgrade
 Palabra: downgrading
@@ -2853,7 +2805,6 @@ Palabra: duplicates
 Palabra: duplicating
 Palabra: duration
 Palabra: durations
-Palabra: during
 Palabra: durpal
 Palabra: dv
 Palabra: dvb
@@ -2871,7 +2822,6 @@ Palabra: e4x
 Palabra: e50
 Palabra: e_fail
 Palabra: eaccelerator
-Palabra: each
 Palabra: each_slice
 Palabra: eager
 Palabra: eagerly
@@ -2932,12 +2882,10 @@ Palabra: efficient
 Palabra: efficiently
 Palabra: effort
 Palabra: efter
-Palabra: eg
 Palabra: egg
 Palabra: egrep
 Palabra: ehcache
 Palabra: ehcacheprovider
-Palabra: either
 Palabra: ejb
 Palabra: ejb3configuration
 Palabra: ejbs
@@ -2958,7 +2906,6 @@ Palabra: eliminate
 Palabra: elimination
 Palabra: ellipse
 Palabra: ellipsoid
-Palabra: else
 Palabra: elseif
 Palabra: elusive
 Palabra: em
@@ -3033,7 +2980,6 @@ Palabra: enhydra
 Palabra: enironment
 Palabra: enlighten
 Palabra: enormous
-Palabra: enough
 Palabra: ensime
 Palabra: ensure
 Palabra: enter
@@ -3133,7 +3079,6 @@ Palabra: estimation
 Palabra: esxi
 Palabra: etag
 Palabra: etags
-Palabra: etc
 Palabra: ethernet
 Palabra: etl
 Palabra: eula
@@ -3144,16 +3089,12 @@ Palabra: evaluated
 Palabra: evaluating
 Palabra: evaluation
 Palabra: evalutatejavascript
-Palabra: even
 Palabra: event
 Palabra: eventfilter
 Palabra: eventhandlerlist
 Palabra: eventreceiver
 Palabra: events
-Palabra: ever
 Palabra: everthing
-Palabra: every
-Palabra: everything
 Palabra: everytime
 Palabra: evil
 Palabra: evolved
@@ -3177,7 +3118,6 @@ Palabra: excel97
 Palabra: excell
 Palabra: excelsheet
 Palabra: excelÒÇÇ
-Palabra: except
 Palabra: exception
 Palabra: exceptions
 Palabra: excercises
@@ -3406,7 +3346,6 @@ Palabra: fetching
 Palabra: fetchmode
 Palabra: fething
 Palabra: feture
-Palabra: few
 Palabra: fewer
 Palabra: ff
 Palabra: ffi
@@ -3486,7 +3425,6 @@ Palabra: firewall
 Palabra: firing
 Palabra: firm
 Palabra: firmware
-Palabra: first
 Palabra: first_value
 Palabra: firstordefault
 Palabra: fit
@@ -3571,7 +3509,6 @@ Palabra: footers
 Palabra: footprint
 Palabra: fop
 Palabra: fopen
-Palabra: for
 Palabra: forall
 Palabra: forbidden
 Palabra: forbidding
@@ -3675,7 +3612,6 @@ Palabra: friendfeed
 Palabra: friendlist
 Palabra: friendly
 Palabra: froget
-Palabra: from
 Palabra: fromat
 Palabra: fromimage
 Palabra: frominteger
@@ -3732,7 +3668,6 @@ Palabra: funptrs
 Palabra: funtion
 Palabra: funtionality
 Palabra: furnish
-Palabra: further
 Palabra: fusion
 Palabra: fuss
 Palabra: futu
@@ -4045,7 +3980,6 @@ Palabra: hardening
 Palabra: hardlinks
 Palabra: hardware
 Palabra: harvard
-Palabra: has
 Palabra: has_filter
 Palabra: hash
 Palabra: hashcode
@@ -4058,7 +3992,6 @@ Palabra: haskells
 Palabra: haskore
 Palabra: hassle
 Palabra: hate
-Palabra: have
 Palabra: having
 Palabra: hbm
 Palabra: hbm2ddl
@@ -4091,11 +4024,8 @@ Palabra: held
 Palabra: hell
 Palabra: hello
 Palabra: helloworld
-Palabra: help
 Palabra: helper
 Palabra: helping
-Palabra: her
-Palabra: here
 Palabra: heredoc
 Palabra: hessian
 Palabra: heterogeneous
@@ -4143,7 +4073,6 @@ Palabra: hijack
 Palabra: hinky
 Palabra: hint
 Palabra: hints
-Palabra: his
 Palabra: hist
 Palabra: histc
 Palabra: histo
@@ -4274,7 +4203,6 @@ Palabra: hyperlinks
 Palabra: hypersonic
 Palabra: hyperspace
 Palabra: hyphen
-Palabra: i
 Palabra: i18n
 Palabra: i386
 Palabra: i4o
@@ -4325,14 +4253,12 @@ Palabra: ids
 Palabra: idsplay
 Palabra: idtoentityconverter
 Palabra: idwt2
-Palabra: ie
 Palabra: ie5
 Palabra: ie6
 Palabra: ie7
 Palabra: ie8
 Palabra: ienumberable
 Palabra: ienumerable
-Palabra: if
 Palabra: ifilter
 Palabra: ifndef
 Palabra: iframe
@@ -4411,14 +4337,12 @@ Palabra: impure
 Palabra: imread
 Palabra: imtophat
 Palabra: imultipleresults
-Palabra: in
 Palabra: in_array
 Palabra: inaccessible
 Palabra: inaccurate
 Palabra: inactive
 Palabra: inactivity
 Palabra: inbound
-Palabra: inc
 Palabra: incensitive
 Palabra: include
 Palabra: include_path
@@ -4670,7 +4594,6 @@ Palabra: intervallic
 Palabra: intervals
 Palabra: interview
 Palabra: interwoven
-Palabra: into
 Palabra: intranet
 Palabra: intregrate
 Palabra: introduce
@@ -4735,7 +4658,6 @@ Palabra: irregardless
 Palabra: irregular
 Palabra: irrelevant
 Palabra: irrelevent
-Palabra: is
 Palabra: isa
 Palabra: isajaxrequest
 Palabra: isdisabledinthisenvironment
@@ -4765,7 +4687,6 @@ Palabra: issuing
 Palabra: issus
 Palabra: istance
 Palabra: istream
-Palabra: it
 Palabra: itaerate
 Palabra: italics
 Palabra: item
@@ -4787,8 +4708,6 @@ Palabra: iterators
 Palabra: iterm
 Palabra: itersection
 Palabra: itk
-Palabra: its
-Palabra: itself
 Palabra: itunes
 Palabra: iusertype
 Palabra: ivr
@@ -5015,7 +4934,6 @@ Palabra: large
 Palabra: larger
 Palabra: largest
 Palabra: largestdivisible
-Palabra: last
 Palabra: lastest
 Palabra: lastupdatedon
 Palabra: late
@@ -5055,7 +4973,6 @@ Palabra: learn
 Palabra: learned
 Palabra: learning
 Palabra: lease
-Palabra: least
 Palabra: leave
 Palabra: leaves
 Palabra: leaving
@@ -5067,7 +4984,6 @@ Palabra: legends
 Palabra: lenght
 Palabra: length
 Palabra: leopard
-Palabra: less
 Palabra: lessen
 Palabra: let
 Palabra: letter
@@ -5421,7 +5337,6 @@ Palabra: manualresetevent
 Palabra: manuals
 Palabra: manufacturer
 Palabra: manupulating
-Palabra: many
 Palabra: manytomany
 Palabra: manytoone
 Palabra: manytoonetype
@@ -5496,7 +5411,6 @@ Palabra: maximize
 Palabra: maximum
 Palabra: maxing
 Palabra: maxvalue
-Palabra: may
 Palabra: maybe
 Palabra: maybemonad
 Palabra: maybet
@@ -5511,7 +5425,6 @@ Palabra: mcrypt
 Palabra: md5
 Palabra: mdb
 Palabra: mdf
-Palabra: me
 Palabra: mean
 Palabra: meaning
 Palabra: meanings
@@ -5611,7 +5524,6 @@ Palabra: middle
 Palabra: midi
 Palabra: midl
 Palabra: midnight
-Palabra: might
 Palabra: migrate
 Palabra: migrated
 Palabra: migratiion
@@ -5776,11 +5688,9 @@ Palabra: months
 Palabra: montoring
 Palabra: moodle
 Palabra: mootools
-Palabra: more
 Palabra: morphisms
 Palabra: mortem
 Palabra: moss
-Palabra: most
 Palabra: mothed
 Palabra: motion
 Palabra: motivation
@@ -5833,7 +5743,6 @@ Palabra: msvcx80
 Palabra: mtimes
 Palabra: mtl
 Palabra: mu
-Palabra: much
 Palabra: mule
 Palabra: muliple
 Palabra: muliplte
@@ -5873,7 +5782,6 @@ Palabra: multivalue
 Palabra: multuiple
 Palabra: munu
 Palabra: music
-Palabra: must
 Palabra: mutable
 Palabra: mutablepropertyvalues
 Palabra: mutators
@@ -5888,7 +5796,6 @@ Palabra: mv
 Palabra: mvar
 Palabra: mvc
 Palabra: mvp
-Palabra: my
 Palabra: my_deregister
 Palabra: my_function
 Palabra: my_thread_global_end
@@ -5900,7 +5807,6 @@ Palabra: mylist
 Palabra: myobjects
 Palabra: myobjecttype
 Palabra: myschema
-Palabra: myself
 Palabra: mysequence
 Palabra: mysite
 Palabra: mysql
@@ -5992,7 +5898,6 @@ Palabra: network
 Palabra: networking
 Palabra: networks
 Palabra: neural
-Palabra: never
 Palabra: new
 Palabra: newapplication
 Palabra: newb
@@ -6011,7 +5916,6 @@ Palabra: news
 Palabra: newsletter
 Palabra: newsletters
 Palabra: newtype
-Palabra: next
 Palabra: nextpage
 Palabra: nginx
 Palabra: nhibernate
@@ -6036,9 +5940,7 @@ Palabra: nls_date_format
 Palabra: nls_lang
 Palabra: nmake
 Palabra: nntool
-Palabra: no
 Palabra: no_data_found
-Palabra: nobody
 Palabra: noclassdeffound
 Palabra: noclassdeffounderror
 Palabra: nodapia
@@ -6061,7 +5963,6 @@ Palabra: nokia
 Palabra: non
 Palabra: nonce
 Palabra: nonclosing
-Palabra: none
 Palabra: nonexistant
 Palabra: noninteger
 Palabra: nonlinear
@@ -6069,7 +5970,6 @@ Palabra: nonobvious
 Palabra: nonuniqueobjectexception
 Palabra: nonzero
 Palabra: noob
-Palabra: noone
 Palabra: nops
 Palabra: norm
 Palabra: normal
@@ -6081,12 +5981,10 @@ Palabra: nosuchbeandefinitionexception
 Palabra: nosuchfielderror
 Palabra: nosuchmethod
 Palabra: nosuchmethoderror
-Palabra: not
 Palabra: notation
 Palabra: note
 Palabra: notempty
 Palabra: notes
-Palabra: nothing
 Palabra: notice
 Palabra: notices
 Palabra: notification
@@ -6097,7 +5995,6 @@ Palabra: notifier
 Palabra: notify
 Palabra: notifying
 Palabra: notnull
-Palabra: now
 Palabra: nph
 Palabra: nr
 Palabra: ns
@@ -6354,8 +6251,6 @@ Palabra: ode45
 Palabra: odersky
 Palabra: odoc
 Palabra: odp
-Palabra: of
-Palabra: off
 Palabra: offer
 Palabra: office
 Palabra: official
@@ -6364,7 +6259,6 @@ Palabra: offline
 Palabra: offset
 Palabra: offsite
 Palabra: ofobject
-Palabra: often
 Palabra: og
 Palabra: oh
 Palabra: ok
@@ -6378,15 +6272,12 @@ Palabra: oledb
 Palabra: omit
 Palabra: omitted
 Palabra: omittion
-Palabra: on
 Palabra: onbegin
 Palabra: onbindandvalidate
-Palabra: once
 Palabra: onchange
 Palabra: onclick
 Palabra: onconfirm
 Palabra: onconnection
-Palabra: one
 Palabra: onepage
 Palabra: ones
 Palabra: onestep
@@ -6397,7 +6288,6 @@ Palabra: onkeyup
 Palabra: online
 Palabra: onload
 Palabra: onloaded
-Palabra: only
 Palabra: onlys
 Palabra: onmouseover
 Palabra: onnotification
@@ -6412,7 +6302,6 @@ Palabra: onsubmitaction
 Palabra: onsuccess
 Palabra: ontextchanged
 Palabra: ontime
-Palabra: onto
 Palabra: ontologies
 Palabra: ontop
 Palabra: onworkflowitemchanged
@@ -6489,7 +6378,6 @@ Palabra: optomize
 Palabra: oqpsk
 Palabra: oqpskdemod
 Palabra: oqpskmod
-Palabra: or
 Palabra: ora
 Palabra: oracle
 Palabra: oracle10
@@ -6558,14 +6446,9 @@ Palabra: osx
 Palabra: osx10
 Palabra: otest
 Palabra: othe
-Palabra: other
-Palabra: others
 Palabra: othertype
-Palabra: otherwise
 Palabra: oull
 Palabra: ouput
-Palabra: our
-Palabra: out
 Palabra: outage
 Palabra: outer
 Palabra: outerkeyseletor
@@ -6588,7 +6471,6 @@ Palabra: outputs
 Palabra: outputting
 Palabra: outside
 Palabra: oval
-Palabra: over
 Palabra: overcome
 Palabra: overdue
 Palabra: overflow
@@ -6619,7 +6501,6 @@ Palabra: overwriting
 Palabra: overwritten
 Palabra: overwrote
 Palabra: owa
-Palabra: own
 Palabra: owned
 Palabra: owner
 Palabra: ownership
@@ -6793,7 +6674,6 @@ Palabra: peer
 Palabra: penalty
 Palabra: pentaho
 Palabra: people
-Palabra: per
 Palabra: perceived
 Palabra: percent
 Palabra: percentage
@@ -6811,7 +6691,6 @@ Palabra: performant
 Palabra: performing
 Palabra: performs
 Palabra: performselectoronmainthread
-Palabra: perhaps
 Palabra: period
 Palabra: periodic
 Palabra: periodically
@@ -7701,7 +7580,6 @@ Palabra: rar
 Palabra: raster
 Palabra: rate
 Palabra: rates
-Palabra: rather
 Palabra: rating
 Palabra: ratings
 Palabra: ratio
@@ -8312,7 +8190,6 @@ Palabra: sales
 Palabra: sales_order
 Palabra: salesforce
 Palabra: samba
-Palabra: same
 Palabra: same_origin_policy
 Palabra: sample
 Palabra: sample_en
@@ -8474,10 +8351,8 @@ Palabra: see
 Palabra: seeing
 Palabra: seek
 Palabra: seeking
-Palabra: seem
 Palabra: seemingly
 Palabra: seemlessly
-Palabra: seems
 Palabra: seen
 Palabra: sef
 Palabra: seg
@@ -8627,7 +8502,6 @@ Palabra: setups
 Palabra: setview
 Palabra: setviewport
 Palabra: sever
-Palabra: several
 Palabra: sevices
 Palabra: sf
 Palabra: sfauthorizationview
@@ -8661,7 +8535,6 @@ Palabra: sharing
 Palabra: shark
 Palabra: sharp
 Palabra: sharpsvn
-Palabra: she
 Palabra: shear
 Palabra: sheet
 Palabra: sheets
@@ -8700,7 +8573,6 @@ Palabra: shortening
 Palabra: shorter
 Palabra: shortest
 Palabra: shorthand
-Palabra: should
 Palabra: shouldn
 Palabra: shout
 Palabra: show
@@ -8779,7 +8651,6 @@ Palabra: simulink
 Palabra: simultaenous
 Palabra: simultaneous
 Palabra: simultaneously
-Palabra: since
 Palabra: sine
 Palabra: sing
 Palabra: singelton
@@ -8866,7 +8737,6 @@ Palabra: snippets
 Palabra: snmp
 Palabra: snow
 Palabra: snowflake
-Palabra: so
 Palabra: soap
 Palabra: soapexceptionimpl
 Palabra: soapheader
@@ -8888,16 +8758,9 @@ Palabra: solver
 Palabra: solvers
 Palabra: solving
 Palabra: som
-Palabra: some
 Palabra: somebody
-Palabra: somehow
 Palabra: someof
-Palabra: someone
-Palabra: something
-Palabra: sometime
-Palabra: sometimes
 Palabra: sometype
-Palabra: somewhere
 Palabra: somtimes
 Palabra: song
 Palabra: soon
@@ -9149,7 +9012,6 @@ Palabra: sth
 Palabra: sticky
 Palabra: stiffness
 Palabra: stile
-Palabra: still
 Palabra: sting
 Palabra: stink
 Palabra: stitch
@@ -9348,7 +9210,6 @@ Palabra: successfull
 Palabra: successfully
 Palabra: successive
 Palabra: sucess
-Palabra: such
 Palabra: sucks
 Palabra: sudden
 Palabra: suddenly
@@ -9622,18 +9483,13 @@ Palabra: tformfwd
 Palabra: tforminv
 Palabra: tfs
 Palabra: th
-Palabra: than
 Palabra: thanks
 Palabra: thare
-Palabra: that
-Palabra: the
 Palabra: the_author
 Palabra: the_author_posts_link
 Palabra: the_content
 Palabra: the_permalink
 Palabra: the_time
-Palabra: their
-Palabra: them
 Palabra: theme
 Palabra: theme_hook
 Palabra: theme_jcalendar_view
@@ -9641,19 +9497,15 @@ Palabra: theme_table
 Palabra: themeing
 Palabra: themes
 Palabra: theming
-Palabra: then
 Palabra: thenby
 Palabra: theorem
 Palabra: theoretical
 Palabra: theory
 Palabra: ther
-Palabra: there
 Palabra: thereof
-Palabra: these
 Palabra: theses
 Palabra: thesis
 Palabra: thet
-Palabra: they
 Palabra: thickbox
 Palabra: thin
 Palabra: thing
@@ -9664,11 +9516,8 @@ Palabra: think
 Palabra: thinking
 Palabra: thinks
 Palabra: third
-Palabra: this
 Palabra: thisworkbook
 Palabra: thoroughly
-Palabra: those
-Palabra: though
 Palabra: thought
 Palabra: thoughts
 Palabra: thousands
@@ -9684,14 +9533,11 @@ Palabra: threshold
 Palabra: thresholding
 Palabra: throttle
 Palabra: throttling
-Palabra: through
-Palabra: throughout
 Palabra: throught
 Palabra: throw
 Palabra: throwing
 Palabra: thrown
 Palabra: throws
-Palabra: thru
 Palabra: thumbnail
 Palabra: thumbnails
 Palabra: ti
@@ -9751,7 +9597,6 @@ Palabra: tmp
 Palabra: tmux
 Palabra: tns
 Palabra: tnsnames
-Palabra: to
 Palabra: to_char
 Palabra: to_date
 Palabra: to_nchar
@@ -9761,7 +9606,6 @@ Palabra: today
 Palabra: todictionary
 Palabra: todo
 Palabra: toenum
-Palabra: together
 Palabra: toggle
 Palabra: toggling
 Palabra: tointeger
@@ -9777,7 +9621,6 @@ Palabra: tomcat
 Palabra: tomcat6
 Palabra: tomorrow
 Palabra: tones
-Palabra: too
 Palabra: took
 Palabra: tool
 Palabra: toolbar
@@ -9805,7 +9648,6 @@ Palabra: total
 Palabra: totaling
 Palabra: touch
 Palabra: touchesmoved
-Palabra: toward
 Palabra: tp
 Palabra: tpl
 Palabra: tr
@@ -10054,7 +9896,6 @@ Palabra: undelcared
 Palabra: undeletable
 Palabra: undelete
 Palabra: undeployed
-Palabra: under
 Palabra: undercover
 Palabra: underline
 Palabra: underlying
@@ -10163,7 +10004,6 @@ Palabra: unsupported
 Palabra: unsupportedoperationexception
 Palabra: unsynchronize
 Palabra: untemplated
-Palabra: until
 Palabra: untrusted
 Palabra: unused
 Palabra: unusual
@@ -10171,7 +10011,6 @@ Palabra: unversion
 Palabra: unversioned
 Palabra: unwanted
 Palabra: unwrapping
-Palabra: up
 Palabra: upadate
 Palabra: upatepanel
 Palabra: upcoming
@@ -10202,7 +10041,6 @@ Palabra: uploading
 Palabra: uploads
 Palabra: uploded
 Palabra: upnp
-Palabra: upon
 Palabra: upper
 Palabra: uppercase
 Palabra: upsells
@@ -10222,7 +10060,6 @@ Palabra: urlfilenameviewcontroller
 Palabra: urlread
 Palabra: urls
 Palabra: urlwrite
-Palabra: us
 Palabra: usa
 Palabra: usability
 Palabra: usable
@@ -10375,13 +10212,11 @@ Palabra: verticalheaderitem
 Palabra: vertically
 Palabra: vertice
 Palabra: vertnav
-Palabra: very
 Palabra: vevtor
 Palabra: vexing
 Palabra: vhost
 Palabra: vhosts
 Palabra: vi
-Palabra: via
 Palabra: viable
 Palabra: vice
 Palabra: video
@@ -10496,7 +10331,6 @@ Palabra: warn
 Palabra: warning
 Palabra: warnings
 Palabra: wars
-Palabra: was
 Palabra: wat
 Palabra: watch
 Palabra: watchdog
@@ -10516,7 +10350,6 @@ Palabra: wcfsvchost
 Palabra: wchar_t
 Palabra: wdc
 Palabra: wdiff
-Palabra: we
 Palabra: weaknesses
 Palabra: weaving
 Palabra: web
@@ -10586,23 +10419,13 @@ Palabra: weiqi
 Palabra: weird
 Palabra: weirdness
 Palabra: welcome
-Palabra: well
 Palabra: went
-Palabra: were
 Palabra: wff
 Palabra: wget
-Palabra: what
-Palabra: whatever
 Palabra: whats
 Palabra: whatÔÇÖs
 Palabra: whay
 Palabra: wheel
-Palabra: when
-Palabra: whenever
-Palabra: where
-Palabra: whether
-Palabra: which
-Palabra: while
 Palabra: whilst
 Palabra: whiptail
 Palabra: white
@@ -10610,11 +10433,7 @@ Palabra: whitelist
 Palabra: whitelisted
 Palabra: whitespace
 Palabra: whitespaces
-Palabra: who
-Palabra: whole
-Palabra: whose
 Palabra: whta
-Palabra: why
 Palabra: wicket
 Palabra: wide
 Palabra: widget
@@ -10628,7 +10447,6 @@ Palabra: wikipedia
 Palabra: wild
 Palabra: wildcard
 Palabra: wildcards
-Palabra: will
 Palabra: willdisplaycell
 Palabra: win
 Palabra: win2k
@@ -10662,12 +10480,9 @@ Palabra: wisdom
 Palabra: wise
 Palabra: wish
 Palabra: wishlist
-Palabra: with
 Palabra: withattributedstring
 Palabra: withbehavior
-Palabra: within
 Palabra: withobject
-Palabra: without
 Palabra: witih
 Palabra: witout
 Palabra: wizard
@@ -10719,7 +10534,6 @@ Palabra: worpress
 Palabra: worry
 Palabra: worst
 Palabra: worth
-Palabra: would
 Palabra: wp
 Palabra: wp_count_posts
 Palabra: wp_die
@@ -10862,13 +10676,10 @@ Palabra: yes_no
 Palabra: yesno
 Palabra: yesnotype
 Palabra: yesod
-Palabra: yet
 Palabra: yhc
 Palabra: yield
 Palabra: yields
 Palabra: yiiframework
-Palabra: you
-Palabra: your
 Palabra: youtube
 Palabra: yslow
 Palabra: ytickslabels

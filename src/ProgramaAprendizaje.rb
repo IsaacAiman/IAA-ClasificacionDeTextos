@@ -1,3 +1,4 @@
+require './stopwords.rb'
 
 CATEGORIES = 20
 
@@ -13,7 +14,7 @@ def numPalabras (i, files)
   words_list = File.read("./../generatedFiles/corpus" + (i+1).to_s + ".txt").split(/[^[[:word:]]]/)
 
   words_list.each_with_index do |value, index|
-      if((value.length != 0)) then
+      if((value.length != 0) && (!STOP_WORDS.include? value.downcase)) then
           words << String(value.downcase)
       end
   end
@@ -26,12 +27,12 @@ end
 # Palabra:<cadena> Frec:<número entero> LogProb:<número real>
 def frecuenciaPalabras(i, files)
 
-  # Creación de arrauy con todas las palabras
+  # Creación de array con todas las palabras
   words = []
   words_list = File.read("./../generatedFiles/corpus" + (i+1).to_s + ".txt").split(/[^[[:word:]]]/)
 
   words_list.each_with_index do |value, index|
-      if((value.length != 0)) then
+      if((value.length != 0) && (!STOP_WORDS.include? value.downcase)) then
           words << String(value.downcase)
       end
   end

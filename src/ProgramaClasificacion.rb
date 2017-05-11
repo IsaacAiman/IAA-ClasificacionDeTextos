@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
+require './stopwords.rb'
 
 CATEGORIES = 20
 
@@ -59,7 +60,9 @@ def calcular_probabilidad(line, num_fichero)
 
   probabilidad = 0.0
   line.split(/[^[[:word:]]]/).reject(&:empty?).each do |word|
-    probabilidad += probabilidad_palabra(num_fichero, word, num_palabras_corpus)
+    if (!STOP_WORDS.include? word.downcase)
+      probabilidad += probabilidad_palabra(num_fichero, word, num_palabras_corpus)
+    end
   end
 
   return probabilidad
@@ -74,13 +77,13 @@ aciertos = 0
 
 $corpus.each do |line|
   contador += 1
-
+=begin
   if (contador > NUM_LINEAS[num_categoria - 1])
     puts num_categoria
     num_categoria +=1
     contador = 1
   end
-
+=end
   mayor = calcular_probabilidad(line, 0).to_f
   pos = 0
   (1..CATEGORIES - 1).each do |num_fichero|
@@ -91,14 +94,15 @@ $corpus.each do |line|
       pos = num_fichero
     end
   end
-  $clasificacion_file.write(line + " " + (pos + 1).to_s + "\n")
+  $clasificacion_file.write((pos + 1).to_s + "\n")
 
+=begin
   if ((pos + 1) == num_categoria)
     aciertos += 1
   end
-
+=end
 
 end
 
-puts ("Porcentaje de acierto: " + ((aciertos.to_f/19000).to_f*100).to_s) + "%"
+#puts ("Porcentaje de acierto: " + ((aciertos.to_f/19000).to_f*100).to_s) + "%"
 

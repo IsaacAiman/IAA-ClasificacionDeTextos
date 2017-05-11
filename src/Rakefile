@@ -1,0 +1,5 @@
+task :compile do
+	ruby "ProgramaVocabulario.rb"
+	ruby "ProgramaAprendizaje.rb"
+	ruby "ProgramaClasificacion.rb ./../generatedFiles/corpusTodo.txt"
+end
